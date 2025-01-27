@@ -1,0 +1,2 @@
+# Extraverted Thinking (Te)
+
