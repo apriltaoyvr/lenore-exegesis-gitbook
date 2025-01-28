@@ -1,6 +1,6 @@
 ---
-description: Contains State-of-Grace
 icon: money-bill-wave
+description: Contains State-of-Grace
 cover: >-
   https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxwbGFjZSUyMHlvdXIlMjBzdGFrZXN8ZW58MHx8fHwxNzM4MDM3Mzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -14,24 +14,24 @@ This might be what [Lenore Thomson](../people-and-systems/lenore-thomson/) means
 
 Perhaps from an extraverted standpoint, your stake in things is in the world:
 
-* In specific results that you want to achieve (Extraverted Thinking)
-* In your standing in the community and your relationships with specific people (Extraverted Feeling)&#x20;
-* In unknown and unrealized potential that you hope to release or make visible (Extraverted Intuition)&#x20;
-* In action and enjoyment right now, doing what comes naturally and obviously, seeing and being seen (Extraverted Sensation)
+* In specific results that you want to achieve ([Extraverted Thinking](../fundamentals/function-attitude/judgement/thinking/extraverted-thinking-te/))
+* In your standing in the community and your relationships with specific people ([Extraverted Feeling](../fundamentals/function-attitude/judgement/feeling/extraverted-feeling-fe.md))&#x20;
+* In unknown and unrealized potential that you hope to release or make visible ([Extraverted Intuition](../fundamentals/function-attitude/perception/intuition/extraverted-intuition-ne.md))&#x20;
+* In action and enjoyment right now, doing what comes naturally and obviously, seeing and being seen ([Extraverted Sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md))
 
 And perhaps from an introverted standpoint, your stake in things is not defined in terms of something in the world, but in the realization or existence, in any form, of a kind of pattern or way of being:
 
-* In harmony of elements, rational order, emergent design revealing an underlying principle (Introverted Thinking)&#x20;
-* In harmony between living needs and the environment (Introverted Feeling)&#x20;
-* In communion with a transcendent reality or with the totality of things, including what cannot be seen or even described (Introverted Intuition)&#x20;
-* In faithfulness to the natural order of things (Introverted Sensation)
+* In harmony of elements, rational order, emergent design revealing an underlying principle ([Introverted Thinking](../fundamentals/function-attitude/judgement/thinking/introverted-thinking-ti.md))&#x20;
+* In harmony between living needs and the environment ([Introverted Feeling](../fundamentals/function-attitude/judgement/feeling/introverted-feeling-fi.md))&#x20;
+* In communion with a transcendent reality or with the totality of things, including what cannot be seen or even described ([Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition-ni.md))&#x20;
+* In faithfulness to the natural order of things ([Introverted Sensation](../fundamentals/function-attitude/perception/sensation/introverted-sensation-si.md))
 
-Developing a function Developing A Function, then, would work like this:
+[Developing a function](../fundamentals/our-difficulties/terms-with-nonobvious-meanings/developing-a-function.md), then, would work like this:
 
 * For extraverted functions, finding things in the world to have a stake in, learning how to achieve them, and getting involved in the give-and-take of achieving them.
 * For introverted functions, becoming aware of something that matters to you, a calling, that could be realized in an infinity of possible ways.
 
-This suggests that [Developing A Function](broken-reference) is vastly more complex and difficult than [Gear-shifting Theories](gear-shifting.md) would suggest. It's not a matter of learning a skill or heuristic but of acquiring a consciously understood _stake_ in something. In the case of introversion, [Developing A Function](broken-reference) would consist of _recognizing_ your interest in living in a kind of [State Of Grace](place-your-stakes.md#state-of-grace) regardless of any particular circumstance in which you happen to be involved. In the case of extraversion, [Developing A Function](broken-reference) would mean _seeing yourself_ as having a stake in the world beyond your internal state, having to choose among and respond to worldly matters.
+This suggests that [Developing A Function](../fundamentals/our-difficulties/terms-with-nonobvious-meanings/developing-a-function.md) is vastly more complex and difficult than [Gear-shifting Theories](gear-shifting.md) would suggest. It's not a matter of learning a skill or heuristic but of acquiring a consciously understood _stake_ in something. In the case of introversion, [Developing A Function](../fundamentals/our-difficulties/terms-with-nonobvious-meanings/developing-a-function.md) would consist of _recognizing_ your interest in living in a kind of [State Of Grace](place-your-stakes.md#state-of-grace) regardless of any particular circumstance in which you happen to be involved. In the case of extraversion, [Developing A Function](../fundamentals/our-difficulties/terms-with-nonobvious-meanings/developing-a-function.md) would mean _seeing yourself_ as having a stake in the world beyond your internal state, having to choose among and respond to worldly matters.
 
 ## State Of Grace
 
