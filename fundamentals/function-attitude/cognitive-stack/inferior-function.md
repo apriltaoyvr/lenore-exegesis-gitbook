@@ -18,8 +18,7 @@ p. 76 (Describing split-brain patients):
 
 > "When the left and right brains are no longer cooperating, it becomes clear that each hemisphere has a distinct personality of its own--memories, experiences, self-awareness, and goals that conflict with those of the other hemisphere. Neurologists recognized the latter phenomenon when some split-brain patients developed a condition known as 'alien hand' syndrome. Their left hand literally interfered with things the right hand was attempting to do.
 >
-> "...Most of us favor functions governed by one side of the brain or another, which ensures that the 'alien side' of our personality receives little attention. Eventually, we reach a state of typological imbalance. Much as the 'alien hand' of a split-brain patient stops the other hand from opening a door or putting on a sock, our least-developed [function](../) asserts its own priorities, flooding us with impulses that interfere with our usual goals."\
->
+> "...Most of us favor functions governed by one side of the brain or another, which ensures that the 'alien side' of our personality receives little attention. Eventually, we reach a state of typological imbalance. Much as the 'alien hand' of a split-brain patient stops the other hand from opening a door or putting on a sock, our least-developed [function](../) asserts its own priorities, flooding us with impulses that interfere with our usual goals."
 
 Hypothesis: the Inferior Function is the [Semiotic Attitude](../../../sign-interpretation/semiotic-attitude/) through which you can see most clearly the parts of yourself that lurk in the [Yawning Void](https://web.archive.org/web/20070416085529/http://greenlightwiki.com/heuristic/Yawning_Void).
 

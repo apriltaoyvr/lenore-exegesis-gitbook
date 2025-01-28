@@ -60,7 +60,7 @@ And of course, via the [Tertiary Temptation](../fundamentals/function-attitude/c
 
 ### Synthesis of attitudes
 
-On the hypothesis proposed on this page, [Developing the Secondary](https://web.archive.org/web/20070118003702/http://greenlightwiki.com/lenore-exegesis/Developing_the_Secondary) would be finding a way to take seriously an [introverted or extraverted perspective](../fundamentals/function-attitude/attitude.md), whichever is opposed to one's basic physiological leaning. The [secondary function](../fundamentals/function-attitude/cognitive-stack/secondary-function/) offers a way to do that without the horrific J/P clash that results when you try to resolve conflict by pitting dominant and inferior attitudes directly against each other.
+On the hypothesis proposed on this page, [Developing the Secondary](../fundamentals/function-attitude/cognitive-stack/secondary-function/developing-the-secondary.md) would be finding a way to take seriously an [introverted or extraverted perspective](../fundamentals/function-attitude/attitude.md), whichever is opposed to one's basic physiological leaning. The [secondary function](../fundamentals/function-attitude/cognitive-stack/secondary-function/) offers a way to do that without the horrific J/P clash that results when you try to resolve conflict by pitting dominant and inferior attitudes directly against each other.
 
 ### Isn't this unusual in biology?
 

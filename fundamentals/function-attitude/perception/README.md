@@ -47,7 +47,7 @@ Focused Collapse uses specific, same type (ie. granny smith apples vs red delici
 
 ### No fixed reference points
 
-> p. 270: "[Introverted Perception](https://web.archive.org/web/20081027221523/http://greenlightwiki.com/lenore-exegesis/Introverted_Perception) ... suggests that outer reality has no fixed reference points."
+> p. 270: "Introverted Perception ... suggests that outer reality has no fixed reference points."
 
 #### Explanation of a Rhetorical Clash?
 
@@ -79,7 +79,7 @@ Sounds right to me. Ne leads to accepting an idea provisionally and seeing where
 
 [Lenore](../../../people-and-systems/lenore-thomson/) also says:
 
-> p. 67: "[Introverted Perception](https://web.archive.org/web/20081027221523/http://greenlightwiki.com/lenore-exegesis/Introverted_Perception) dictates an interest in _represented_ experience--words, facts, numbers, signs, and symbols: the kind of data that can be acquired or explored in the mind."
+> p. 67: "Introverted Perception dictates an interest in _represented_ experience--words, facts, numbers, signs, and symbols: the kind of data that can be acquired or explored in the mind."
 
 I don't understand how this relates to the sense that reality has no fixed reference points--the sense that reality, or experience, is a "jumble". Maybe because there are endlessly many ways to represent the same experience?
 

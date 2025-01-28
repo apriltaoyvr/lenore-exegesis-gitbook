@@ -100,6 +100,6 @@
 
 ## Meta
 
-* [❓ About](meta/about.md)
-* [About This Wiki (Archive)](meta/about-this-wiki-archive.md)
-* [How to Participate Here (Archive)](meta/how-to-participate-here-archive.md)
+* [❓ About](meta/about/README.md)
+  * [About This Wiki (Archive)](meta/about/about-this-wiki-archive.md)
+  * [How to Participate Here (Archive)](meta/about/how-to-participate-here-archive.md)
