@@ -34,7 +34,3 @@ Judaism would seem to be an Fe religion while Christianity is an Fi religion.
 Judaism is about a "chosen people". It's one tribe, a big family in a world that contains many families. In practice, the religion consists primarily of rituals through which people transmit practical wisdom about getting along in the world with others (the Fe view of ethics), and indicate that they cast their lot with the Jewish people.
 
 Christianity is about God's unconditional love for all his children. There is only one family, and it includes everyone. Christianity focuses on getting in touch with God, doing good works only because they are good, and thereby transcending all divisions of tribe and family.
-
-\
-\
-\

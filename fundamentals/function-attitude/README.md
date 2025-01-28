@@ -1,12 +1,12 @@
 ---
-description: What are function attitudes? What do they mean to Lenore?
 icon: head-side-brain
+description: What are function attitudes? What do they mean to Lenore?
 cover: >-
   https://images.unsplash.com/photo-1591040092219-081fb773589c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxqaWdzYXd8ZW58MHx8fHwxNzM4MDM2MjIzfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Function Attitude
+# 🧠 Function Attitude
 
 {% hint style="info" %}
 [Lenore](../../people-and-systems/lenore-thomson/) often refers to function-attitudes just as "**functions**", which goes back to Jung.
@@ -32,7 +32,7 @@ These are commonly grouped into **Perception** (Sensation and Intuition) and **J
 | Sensation             | Thinking          |
 | Intuition             | Feeling           |
 
-See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/truth-and-language.md) for more information on why this may be.
+See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md) for more information on why this may be.
 
 ## Function-attitudes
 
@@ -60,5 +60,3 @@ _...any other answers?_
 _A._ Jung, _Psychological Types_, p.273: He borrow terms coined by _Otto Gross_. The "primary function" and the "secondary function".
 
 A. Random House definition of function: #1 the kind of action or activity proper to any person or thing #2 the purpose for which something is designed or exists. As an INFJ, it makes perfect sense to me. Your function is what serves your purpose, it is what's proper to yourself. If you want more of where this came from, [check this out](https://web.archive.org/web/20071014000354/http://greenlightwiki.com/lenore-exegesis/check_this_out)
-
-\

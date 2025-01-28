@@ -1,8 +1,8 @@
 ---
+icon: face-raised-eyebrow
 description: >-
   There seems to be a great deal to personality that Lenore Thomson doesn't talk
   about.
-icon: face-raised-eyebrow
 cover: >-
   https://images.unsplash.com/photo-1602984338060-bfddce132ebc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3R8ZW58MHx8fHwxNzM4MDM3OTgxfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -34,7 +34,7 @@ For some overall attempts, see:
 
 * [Main Propositions](../../fundamentals/main-propositions.md)
 * [Parliament of Attitudes](../parliament-of-attitudes.md)
-* All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../cocooning-vs.-conforming.md) and [Truth-and-Language ](../truth-and-language.md)Exegesis.
+* All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../introversion-extraversion/cocooning-vs.-conforming.md) and [Truth-and-Language ](../introversion-extraversion/truth-and-language.md)Exegesis.
 
 ***
 

@@ -1,0 +1,33 @@
+---
+icon: folder-bookmark
+description: >-
+  An attempt to understand how introverted vs extraverted attitudes are embedded
+  in circumstances and perception
+cover: >-
+  https://images.unsplash.com/photo-1650530415027-dc9199f473ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxlbWJlZGRlZHxlbnwwfHx8fDE3MzgxMDI5NDZ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# Embedded
+
+Introversion and extraversion as judging ideas in the context of circumstance. Circumstance on this page refers to communal belief systems, frameworks of thinking, etc.
+
+Extraverted [function-attitudes](../../fundamentals/function-attitude/) trust in ideas rooted in circumstances and introverted [function-attitudes](../../fundamentals/function-attitude/) are skeptical of ideas rooted in circumstances and vice-versa.
+
+## Examples
+
+Se: Your facts are not rooted in circumstances, therefore they are superfluous.
+
+Si: Your facts are rooted in circumstances, therefore they are superfluous.
+
+Ne: Your ideas are not embedded in additional circumstances, therefore you are missing everything.
+
+Ni: Your ideas are embedded in circumstances in a certain way, therefore they miss nearly everything.
+
+Te: Your ideas are embedded in atemporal reality and not circumstances, therefore they are arbitrary.
+
+Ti: Your ideas are not embedded in atemporal reality as revealed through circumstances, therefore they are arbitrary.
+
+Fe: Your needs are embedded in circumstances, bonding you with other people. No needs exist apart from circumstances.
+
+Fi: Your needs are not embedded in circumstances. What you are is an essence that exists apart from any particular circumstance.

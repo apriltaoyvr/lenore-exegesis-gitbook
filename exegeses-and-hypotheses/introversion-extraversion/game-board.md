@@ -1,8 +1,6 @@
 ---
-description: >-
-  This might be what Lenore Thomson means by extraversion and introversion (as
-  attitudes that people can take, not as personality types).
 icon: game-board-simple
+description: Introversion and extraversion as exploration vs. winning
 cover: >-
   https://images.unsplash.com/photo-1602968407815-5963b28c66af?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxjaGVzc2JvYXJkfGVufDB8fHx8MTczODA0MDI1M3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -18,9 +16,9 @@ Taking an introverted attitude, you explore ideas and pursue goals without neces
 
 A saint might intentionally lose at the game in order to get right with God or atone for a past sin. From an extraverted attitude, saintliness is completely idiotic. Monopoly doesn't give you any points for atoning for past sins!
 
-## Looking at the [Function Attitudes](../fundamentals/function-attitude/) this way
+## Looking at the [Function Attitudes](../../fundamentals/function-attitude/) this way
 
-Here's how people might do [Ego Orientation](../sign-interpretation/orienting/ego-orientation.md) via their [Dominant Function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md) in this analogy:
+Here's how people might do [Ego Orientation](../../sign-interpretation/orienting/ego-orientation.md) via their [Dominant Function](../../fundamentals/function-attitude/cognitive-stack/dominant-function.md) in this analogy:
 
 Te: Apply strategies whose validity can be traced deductively back to the rules of the game. Exploit ways in which the rules of the game, as applied to the board at present, can combine to force your opponent's next move. It might not be apparent yet how your move will lead to victory, but you can always distinguish between a step toward it and a step away from it. A step toward it is one that constrains future possibilities such that a greater percentage of those possibilities are winners.
 
@@ -62,7 +60,7 @@ For example, an extravert whose cognitive style leans toward Se might take an Fi
 
 An introvert who tends toward an Fi style might draw upon Se in order to find ways to make serving the greater good noticeable and attractive to people. Hipness as market research for God.
 
-Developing a [Secondary Function](../fundamentals/function-attitude/cognitive-stack/secondary-function/), then, would be learning to take the opposite sort of attitude genuinely in the other way. For extraverts, seeing something beyond winning at the game in a way that everyone can see. For introverts, learning to take winning at the game seriously enough to defend your worldly interests.
+Developing a [Secondary Function](../../fundamentals/function-attitude/cognitive-stack/secondary-function/), then, would be learning to take the opposite sort of attitude genuinely in the other way. For extraverts, seeing something beyond winning at the game in a way that everyone can see. For introverts, learning to take winning at the game seriously enough to defend your worldly interests.
 
 \--[Ben Kovitz](https://web.archive.org/web/20070323132610/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
 

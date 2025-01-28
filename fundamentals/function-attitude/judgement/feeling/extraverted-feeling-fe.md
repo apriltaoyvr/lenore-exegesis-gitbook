@@ -72,5 +72,3 @@ This might actually force them to focus on improving themselves.
 See [Shaking Hands After a Game](https://web.archive.org/web/20071014114807/http://greenlightwiki.com/lenore-exegesis/Shaking_Hands_After_a_Game), [Foul Language](https://web.archive.org/web/20071014114742/http://greenlightwiki.com/lenore-exegesis/Foul_Language), [Seinfeld](https://web.archive.org/web/20071014043637/http://greenlightwiki.com/lenore-exegesis/Seinfeld), [Why Can't You Share Your Feelings](../../../../far-flung-explorations/why-cant-you-share-your-feelings.md).
 
 See also: [Feeling](./), other [Function Attitudes](../../).
-
-\

@@ -71,7 +71,7 @@ The above is somewhat different than how [Lenore](https://web.archive.org/web/20
 
 ## The attitude of multiple interpretations
 
-Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [Embedded](../../../../exegeses-and-hypotheses/embedded.md) in just one system of relationships, while the sign is [Embedded](../../../../exegeses-and-hypotheses/embedded.md) in all.
+Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in just one system of relationships, while the sign is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in all.
 
 When providing [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md), Intuition leads people to seek escape from the confines of any given way of making sense of things--to seek a greater, richer, more complex reality "beyond".
 
@@ -106,5 +106,3 @@ Introverted intuition works differently by shifting the _subject_. This is distu
 ***
 
 See other [Function Attitudes](../../), [Introverted Intuition and the Meaning of Music](../../../../far-flung-explorations/introverted-intuition-and-the-meaning-of-music.md).
-
-\

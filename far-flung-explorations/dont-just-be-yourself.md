@@ -36,7 +36,7 @@ Telling people to "be yourself" is only helpful when the person applying that ad
 
 ***
 
-See [Shallowness](shallowness.md), [Cocooning-vs.-conforming exegesis](../exegeses-and-hypotheses/cocooning-vs.-conforming.md), [Developing the Secondary](../fundamentals/function-attitude/cognitive-stack/secondary-function/developing-the-secondary.md).\
+See [Shallowness](shallowness.md), [Cocooning-vs.-conforming exegesis](../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md), [Developing the Secondary](../fundamentals/function-attitude/cognitive-stack/secondary-function/developing-the-secondary.md).\
 \
 \
 \

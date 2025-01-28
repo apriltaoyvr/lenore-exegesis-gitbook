@@ -32,6 +32,4 @@ An everyday example is to allow some extra time when leaving on a trip. The reas
 
 From the Si standpoint, the more you're going to depend on something, the more carefully you'd better inspect it, because you never know what unknown things might go awry, you only know that most of them are bad.
 
-(Compare [Extraverted Intuition](../intuition/extraverted-intuition-ne.md), which leads to the exact opposite attitude toward the unknown.)
-
-\
+(Compare [Extraverted Intuition](../intuition/extraverted-intuition-ne.md), which leads to the exact opposite attitude toward the unknown.)\

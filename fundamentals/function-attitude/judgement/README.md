@@ -1,11 +1,11 @@
 ---
-description: A page for the judgement attitudes (Feeling and Thinking)
 icon: gavel
+description: A page for the judgement attitudes (Feeling and Thinking)
 ---
 
 # Judgement
 
-See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/truth-and-language.md).
+See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md).
 
 ## Extraverted Judgment
 
@@ -55,10 +55,6 @@ The clash of Fe and Ti leads to attempts to argue over who society should respec
 
 The rebellion of Introverted Judgement against any external definition of reality is summed up in the words of [Jiddu Krishnamurti](https://web.archive.org/web/20070815023140/http://greenlightwiki.com/lenore-exegesis/Jiddu_Krishnamurti): "No organization can lead a man to truth. It is a hindrance, it can only impede. It blocks a man from sincere study. The truth comes from within, by seeing for yourself."
 
-_Would this also match with_ [_Lenore_](../../../people-and-systems/lenore-thomson/)_'s concept of_ [_Introverted Intuition_](../perception/intuition/introverted-intuition-ni.md)_? See, for example, the description on_ [_Truth-and-Language Exegesis_](../../../exegeses-and-hypotheses/truth-and-language.md)_. Ni is also about "seeing for yourself", but with a different emphasis: on finding your own interpretation, as opposed to finding the one, true, reality-fitting interpretation._
+_Would this also match with_ [_Lenore_](../../../people-and-systems/lenore-thomson/)_'s concept of_ [_Introverted Intuition_](../perception/intuition/introverted-intuition-ni.md)_? See, for example, the description on_ [_Truth-and-Language Exegesis_](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)_. Ni is also about "seeing for yourself", but with a different emphasis: on finding your own interpretation, as opposed to finding the one, true, reality-fitting interpretation._
 
 Yes. That particular quote sounds like either Ti or Ni, though the rest of Krishnamurti's work sounds like dominant Ni.\
-\
-
-
-\

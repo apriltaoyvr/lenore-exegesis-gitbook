@@ -4,7 +4,7 @@ description: Archive of the "About This Wiki" page
 
 # About This Wiki (Archive)
 
-### What this wiki is about
+## What this wiki is about
 
 This wiki is for understanding [Lenore Thomson](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/Lenore_Thomson)'s ideas about [psychological type](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/psychological_type), mostly as described in her book [Personality Type: An Owner's Manual](https://web.archive.org/web/20071014043137/http://www.amazon.com/exec/obidos/ASIN/0877739870/ref=ase_greenlightwik-20), and partly as she's talked about them on various Internet discussion lists.
 
@@ -20,4 +20,6 @@ While we eagerly welcome nearly any contribution of any Lenore-related ideas, we
 
 This wiki is hosted by [Ben Kovitz](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz).
 
-\
+## About the Logo
+
+If you're curious about the logo for _The Lenore Thomson Exegesis Wiki_, it's a redrawn figure from the Rider-Waite Tarot deck. For a hint about why that seemed an appropriate choice, see [Tea Leaves and Tarot Cards](../far-flung-explorations/tea-leaves-and-tarot-cards.md).\

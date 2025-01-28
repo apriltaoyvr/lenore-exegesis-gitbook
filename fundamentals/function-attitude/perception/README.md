@@ -1,11 +1,11 @@
 ---
-description: A page for the perception attitudes (Sensation and Intuition)
 icon: eye
+description: A page for the perception attitudes (Sensation and Intuition)
 ---
 
 # Perception
 
-See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/truth-and-language.md).
+See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md).
 
 ## Extraverted Perception
 
@@ -130,16 +130,5 @@ Taking an Si perspective, then, you simply find categories to put things in, and
 Taking an Ni perspective, you attend to the nature of whatever categories you come across: what they contain and what they leave out, what they assume about the context where they're applied, what (probably unstated) purposes are served by those categories, what cannot be said in terms of those categories (and that, if said, might unravel their power to seem real and meaningful).
 
 Si leads you to gradually accumulate a factual map of the world, or at least the parts of it that are of interest to you. Ni leads you to gradually accumulate an understanding of how different maps operate and to be able to compare the assumptions of different maps against each other.
-
-\
-
-
-\
-\
-
-
-\
-\
-
 
 [^1]: Types that have Extraverted Intuition as a dominant or secondary function

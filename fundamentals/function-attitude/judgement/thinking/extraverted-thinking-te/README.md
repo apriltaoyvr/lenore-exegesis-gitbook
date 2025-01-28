@@ -48,8 +48,6 @@ As a [tertiary defense](../../../cognitive-stack/tertiary-function/tertiary-defe
 
 See [Lowest-Common-Denominator Logic](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/Lowest-Common-Denominator_Logic), other [Function Attitudes](../../../), [Thinking](../).
 
-For an illustration of how Te sometimes manifests itself in conversation, see [King on the Mountain](../../../../../far-flung-explorations/king-on-the-mountain.md).\
-\
-
+For an illustration of how Te sometimes manifests itself in conversation, see [King on the Mountain](../../../../../far-flung-explorations/king-on-the-mountain.md).
 
 [^1]: Types with Extraverted Thinking as their dominant function

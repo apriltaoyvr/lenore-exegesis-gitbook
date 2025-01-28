@@ -31,7 +31,6 @@ Unmitigated Te runs into problems in real life because fairness is not the same 
 ***
 
 See also: [King on the Mountain](https://web.archive.org/web/20080101085002/http://greenlightwiki.com/lenore-exegesis/King_on_the_Mountain), [Shallowness](../../../../../far-flung-explorations/shallowness.md).\
-\
 
 
 [^1]: Types which use Extraverted Thinking or Extraverted Feeling as their dominant attitude

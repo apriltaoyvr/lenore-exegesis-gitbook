@@ -33,5 +33,3 @@ As a [dominant attitude](../../cognitive-stack/dominant-function.md):&#x20;
 To live, then, you need to continuously welcome the unknown, by always being ready to adjust in unanticipatable ways. What seems like a mistake is not a mistake when viewed in a larger pattern--and it's your job to find that larger pattern.
 
 (Compare [Introverted Sensation](../sensation/introverted-sensation-si.md), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
-
-\

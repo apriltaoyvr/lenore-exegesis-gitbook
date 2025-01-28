@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [👋 Welcome](README.md)
 
 ## Fundamentals
 
-* [Main Propositions](fundamentals/main-propositions.md)
-* [Function Attitude](fundamentals/function-attitude/README.md)
+* [✍️ Main Propositions](fundamentals/main-propositions.md)
+* [🧠 Function Attitude](fundamentals/function-attitude/README.md)
   * [Attitude](fundamentals/function-attitude/attitude.md)
   * [Perception](fundamentals/function-attitude/perception/README.md)
     * [Sensation](fundamentals/function-attitude/perception/sensation/README.md)
@@ -30,10 +30,11 @@
       * [Tertiary Temptation](fundamentals/function-attitude/cognitive-stack/tertiary-function/tertiary-temptation.md)
       * [Tertiary Defense](fundamentals/function-attitude/cognitive-stack/tertiary-function/tertiary-defense.md)
     * [Inferior Function](fundamentals/function-attitude/cognitive-stack/inferior-function.md)
-* [Our Difficulties](fundamentals/our-difficulties/README.md)
+* [❗ Our Difficulties](fundamentals/our-difficulties/README.md)
   * [Definition Problem](fundamentals/our-difficulties/definition-problem/README.md)
     * [Genus Problem](fundamentals/our-difficulties/definition-problem/genus-problem.md)
     * [Type Guesses and the Definition Problem](fundamentals/our-difficulties/definition-problem/type-guesses-and-the-definition-problem.md)
+    * [Type From Scratch](fundamentals/our-difficulties/definition-problem/type-from-scratch.md)
   * [Terms With Nonobvious Meanings](fundamentals/our-difficulties/terms-with-nonobvious-meanings/README.md)
     * [Rational and Irrational](fundamentals/our-difficulties/terms-with-nonobvious-meanings/rational-and-irrational.md)
     * [Developing A Function](fundamentals/our-difficulties/terms-with-nonobvious-meanings/developing-a-function.md)
@@ -41,31 +42,33 @@
 
 ## exegeses and hypotheses
 
-* [Exegesis](exegeses-and-hypotheses/exegesis/README.md)
+* [🕯️ Exegesis](exegeses-and-hypotheses/exegesis/README.md)
   * [Exegesis Basics](exegeses-and-hypotheses/exegesis/exegesis-basics.md)
-* [Truth-and-Language](exegeses-and-hypotheses/truth-and-language.md)
-* [Parliament of Attitudes](exegeses-and-hypotheses/parliament-of-attitudes.md)
-* [Cocooning-vs.-Conforming](exegeses-and-hypotheses/cocooning-vs.-conforming.md)
-* [Game-board](exegeses-and-hypotheses/game-board.md)
-* [Negotiation](exegeses-and-hypotheses/negotiation.md)
-* [Saints-and-Politicians](exegeses-and-hypotheses/saints-and-politicians.md)
-* [Place-Your-Stakes](exegeses-and-hypotheses/place-your-stakes.md)
-* [Gear-Shifting](exegeses-and-hypotheses/gear-shifting.md)
-* [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
-* [Superego](exegeses-and-hypotheses/superego.md)
 * [Not Personality](exegeses-and-hypotheses/not-personality/README.md)
   * [Not Cognitive Processes](exegeses-and-hypotheses/not-personality/not-cognitive-processes.md)
   * [Beyond Personality](exegeses-and-hypotheses/not-personality/beyond-personality.md)
   * [Investments vs. Essence](exegeses-and-hypotheses/not-personality/investments-vs.-essence.md)
-* [Embedded](exegeses-and-hypotheses/embedded.md)
+* [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
+* [Introversion-Extraversion](exegeses-and-hypotheses/introversion-extraversion/README.md)
+  * [Truth-and-Language](exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)
+  * [Cocooning-vs.-Conforming](exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md)
+  * [Game-board](exegeses-and-hypotheses/introversion-extraversion/game-board.md)
+  * [Negotiation](exegeses-and-hypotheses/introversion-extraversion/negotiation.md)
+  * [Saints-and-Politicians](exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians.md)
+  * [Place-Your-Stakes](exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md)
+  * [Embedded](exegeses-and-hypotheses/introversion-extraversion/embedded.md)
+* [Parliament of Attitudes](exegeses-and-hypotheses/parliament-of-attitudes.md)
+* [Gear-Shifting](exegeses-and-hypotheses/gear-shifting.md)
+* [Superego](exegeses-and-hypotheses/superego.md)
+* [Forward-Direction](exegeses-and-hypotheses/forward-direction.md)
 
 ## Sign interpretation
 
-* [Orienting](sign-interpretation/orienting/README.md)
+* [🧭 Orienting](sign-interpretation/orienting/README.md)
   * [Ego Orientation](sign-interpretation/orienting/ego-orientation.md)
   * [Orientation by Pop Culture](sign-interpretation/orienting/orientation-by-pop-culture.md)
   * [Life Strategies](sign-interpretation/orienting/life-strategies.md)
-* [Semiotic Attitude](sign-interpretation/semiotic-attitude/README.md)
+* [🚦 Semiotic Attitude](sign-interpretation/semiotic-attitude/README.md)
   * [Semiotically Disoriented](sign-interpretation/semiotic-attitude/semiotically-disoriented.md)
 
 ## Far-flung explorations
@@ -97,10 +100,6 @@
 
 ## Meta
 
-* [About](meta/about.md)
-* [Original Wiki](https://web.archive.org/web/20061030095423/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki)
-
-## Archive
-
-* [About This Wiki (Archive)](archive/about-this-wiki-archive.md)
-* [How to Participate Here (Archive)](archive/how-to-participate-here-archive.md)
+* [❓ About](meta/about.md)
+* [About This Wiki (Archive)](meta/about-this-wiki-archive.md)
+* [How to Participate Here (Archive)](meta/how-to-participate-here-archive.md)

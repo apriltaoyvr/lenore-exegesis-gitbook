@@ -50,6 +50,4 @@ _The sense of 'opposite' in the context of "orienting oneself by an attitude opp
 
 _The real-world issue is: what way of assigning meaning feels trustworthy, like you're on_ terra firma _and what feels like stepping into an abyss? And how did it come to seem that way? Exegetical hypothesis: if you leave these things out of your interpretation of Lenore's stuff, you won't see what she's talking about. In terms of the metaphor on_ [_Semiotic Attitude_](../../../../sign-interpretation/semiotic-attitude/)_, no matter how carefully you inspect your map, you'll never find them._
 
-_Does_ [_Lenore_](../../../../people-and-systems/lenore-thomson/) _frame any of her stuff in terms of axes?_
-
-\
+_Does_ [_Lenore_](../../../../people-and-systems/lenore-thomson/) _frame any of her stuff in terms of axes?_\

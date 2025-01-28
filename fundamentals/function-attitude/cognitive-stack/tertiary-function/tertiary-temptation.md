@@ -29,5 +29,3 @@ Tertiary Ne: "Ok, then, I'll bluff. We'll see how he responds to that. I don't k
 Tertiary Te: "Unfair!! I have to stick to my guns, I will not be bullied or cheated. Any number of authorities agree with me. All my friends agree with me. Everyone can see that my response is directly mandated by the situation: anything else would be irresponsible. These facts absolutely settle the matter, and there is no point in looking at it any further." The [Secondary Function](../secondary-function/) would say: "Fair or not, reasonable or not, recognized by anyone or not, what would truly accomplish some good here?"
 
 Tertiary Fe: "I'll lay a guilt trip on this guy, tell him all I've done for him and suggest that the next time he's in a tough spot, he might need my help. Well, hmm, ok, I'll be all friendly. I'll smile, tell him I like him, what a great guy he is. Well, hmm, that's not working, either. Ok, I'll make him look bad in the eyes of his friends." The [Secondary Function](../secondary-function/) would say: "What is the truth? Not what people would agree is true, not an angle on the truth for making it palatable to someone, but the whole, honest truth?"
-
-\

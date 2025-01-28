@@ -149,8 +149,4 @@ Quoting from a Terry Pratchett book "Small Gods":
 
 See also: [Thinking](./), [Louis Farrakhan](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Louis_Farrakhan), [Function Attitudes](../../), [Why Can't You Share Your Feelings](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Why_Can't_You_Share_Your_Feelings)
 
-\
-\
-
-
 [^1]: Extraverted Thinking and Extraverted Feeling

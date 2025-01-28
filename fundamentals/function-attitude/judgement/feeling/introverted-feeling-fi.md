@@ -54,4 +54,4 @@ Introverted feeling is judgement with an emotional slant that causes the individ
 
 Whatever the individual values the most will dominate the motivations, goals and chief objectives of the individual. For example, if the primary value is God, then all other values will find themselves inexorably subjugated to this primary one. Often, unbalanced introverted feeling will create in the individual dramatic mood swings and decisions based on illogical rationales. However, at its best, introverted feeling provides a navigational quality that creates in the personality tenacity, idealism, honor, relationship wisdom and a unfaltering value system that is seldom compromised.
 
-ROBERT BROOKS, INFP\
+ROBERT BROOKS, INFP

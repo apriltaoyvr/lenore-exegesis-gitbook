@@ -8,7 +8,7 @@ description: What does Lenore mean by "developing a function"?
 
 A great frustration of the book, though, is that she gives only the barest hints of what that means.
 
-The [Saints-and-Politicians Exegesis](../../../exegeses-and-hypotheses/saints-and-politicians.md) explores one idea for what it means to develop the [Secondary Function](../../function-attitude/cognitive-stack/secondary-function/). [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/place-your-stakes.md) explores another.
+The [Saints-and-Politicians Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians.md) explores one idea for what it means to develop the [Secondary Function](../../function-attitude/cognitive-stack/secondary-function/). [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md) explores another.
 
 ## In terms of negotiation
 

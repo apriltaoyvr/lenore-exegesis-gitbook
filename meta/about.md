@@ -1,13 +1,13 @@
 ---
-description: An about page for this site
 icon: question
+description: An about page for this site
 ---
 
-# About
+# ❓ About
 
 ## About this site
 
-An introduction to the archived Lenore Exegesis Wiki is available at [About This Wiki](../archive/about-this-wiki-archive.md). The original site has been offline since around 2014.&#x20;
+An introduction to the archived Lenore Exegesis Wiki is available at [About This Wiki](about-this-wiki-archive.md). The original site has been offline since around 2014.&#x20;
 
 If you're looking for information about the site you are reading now, it is a revival of the old wiki.&#x20;
 
@@ -27,7 +27,7 @@ My personal favourite pages were [How to Experience Different Function-Attitudes
 
 ### How to participate here
 
-The principles of the original [How to Participate Here](../archive/how-to-participate-here-archive.md) apply.&#x20;
+The principles of the original [How to Participate Here](how-to-participate-here-archive.md) apply.&#x20;
 
 My personal caveat is the site allows commenting on paragraphs directly. It would likely be tidier to use the comment and annotate functions that come with Gitbook than to add light commentary on the page itself. Additional theories and observations are welcome for the pages though.
 

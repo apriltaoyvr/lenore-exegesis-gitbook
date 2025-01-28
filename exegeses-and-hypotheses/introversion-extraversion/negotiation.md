@@ -1,8 +1,6 @@
 ---
-description: >-
-  What Lenore Thomson might mean by extraversion and introversion (as attitudes
-  that people can take, not as personality types).
 icon: handshake
+description: Introversion and extraversion as understanding vs. negotiation
 cover: >-
   https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxuZWdvdGlhdGlvbnxlbnwwfHx8fDE3MzgwMzc4Njh8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -36,7 +34,7 @@ _Possible explanation:_ These ENTJs are usually quick to jump to a false conclus
 
 ## Negotiation Basics
 
-If [Extraverted attitudes](../fundamentals/function-attitude/attitude.md) show you the world primarily as a place to negotiate (as proposed on Negotiation Exegesis and [Saints-and-Politicians Exegesis](saints-and-politicians.md)), maybe we could learn something about Lenore's ideas by looking at different ways to negotiate.
+If [Extraverted attitudes](../../fundamentals/function-attitude/attitude.md) show you the world primarily as a place to negotiate (as proposed on Negotiation Exegesis and [Saints-and-Politicians Exegesis](saints-and-politicians.md)), maybe we could learn something about Lenore's ideas by looking at different ways to negotiate.
 
 ### Know your alternatives
 
@@ -54,7 +52,7 @@ Negotiation is forcing a choice. You take a position; the other party must accep
 
 ### Different interests
 
-Your interests and those of the other party are not the same. There is some commonality, which you exploit to make a deal, but each of you has different options available to you and different ways of ranking them. In contrast to an [Introverted ](../fundamentals/function-attitude/attitude.md)approach, the object of negotiation is not to find a right way of valuing things, which everyone should see and conform to, it's to exploit the existing differences and commonalities between the way you and the other party really value things.
+Your interests and those of the other party are not the same. There is some commonality, which you exploit to make a deal, but each of you has different options available to you and different ways of ranking them. In contrast to an [Introverted ](../../fundamentals/function-attitude/attitude.md)approach, the object of negotiation is not to find a right way of valuing things, which everyone should see and conform to, it's to exploit the existing differences and commonalities between the way you and the other party really value things.
 
 ***
 
