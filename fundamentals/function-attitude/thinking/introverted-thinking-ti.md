@@ -1,2 +1,0 @@
-# Introverted Thinking (Ti)
-

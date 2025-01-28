@@ -19,9 +19,9 @@ layout:
 
 # 👋 Welcome
 
-This is a recreation of the original _Lenore Thomson Exegesis Wiki_ by [Ben Kovitz](https://wiki.c2.com/?BenKovitz). The original wiki is available on the [Wayback Machine](https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki). Why do this? You can learn more on the [About](meta/about.md#about-this-site) page.
+This is a recreation of the original [_Lenore Thomson Exegesis Wiki_](https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki) by [Ben Kovitz](https://wiki.c2.com/?BenKovitz). Why do this? You can learn more on the [About](meta/about.md#about-this-site) page.
 
-For those familiar with [Myers-Briggs](people-and-systems/myers-briggs.md) but not [function attitudes](fundamentals/function-attitude/) or [Jungian functions](people-and-systems/carl-jung.md), the [Main Propositions](fundamentals/main-propositions/) and [Not Personality](exegeses-and-hypotheses/not-personality/) would be a good starting place afterwards. [Lenore](people-and-systems/lenore-thomson/)'s focus on the types and functions are different than those of Myers and Briggs.
+For those familiar with [Myers-Briggs](people-and-systems/myers-briggs.md) but not [function attitudes](fundamentals/function-attitude/) or [Jungian functions](people-and-systems/carl-jung.md), the [Main Propositions](fundamentals/main-propositions.md) and [Not Personality](exegeses-and-hypotheses/not-personality/) will be of interest.
 
 ## Original Introduction
 

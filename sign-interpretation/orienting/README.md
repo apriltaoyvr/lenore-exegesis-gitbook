@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1518065896235-a4c93e088e7a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb21wYXNzfGVufDB8fHx8MTczODAzNjMwMHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # 🧭 Orienting
 
 What is the difference between an introverted way of orienting yourself and an extraverted way of orienting yourself?
@@ -42,7 +48,7 @@ This difference shows itself in a common philosophical difference regarding whet
 
 ## A question
 
-_Q._ Doesn't the distinction illustrated above have more to do with the matter of [Sensing ](../../fundamentals/function-attitude/sensation/)vs. [iNtuition ](../../fundamentals/function-attitude/intuition/)(rather than with [Extraverted/Introverted](../../fundamentals/function-attitude/attitude.md)) ? isn't it typical of "S" (regardless of whether they are "I" or "E") to have their understanding grounded in "what is easily perceivable here and now"? isn't it characteristic of "N" (be they "EN" or "IN") to "prefer" the more abstract notion of "street as represented by a line on a map" to "street as these buildings and traffic lights and shop signs"?
+_Q._ Doesn't the distinction illustrated above have more to do with the matter of [Sensing ](../../fundamentals/function-attitude/perception/sensation/)vs. [iNtuition ](../../fundamentals/function-attitude/perception/intuition/)(rather than with [Extraverted/Introverted](../../fundamentals/function-attitude/attitude.md)) ? isn't it typical of "S" (regardless of whether they are "I" or "E") to have their understanding grounded in "what is easily perceivable here and now"? isn't it characteristic of "N" (be they "EN" or "IN") to "prefer" the more abstract notion of "street as represented by a line on a map" to "street as these buildings and traffic lights and shop signs"?
 
 Perhaps, one way to resolve this is to find an IS and an EN and ask them. :)
 

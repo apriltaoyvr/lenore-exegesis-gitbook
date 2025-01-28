@@ -1,2 +1,0 @@
-# Introverted Feeling (Fi)
-

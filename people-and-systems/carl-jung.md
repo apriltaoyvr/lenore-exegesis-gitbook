@@ -1,8 +1,13 @@
+---
+description: >-
+  Carl Gustav Jung was a Swiss psychiatrist, psychotherapist, psychologist and
+  pioneering evolutionary theorist who founded the school of analytical
+  psychology.
+---
+
 # Carl Jung
 
-**Carl Gustav Jung** was a Swiss psychiatrist, psychotherapist, psychologist and pioneering evolutionary theorist who founded the school of analytical psychology.&#x20;
-
-He wrote [_Psychological Types_](https://www.amazon.ca/Psychological-Types-Carl-Jung/dp/1138687421), a foundational work behind [Thomson](lenore-thomson/)'s Personality Type: An Owner's Manual. One could argue he's the granddaddy of these systems (Thomson's, MBTI, Socionics, etc.).
+Jung wrote [_Psychological Types_](https://www.amazon.ca/Psychological-Types-Carl-Jung/dp/1138687421), a foundational work behind [Thomson](lenore-thomson/)'s Personality Type: An Owner's Manual. One could argue he's the granddaddy of these systems (Thomson's, MBTI, Socionics, etc.).
 
 ***
 
@@ -30,5 +35,5 @@ If he isn't an ISTJ, he's most likely an INTJ.
 
 ***
 
-See also: [http://urticator.net,](http://www.urticator.net/) [ISTJs](https://web.archive.org/web/20071215001911/http://greenlightwiki.com/lenore-exegesis/ISTJs), [introverted sensation](../fundamentals/function-attitude/sensation/introverted-sensation-si.md)
+See also: [http://urticator.net,](http://www.urticator.net/) [ISTJs](https://web.archive.org/web/20071215001911/http://greenlightwiki.com/lenore-exegesis/ISTJs), [introverted sensation](../fundamentals/function-attitude/perception/sensation/introverted-sensation-si.md)
 

@@ -1,5 +1,9 @@
 ---
 description: Contains State-of-Grace
+icon: money-bill-wave
+cover: >-
+  https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxwbGFjZSUyMHlvdXIlMjBzdGFrZXN8ZW58MHx8fHwxNzM4MDM3Mzg4fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Place-Your-Stakes
@@ -27,7 +31,7 @@ Developing a function Developing A Function, then, would work like this:
 * For extraverted functions, finding things in the world to have a stake in, learning how to achieve them, and getting involved in the give-and-take of achieving them.
 * For introverted functions, becoming aware of something that matters to you, a calling, that could be realized in an infinity of possible ways.
 
-This suggests that [Developing A Function](../fundamentals/main-propositions/developing-a-function.md) is vastly more complex and difficult than [Gear-shifting Theories](gear-shifting.md) would suggest. It's not a matter of learning a skill or heuristic but of acquiring a consciously understood _stake_ in something. In the case of introversion, [Developing A Function](../fundamentals/main-propositions/developing-a-function.md) would consist of _recognizing_ your interest in living in a kind of [State Of Grace](place-your-stakes.md#state-of-grace) regardless of any particular circumstance in which you happen to be involved. In the case of extraversion, [Developing A Function](../fundamentals/main-propositions/developing-a-function.md) would mean _seeing yourself_ as having a stake in the world beyond your internal state, having to choose among and respond to worldly matters.
+This suggests that [Developing A Function](broken-reference) is vastly more complex and difficult than [Gear-shifting Theories](gear-shifting.md) would suggest. It's not a matter of learning a skill or heuristic but of acquiring a consciously understood _stake_ in something. In the case of introversion, [Developing A Function](broken-reference) would consist of _recognizing_ your interest in living in a kind of [State Of Grace](place-your-stakes.md#state-of-grace) regardless of any particular circumstance in which you happen to be involved. In the case of extraversion, [Developing A Function](broken-reference) would mean _seeing yourself_ as having a stake in the world beyond your internal state, having to choose among and respond to worldly matters.
 
 ## State Of Grace
 

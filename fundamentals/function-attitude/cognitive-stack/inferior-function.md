@@ -2,7 +2,7 @@
 
 In [Lenore](../../../people-and-systems/lenore-thomson/)'s theory, the **inferior** [**function** ](../)is an attitude that is pushed out of consciousness as a person develops a [Dominant Function](dominant-function.md). The inferior function still exerts an influence on the person, but in a childish way. It leads the person to try to fulfill neglected needs, but in ways that clash with the rest of the person's life and self-understanding. When you get way out of balance, the inferior attitude "floods" you with motives and emotions you don't understand. You fall into a sort of ego-vertigo.
 
-One of Lenore's [Main Propositions](../../main-propositions/) is that you can't solve those sorts of problems by developing your inferior function directly. She says that the path to consciously incorporating these neglected elements of yourself is through your [Secondary Function](secondary-function/).
+One of Lenore's [Main Propositions](../../main-propositions.md) is that you can't solve those sorts of problems by developing your inferior function directly. She says that the path to consciously incorporating these neglected elements of yourself is through your [Secondary Function](secondary-function/).
 
 See [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/place-your-stakes.md) for an exploration of how and why pressure from the Inferior Function happens.
 
@@ -45,7 +45,7 @@ Dealing with spectrum behavior (ala the enneagram levels of development, Big 5s 
 * Schizoid
 * Manic Depressive
 
-In his descriptions of [Introverted Thinking](../thinking/introverted-thinking-ti.md) Jung directly correlated the type-specific neurotic behavior with psychasthenia (which correlates to Schizophrenia, and to enneagram type 5).This overflows somewhat to 4w5 INTJs - depressive schizophrenia - Haruki Murakami's book Hard-boiled Wonderland and the End of the World; and to 6w5 INFPs - paranoid schizophrenia - Adolf Hitler; and to some 8s - L. Ron Hubbard.
+In his descriptions of [Introverted Thinking](../judgement/thinking/introverted-thinking-ti.md) Jung directly correlated the type-specific neurotic behavior with psychasthenia (which correlates to Schizophrenia, and to enneagram type 5).This overflows somewhat to 4w5 INTJs - depressive schizophrenia - Haruki Murakami's book Hard-boiled Wonderland and the End of the World; and to 6w5 INFPs - paranoid schizophrenia - Adolf Hitler; and to some 8s - L. Ron Hubbard.
 
 ***
 

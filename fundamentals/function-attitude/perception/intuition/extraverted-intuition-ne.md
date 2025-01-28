@@ -1,22 +1,22 @@
+---
+description: What does Lenore mean by "Extraverted Intuition"? (Often abbreviated "Ne".)
+---
+
 # Extraverted Intuition (Ne)
-
-What does Lenore mean by "Extraverted Intuition"?
-
-(Often abbreviated "Ne".)
-
-***
 
 ## Quasi-Defining Statements
 
 > p. 196: "Intuition draws our attention to context and we adapt to sensory events in terms of it."
 >
-> p. 197: "Once we've grasped a whole pattern, we can envision options that don't yet exist. Indeed, one of the drawbacks of Intuition is that it conjures up a future before we know very much about the present. For example, given enough elements to suggest a star or a square, we have a hard time not filling in the blanks and seeing the complete image."
+> p. 197: "Once we've grasped a whole pattern, we can envision options that don't yet exist. Indeed, one of the drawbacks of [Intuition](./) is that it conjures up a future before we know very much about the present. For example, given enough elements to suggest a star or a square, we have a hard time not filling in the blanks and seeing the complete image."
 >
 > p. 198: "...to leap from a few immediate cues to a quick impression of the whole..."
 >
 > p. 223: "Extraverted Intuition would move us to unify our sense impressions with their larger context, thereby creating new options for meaning and response."
->
-> p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an Extraverted type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
+
+As a [dominant attitude](../../cognitive-stack/dominant-function.md):&#x20;
+
+> p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an [Extraverted](../../attitude.md) type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
 
 ***
 
@@ -32,6 +32,6 @@ What does Lenore mean by "Extraverted Intuition"?
 
 To live, then, you need to continuously welcome the unknown, by always being ready to adjust in unanticipatable ways. What seems like a mistake is not a mistake when viewed in a larger pattern--and it's your job to find that larger pattern.
 
-(Compare Introverted Sensation, which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
+(Compare [Introverted Sensation](../sensation/introverted-sensation-si.md), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
 
 \

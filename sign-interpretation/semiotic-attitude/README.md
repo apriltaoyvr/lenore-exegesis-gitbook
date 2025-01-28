@@ -1,4 +1,10 @@
-# 🛣️ Semiotic Attitude
+---
+cover: >-
+  https://images.unsplash.com/photo-1483213097419-365e22f0f258?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzaWdufGVufDB8fHx8MTczODAzNjMzNHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 🚦 Semiotic Attitude
 
 [Semiotics](https://en.wikipedia.org/wiki/Semiotics) is the systematic study of sign processes and the communication of meaning. In semiotics, a sign is defined as anything that communicates intentional and unintentional meaning or feelings to the sign's interpreter.
 

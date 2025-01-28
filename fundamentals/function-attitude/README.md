@@ -1,4 +1,7 @@
 ---
+description: What are function attitudes? What do they mean to Lenore?
+cover: >-
+  https://images.unsplash.com/photo-1591040092219-081fb773589c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxqaWdzYXd8ZW58MHx8fHwxNzM4MDM2MjIzfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -16,12 +19,12 @@ A _function-attitude_ is a [Jungian](../../people-and-systems/carl-jung.md) func
 
 In [Lenore'](../../people-and-systems/lenore-thomson/)s system, there are four functions:
 
-* [Sensation](sensation/)
-* [Intuition](intuition/)
-* [Thinking](thinking/)
-* [Feeling](feeling/)
+* [Sensation](perception/sensation/)
+* [Intuition](perception/intuition/)
+* [Thinking](judgement/thinking/)
+* [Feeling](judgement/feeling/)
 
-These are commonly grouped into **Perception** (Sensation and Intuition) and **Judgment** (Thinking and Feeling) within [Jungian ](../../people-and-systems/carl-jung.md)typology. [**Irrational** and **rational**](../our-difficulties/terms-with-nonobvious-meanings/rational-and-irrational.md) are used respectively as well.
+These are commonly grouped into **Perception** (Sensation and Intuition) and **Judgment** (Thinking and Feeling) within [Jungian ](../../people-and-systems/carl-jung.md)typology. [**Irrational** and **rational**](../our-difficulties/terms-with-nonobvious-meanings/rational-and-irrational.md) are used respectively as well, albeit differently than common utilisation.
 
 | Perception/Irrational | Judgment/Rational |
 | --------------------- | ----------------- |
@@ -34,18 +37,18 @@ See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/truth-and-langua
 
 These four functions are then split into introverted and extraverted functions according to how one [orients](../../sign-interpretation/orienting/) themselves.
 
-| Extraverted                                                         | Introverted                                                         |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Extraverted Sensation (Se)](sensation/extraverted-sensation-se.md) | [Introverted Sensation (Si)](sensation/introverted-sensation-si.md) |
-| [Extraverted Intuition (Ne)](intuition/extraverted-intuition-ne.md) | [Introverted Intuition (Ni)](intuition/introverted-intuition-ni.md) |
-| [Extraverted Thinking (Te)](thinking/extraverted-thinking-te.md)    | [Introverted Thinking (Ti)](thinking/introverted-thinking-ti.md)    |
-| [Extraverted Feeling (Fe)](feeling/extraverted-feeling-fe.md)       | [Introverted Feeling (Fi)](feeling/introverted-feeling-fi.md)       |
+| Extraverted                                                                    | Introverted                                                                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| [Extraverted Sensation (Se)](perception/sensation/extraverted-sensation-se.md) | [Introverted Sensation (Si)](perception/sensation/introverted-sensation-si.md) |
+| [Extraverted Intuition (Ne)](perception/intuition/extraverted-intuition-ne.md) | [Introverted Intuition (Ni)](perception/intuition/introverted-intuition-ni.md) |
+| [Extraverted Thinking (Te)](judgement/thinking/extraverted-thinking-te/)       | [Introverted Thinking (Ti)](judgement/thinking/introverted-thinking-ti.md)     |
+| [Extraverted Feeling (Fe)](judgement/feeling/extraverted-feeling-fe.md)        | [Introverted Feeling (Fi)](judgement/feeling/introverted-feeling-fi.md)        |
 
 Exactly what a function-attitude _is_ is the main part of the [Definition Problem](../our-difficulties/definition-problem/). See also [Genus Problem](../our-difficulties/definition-problem/genus-problem.md).
 
 ***
 
-## Jung's choice of terminology
+## [Jung](../../people-and-systems/carl-jung.md)'s choice of terminology
 
 _Q._ Why did Jung choose the term "function"?
 

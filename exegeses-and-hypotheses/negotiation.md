@@ -1,8 +1,14 @@
-# Negotiation Exegesis
+---
+description: >-
+  What Lenore Thomson might mean by extraversion and introversion (as attitudes
+  that people can take, not as personality types).
+icon: handshake
+cover: >-
+  https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxuZWdvdGlhdGlvbnxlbnwwfHx8fDE3MzgwMzc4Njh8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
 
-This might be what [Lenore Thomson](../people-and-systems/lenore-thomson/) means by _extraversion_ and _introversion_ (as [attitudes ](../fundamentals/function-attitude/attitude.md)that people can take, not as personality types).
-
-***
+# Negotiation
 
 ## Exegesis
 

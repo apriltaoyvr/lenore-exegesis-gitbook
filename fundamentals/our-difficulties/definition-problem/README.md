@@ -6,7 +6,7 @@ People merrily "type" famous people by giving them four-letter codes. Different 
 
 ***
 
-See [Type Guesses and the Definition Problem](https://web.archive.org/web/20071014031033/http://greenlightwiki.com/lenore-exegesis/Type_Guesses_and_the_Definition_Problem) for more detail.
+See [Type Guesses and the Definition Problem](type-guesses-and-the-definition-problem.md) for more detail.
 
 See [Genus Problem](genus-problem.md) for more depth.
 

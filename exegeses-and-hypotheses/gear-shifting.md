@@ -1,6 +1,12 @@
-# Gear-Shifting
+---
+description: What does Lenore mean by her terminology of Function Attitudes?
+icon: head-side-gear
+cover: >-
+  https://images.unsplash.com/photo-1593062037896-764e9f52029e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxnZWFyc3xlbnwwfHx8fDE3MzgwMzc5MDF8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
 
-What does [Lenore](../people-and-systems/lenore-thomson/) mean by her terminology of [Function Attitudes](../fundamentals/function-attitude/)?
+# Gear-Shifting
 
 ## A gear-shifting exegesis
 
@@ -21,7 +27,7 @@ The "representations" described above are things like words, numbers, and diagra
 ## Some problems with this exegesis
 
 * It's a pure gear-shifting theory: just a collection of heuristics, suggesting nothing about internal conflicts, self-identity, why people would cling to one of these, or why a Secondary Function would be so helpful.
-* It offers no answer to the question of why the same words are used to describe different [Function Attitudes](../fundamentals/function-attitude/): for example, what the different [Introverted attitudes](../fundamentals/function-attitude/attitude.md) have in common, or what the different [Sensation ](../fundamentals/function-attitude/sensation/)attitudes have in common.
+* It offers no answer to the question of why the same words are used to describe different [Function Attitudes](../fundamentals/function-attitude/): for example, what the different [Introverted attitudes](../fundamentals/function-attitude/attitude.md) have in common, or what the different [Sensation ](../fundamentals/function-attitude/perception/sensation/)attitudes have in common.
 
 And yet, it seems to map well to actual people who fit the type profiles.
 

@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1582310849090-1619cba6c7c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxkaWZmaWN1bHR5fGVufDB8fHx8MTczODAzNjI0Mnww&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -38,4 +40,4 @@ Here are some of the difficulties that we've had in our attempts to understand L
 * Who is Alice?
 * What are Altars In The Wilderness?
 
-See also: [Main Propositions](../main-propositions/), [Tea Leaves And Tarot Cards](https://web.archive.org/web/20061112223857/http://greenlightwiki.com/lenore-exegesis/Tea_Leaves_And_Tarot_Cards)
+See also: [Main Propositions](../main-propositions.md), [Tea Leaves And Tarot Cards](../../far-flung-explorations/tea-leaves-and-tarot-cards.md)
