@@ -1,8 +1,9 @@
 ---
 description: An about page for this site
+icon: question
 ---
 
-# ❓ About
+# About
 
 ## About this site
 

@@ -97,8 +97,8 @@
 
 ## Meta
 
-* [❓ About](meta/about.md)
-* [🌐 Original Wiki](https://web.archive.org/web/20061030095423/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki)
+* [About](meta/about.md)
+* [Original Wiki](https://web.archive.org/web/20061030095423/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki)
 
 ## Archive
 
