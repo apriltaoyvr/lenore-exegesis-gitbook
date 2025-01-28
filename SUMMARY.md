@@ -61,11 +61,11 @@
 
 ## Sign interpretation
 
-* [🧭 Orienting](sign-interpretation/orienting/README.md)
+* [Orienting](sign-interpretation/orienting/README.md)
   * [Ego Orientation](sign-interpretation/orienting/ego-orientation.md)
   * [Orientation by Pop Culture](sign-interpretation/orienting/orientation-by-pop-culture.md)
   * [Life Strategies](sign-interpretation/orienting/life-strategies.md)
-* [🚦 Semiotic Attitude](sign-interpretation/semiotic-attitude/README.md)
+* [Semiotic Attitude](sign-interpretation/semiotic-attitude/README.md)
   * [Semiotically Disoriented](sign-interpretation/semiotic-attitude/semiotically-disoriented.md)
 
 ## Far-flung explorations

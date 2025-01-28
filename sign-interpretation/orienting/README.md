@@ -1,10 +1,11 @@
 ---
+icon: compass
 cover: >-
   https://images.unsplash.com/photo-1518065896235-a4c93e088e7a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb21wYXNzfGVufDB8fHx8MTczODAzNjMwMHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🧭 Orienting
+# Orienting
 
 What is the difference between an introverted way of orienting yourself and an extraverted way of orienting yourself?
 
