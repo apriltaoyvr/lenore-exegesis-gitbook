@@ -1,4 +1,5 @@
 ---
+icon: hand-wave
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
@@ -17,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 👋 Welcome
+# Welcome
 
 This is a recreation of the original [_Lenore Thomson Exegesis Wiki_](https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki) by [Ben Kovitz](https://wiki.c2.com/?BenKovitz). Why do this? You can learn more on the [About](meta/about.md#about-this-site) page.
 

@@ -1,11 +1,12 @@
 ---
 description: Definition of exegesis
+icon: candle-holder
 cover: >-
   https://images.unsplash.com/photo-1728852575736-d76338d15b76?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxoZXJtaXQlMjBwYWludGluZ3xlbnwwfHx8fDE3MzgwMzYyNzl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🕯️ Exegesis
+# Exegesis
 
 _Exegesis_ is the attempt to spell out an interpretation of a text, or to figure out what is the most accurate interpretation of a text.
 

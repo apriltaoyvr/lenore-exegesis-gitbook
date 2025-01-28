@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [Welcome](README.md)
 
 ## Fundamentals
 
-* [✍️ Main Propositions](fundamentals/main-propositions.md)
-* [🧠 Function Attitude](fundamentals/function-attitude/README.md)
+* [Main Propositions](fundamentals/main-propositions.md)
+* [Function Attitude](fundamentals/function-attitude/README.md)
   * [Attitude](fundamentals/function-attitude/attitude.md)
   * [Perception](fundamentals/function-attitude/perception/README.md)
     * [Sensation](fundamentals/function-attitude/perception/sensation/README.md)
@@ -30,7 +30,7 @@
       * [Tertiary Temptation](fundamentals/function-attitude/cognitive-stack/tertiary-function/tertiary-temptation.md)
       * [Tertiary Defense](fundamentals/function-attitude/cognitive-stack/tertiary-function/tertiary-defense.md)
     * [Inferior Function](fundamentals/function-attitude/cognitive-stack/inferior-function.md)
-* [🤷 Our Difficulties](fundamentals/our-difficulties/README.md)
+* [Our Difficulties](fundamentals/our-difficulties/README.md)
   * [Definition Problem](fundamentals/our-difficulties/definition-problem/README.md)
     * [Genus Problem](fundamentals/our-difficulties/definition-problem/genus-problem.md)
     * [Type Guesses and the Definition Problem](fundamentals/our-difficulties/definition-problem/type-guesses-and-the-definition-problem.md)
@@ -41,7 +41,7 @@
 
 ## exegeses and hypotheses
 
-* [🕯️ Exegesis](exegeses-and-hypotheses/exegesis/README.md)
+* [Exegesis](exegeses-and-hypotheses/exegesis/README.md)
   * [Exegesis Basics](exegeses-and-hypotheses/exegesis/exegesis-basics.md)
 * [Truth-and-Language](exegeses-and-hypotheses/truth-and-language.md)
 * [Parliament of Attitudes](exegeses-and-hypotheses/parliament-of-attitudes.md)

@@ -1,11 +1,12 @@
 ---
 description: 'The main propositions from Personality Type: An Owner''s Manual'
+icon: pen
 cover: >-
   https://images.unsplash.com/photo-1518976024611-28bf4b48222e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxsaXN0fGVufDB8fHx8MTczODAzNjIxMHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# ✍️ Main Propositions
+# Main Propositions
 
 Here are the main propositions from [Personality Type: An Owner's Manual](https://www.amazon.ca/Personality-Type-Practical-Understanding-Yourself-ebook/dp/B00KLFBMKG):
 
