@@ -32,4 +32,8 @@ An everyday example is to allow some extra time when leaving on a trip. The reas
 
 From the Si standpoint, the more you're going to depend on something, the more carefully you'd better inspect it, because you never know what unknown things might go awry, you only know that most of them are bad.
 
-(Compare [Extraverted Intuition](../intuition/extraverted-intuition-ne.md), which leads to the exact opposite attitude toward the unknown.)\
+(Compare [Extraverted Intuition](../intuition/extraverted-intuition-ne.md), which leads to the exact opposite attitude toward the unknown.)
+
+## Si in the [Inferior Position](../../cognitive-stack/inferior-function.md)
+
+Si provides information about the fixed and stable, the facts / constancies of the universe. At its best, it provides such information as a firm basis for proceeding forward into the world. Where Si occupies the [inferior position](../../cognitive-stack/inferior-function.md) (as it does for those with [dominant](../../cognitive-stack/dominant-function.md) Ne), it is strongly tainted with unconscious contents. In these cases, Si may manifest as negative/malevolent images of eternal tendencies in people and situations that will not change. Such tendencies may well be present, but inferior Si sees the part as the whole. Inferior Si is also linked to feelings of nostalgia, overwhelmingly vivid internal imagery and a selective recall of facts and memories that are highly emotionally charged.

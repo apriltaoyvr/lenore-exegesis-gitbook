@@ -20,15 +20,29 @@ description: >-
 
 ## Proposed Definitions
 
-### Definition #1
+### #1: [Orientation](../../../../sign-interpretation/orienting/) by self-expression
 
-Introverted Feeling (Fi) is the attitude that everything that is manifest (apparent, observable, described) is the expression of a soul or life force, in terms of which everything ultimately makes sense. Everything that happens is the result of a _soul_ expressing its unique nature.
+**Introverted Feeling** (Fi) is the attitude that everything that is manifest (apparent, observable, described) is the expression of a soul or life force, in terms of which everything ultimately makes sense. Everything that happens is the result of a _soul_ expressing its unique nature.
 
 From this attitude, each living thing is completely unique, and has unique needs. Every living thing needs to express itself and grow in its unique way. None of this can be put into categories or measurements, at least not without blotting out that utter uniqueness of each living thing. Because we are all living things, even though each of us is unique we can still connect to the life force as it exists in others. From an Fi standpoint, the way to respond to things is in a way that is faithful to that underlying life force.
 
-### Definition #2
+### #2: [Orientation](../../../../sign-interpretation/orienting/) by inner harmony
 
-Introverted Feeling (Fi) is the attitude of judging things good or bad based on how they harmonize or clash with a living being's inner essence. That inner essence or soul, and how things in the environment get along with it or conflict with it, is knowable only first-hand--ultimately, only by that soul. It is known by attending to one's own emotions in response to things. What you like is good--for you, not necessarily good for others. What you don't like is bad--for you, not necessarily bad for others. Anything outside your own soul is irrelevant to evaluating anything or choosing your course in life.
+**Introverted Feeling** (Fi) is the attitude of judging things good or bad based on how they harmonize or clash with a living being's inner essence. That inner essence or soul, and how things in the environment get along with it or conflict with it, is knowable only first-hand--ultimately, only by that soul. It is known by attending to one's own emotions in response to things. What you like is good--for you, not necessarily good for others. What you don't like is bad--for you, not necessarily bad for others. Anything outside your own soul is irrelevant to evaluating anything or choosing your course in life.
+
+### #3: [Orientation](../../../../sign-interpretation/orienting/) by emotional "grooves"
+
+**Introverted Feeling** (Fi) is a culmination of [Subjective](../../../our-difficulties/terms-with-nonobvious-meanings/#objective-and-subjective) aesthetic, emotional, social, and moral frameworks and a desire to fully understand the state of being. Introverted Feelers want to express, demonstrate, observe, and understand the experience of being human, in every granular shade and nuance.&#x20;
+
+What is the Fi framework? If [Introverted Thinking](../thinking/introverted-thinking-ti.md#definition-2-orientation-by-the-groove) can be defined as understanding the logical 'grooves', Introverted Feeling is understanding emotional 'grooves'.&#x20;
+
+The Fi framework is a culmination of [Feeling](./) 'grooves' the Fi user has accumulated. Every groove and observation about the self and others refines their understanding of the greater human experience. It is in a state of flux, constant evolution, case-by-case, and thus difficult to put into words. But it is not mysticism; it is intuition (in layman terms) for the realm of [Feeling](./).
+
+Introverted Feeling is continuously refining the framework by examining the self and others. When an Fi user loses access to additional emotional details or nuance of a person or situation, they feel they are losing an opportunity to fine-tune the framework. They feel like are losing a window into deeper understanding on what it is to _be_. Thus, they tend to dislike generalised approaches to [Feeling](./).&#x20;
+
+The Fi frameworks and grooves are the Fi user's compass on how to be happy, how to be 'good', and how to understand others, and how to be human. What goes against their framework feels 'wrong' and what is in line with it feels 'right'. It can be "felt in the soul and bones". To the Fi user, the framework, being human, knowing what is just, and deepening their understanding of these concepts are what [orients](../../../../sign-interpretation/orienting/) the Fi user.
+
+Introverted Feeling has the (unconscious) assumption all others operate with their own Fi framework: "What is right for me may not be right for you; we are operating from different values, beliefs and needs." Used in an egotistical manner, it is the belief that Fi user's values are more moral and correct than others by virtue of being _theirs_; or that others operate with the same framework as them.
 
 ## As a language of [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
 
@@ -49,6 +63,8 @@ Perhaps the most typical manifestation of tertiary and inferior Fi is an attitud
 Naturally, you can see plenty of dominant-style Fi in ETJs, secondary-style Fi in IFPs, and so on--even inferior-style Fi in IFPs.
 
 ***
+
+## As an introverted judgement attitude
 
 Introverted feeling is judgement with an emotional slant that causes the individual to view the object on a [Subjective](../../../our-difficulties/terms-with-nonobvious-meanings/#objective-and-subjective) level. It is primarily a silent inaccessible function that is difficult to conceptualize. Therefore, unlike its extraverted counterpart, [Extraverted Feeling](extraverted-feeling-fe.md), it is entirely individualistic, with a leaning toward the mystical. Introverted feeling is generally disconnected with typical external stimuli. Introverted feeling is only concerned with the external to the extent that the object has some relevance to a deep, internal value. Its primary objective is to harmonize ideologies, concepts, relationships etc. with the internal guiding force.
 

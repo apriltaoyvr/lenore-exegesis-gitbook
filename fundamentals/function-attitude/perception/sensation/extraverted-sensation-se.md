@@ -18,9 +18,13 @@ As a [dominant attitude](../../cognitive-stack/dominant-function.md):&#x20;
 
 > p. 146: "The only way to cultivate Extraverted Sensation is by hands-on involvement--by strengthening the link between sensory perception and neural response. _Our bodies have to get into the act._ For types who use this function as their primary approach to life, true knowledge is _always_ concrete, a product of firsthand experience."
 
+As an [inferior function](../../cognitive-stack/inferior-function.md):&#x20;
+
+> p.235-36, on INJs: However, when these types are defending their inner world against inferior aims, they invariably focus on terms that suggest a sensate viewpoint--that is, one determined by surface criteria: gender, race, color, and so forth.
+
 ## Proposed definitions&#x20;
 
-### Definition #1
+### #1: [Orientation ](../../../../sign-interpretation/orienting/)by the observable
 
 **Extraverted Sensation** (Se) is the attitude that whatever is manifest (apparent, observable) calls forth an obvious and natural response, that has nothing to do with the way you need to respond in any other moment. The meaning of everything is readily apparent--at the time that it appears. Whatever stands out and gets your attention here and now is precisely what needs your attention here and now. Your instincts at each moment will tell you what to do; there is no point in anticipating.
 

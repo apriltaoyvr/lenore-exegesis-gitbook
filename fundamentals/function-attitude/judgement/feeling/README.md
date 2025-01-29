@@ -9,7 +9,11 @@ description: >-
 
 ## Quasi-defining statements
 
+>
+>
 > p. 318: "Extraverted Feeling is conceptual and analytic. It encourages us to make rational choices, to measure our options for relationship against an external standard of behaviors. What distinguishes this function from [Extraverted Thinking](../thinking/extraverted-thinking-te/) is the fact that relatedness involves human beings, not impersonal abstractions."
+>
+> p. 320: "\[Functions] operate separately from our emotional system. When we use a function often enough, we’re emotionally invested in the choices it encourages, but this is true of all functions, and it’s not the same thing as acting directly on what we feel"
 
 ## Hypothesis: (As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/)) Signs are meaningful only insofar as they relate to needs
 

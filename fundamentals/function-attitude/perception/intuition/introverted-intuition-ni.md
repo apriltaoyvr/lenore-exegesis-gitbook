@@ -70,6 +70,42 @@ With [extraverted intuition](extraverted-intuition-ne.md), you bypass the social
 
 Lenore's writing doesn't emphasize this aspect of Ni. It's hidden in little notes here and there, like the way tertiary Ni can give ISFPs the will to hold to a belief even when others don't agree with it, or the way ENTJs "see around the corners" of an organization's official rules. For the most part, Lenore emphasizes neutrality between conflicting ideas. The present hypothesis proposes that this emphasis is a possible, maybe illustrative, but not necessary consequence of the basic idea: "just knowing" in a way that bypasses built-in or conventional interpretations of signs: seeing past the signs, and just "getting" the truth (or at least thinking you have).
 
+### #5: Orienting by explicit representation of the mapping between signs and meaning
+
+Ni is orienting yourself by an explicit representation of the mapping between [signs and meaning](../../../../sign-interpretation/semiotic-attitude/). For example, "This dark-stained mahogany table is supposed to make me think the owner is upper-class" or "We put north at the top of maps (rather than, say, the bottom or the right), because northern countries traditionally had more power, and we perceive 'higher on the page' to mean 'more important'." From an Ni standpoint, one doesn't feel oriented until one can articulate explicitly what are the signs one is supposed to look at and what are the meanings one is supposed to take from them.
+
+Because the mental space that Ni "lives in" is the world of all possible ways of mapping signs to meanings, Ni leads you to consider not only the accepted ways of mapping signs to meanings, but others. For example, why couldn't dark-stained mahogany mean "lower class"? For example, what if instead of viewing failing a test as an occasion for shame, we viewed it as an occasion for celebration? How might our lives change if we merely rewired the interpretations we are giving to things?
+
+An Ni perspective leads one to seek out the leverage points of any system. What is triggering what? What "good faith" assumptions are being made, and what would happen if those assumptions were violated? For example, ants "interpret" certain pheromones as "meaning" that something is a larva that needs to be fed. Some parasites have evolved the ability to give off these same pheromones, triggering the ants to feed them. The parasites have found a way to game the system by exploiting its assumptions. The parasites don't orient by Ni, of course, but this kind of analysis takes an Ni approach. One can apply this same kind of analysis to almost anything: looking at a system not through the lens of "how it's supposed to work", but from outside the system, merely characterizing how it converts a sign into an interpretation, triggering a cascade of behaviors.
+
+Lenore characterizes Ni as "about the box" as opposed to [Extraverted Intuition](extraverted-intuition-ne.md)'s "outside the box". That is, an Ni orientation leads you to describe the assumptions and rules that a given system of thought or perception is following.
+
+Ni on this perspective is a decidedly left-brain orientation. It doesn't lead you to flow with anything or even participate. It leads you to stop, get "into your head", and even act in ways that go against the spirit of a system, or to think about ways that going with the spirit of rules can lead to unexpected and undesired results.
+
+In contrast to most other definitions, this one has nothing mysterious or particularly "intuitive" about it. Ni on this definition is simply a matter of looking at things from a "meta" perspective, explicitly characterizing how signs are getting mapped to meanings. This simple definition, combined with the idea of [ego-orientation](../../../../sign-interpretation/orienting/ego-orientation.md), explains the many standard observations about NJs and SPs: the "commenting from an outside perspective" usually seen in INJs, the coldly "objective, impersonal" style usually seen in INTJs, the interest in pointing out that social myths exist to support power structures usually seen in INFJs, the interest in gaming a system or throwing a monkey wrench into it usually seen in SPs, the seeking of the social "cat-bird seat" usually seen in ENJs, the endless levels of meta-discussion found in INJ-filled academia, etc.
+
+### Definition #6: Transformation in general
+
+Ni is a function that serves the process of "transformation". Transformation is to be considered on many levels (logical, ethical, personal etc.) In many instances, situations are hard to escape or avoid and Ni allows a person to focus on a specific version of themselves so as to minimise a problem or enhance understanding of it.
+
+_Example #1_: Those with a habit of not completing their studies, fall into a mindset where they feel justified in not undertaking the workload and are perhaps concerned with pleasing immediate sensations (partying, lounging around etc.) or have personal problems to deal with.
+
+Once the person has realised the consequences of their laziness, an underlying mindset is discovered as the cause. Whilst every function has a unique manner in the solution of a problem, Ni engages the individual with their unconscious thoughts and mindset to focus on a particular trait. "How can I avoid this scenario from happening again?" "What talents of mine can I capitalise on to escape this problem?"
+
+Such problems are derived from habit/behaviour rather than by natural alignments and they can be solved if the individual chooses to focus on another "version" of themselves, which always existed but never was accessed. Further supporting the notion that Ni is a search for new angles or perspectives, requiring a solid insight to gauge action.
+
+The common experiences of individuals having to come to their own realisations to truly grasp a problem or change their attitude, has its foundations in the Introverted Intuition function. External data or resources are not enough to create a solution, it requires a transformed way of thinking from the person's past behaviour.
+
+_Example #2_: When a person has a comprehensive goal for the future, its success depends upon the many contingencies considered (problems or opportunities that could come about) and whether it is of a well-defined nature such as following a career path, raising a family, developing a theory etc. whilst knowing how to get from Point A to Point B with realistic expectations.
+
+The process of Ni reassures the person such intentions are possible, not just on the certainty that future change will unfold in a certain way but because the plan/strategy is transformative of the person's present situation. It is like a framework, as time goes on the final goal will ensure events or details come into play whilst omitting all the unnecessary dilemma that could sidetrack or distract many people from the original plan.
+
+#### Against this definition
+
+This definition is completely clear and precise. And therefore it runs against the Jungian spirit in Lenore's thought. Whatever introverted intuition is, it can never be captured by a clear definition. Rather, Ni (and all the other function attitudes) is a kind of force within the mind, revealed only in its effects, and always capable of revealing more when it's pushed into new circumstances. Its true essence can never be known—except, perhaps, intuitively, inarticulately.
+
+The reason they are not parallel is the same reason that the sea is not parallel. It doesn't mean anything. You can slice the Whole Sort of General Mish Mash any way you like and you will generally come up with something that someone will call home." Taken from Mostly Harmless. I think that explains how Ni does what it does, and it explains it in a Ni way.
+
 ## As a language of [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
 
 As a [Dominant Function](../../cognitive-stack/dominant-function.md), Ni leads INJs to anchor themselves primarily in discovery of and attunement to that "what else"--to seek communion with it for its own sake. INJs are typically concerned with finding an independent and all-encompassing perspective on whatever interests them, so they can see it without bias, without being fooled or led along by ways in which other interests have set things up, and without a merely partial understanding.
@@ -100,7 +136,15 @@ Heuristically, Introverted Intuition can lead you to use signals in ways that ha
 
 #### Against this hypothesis
 
-responsiveness - this seems more [extraverted sensation](../sensation/extraverted-sensation-se.md) in orientation. You respond to the moment. Modifying effect to get a response. (ie. [Lenore](../../../../people-and-systems/lenore-thomson/) p.151: _finally admitted to his girlfriend he was never really a vegetarian; he just liked the reactions he got with socially conscious women_). Ni would recognize that people are doing this and then describe it, Se would innately recognize it and exploit it. -- [Robert Evans](https://web.archive.org/web/20061116224153/http://greenlightwiki.com/lenore-exegesis/Robert_Evans)
+Responsiveness - this seems more [extraverted sensation](../sensation/extraverted-sensation-se.md) in orientation. You respond to the moment. Modifying effect to get a response. (ie. [Lenore](../../../../people-and-systems/lenore-thomson/) p.151: _finally admitted to his girlfriend he was never really a vegetarian; he just liked the reactions he got with socially conscious women_). Ni would recognize that people are doing this and then describe it, Se would innately recognize it and exploit it. -- [Robert Evans](https://web.archive.org/web/20061116224153/http://greenlightwiki.com/lenore-exegesis/Robert_Evans)
+
+It's Ni interpolated through Ne. The basis for the sign-interpretation in the example is the pheromone release, not anything intrinsic to the pheromone. But the example is only an approximation of Ni, albeit a good one if I understand what he's doing. Ben Kovitz identifies himself as INTP, keep that in mind. Here he's making an analogy, relating an understanding of Ni anchored in Ne.
+
+Logically, Ni versus Si is like validity versus soundness. What happens is, ENTJs use Ni to _abduct_ things all the time. The result is an imperfect argument, and its conclusion may not be true. This is also known as affirming the consequent. The result is fundamentally unsound. But the bottom line is, ENTJs claim to know their proof demonstrates something depends on whether (if) the application worked.
+
+Te/Ni stresses people out because it's not too worried about perfect soundness. To make matters worse, the experiment hasn't happened yet and even if it had it's not correct for the ENTJ to believe his stated conclusion has been proven or logically forced. (I'm trying to use Ti here by the way, and probably not that well.)
+
+Also: Lying about being a vegetarian to get a reaction from someone is an activity (lying) that any person using any function attitude might do sometimes. My best guess is that the lie hinged on Si and Fe, "This signifies something really important to them, this puts me on their internal map in the 'favorable' rather than 'unfavorable' zone," which means the person is (probably) an SFJ. Or it could be Ni, as in the person with Ni believes that Si and Fe govern the semiotics of the interaction. –Kiernan
 
 ## Hypotheses&#x20;
 
@@ -114,7 +158,7 @@ Significant subsets of introverted intuitives (particularly INTJs) are drawn to 
 
 ## Prometheus Rising as a guidebook on Ni
 
-Robert Anton Wilson's [_Prometheus Rising_](https://www.goodreads.com/book/show/28597.Prometheus_Rising) discusses cognition and semiotics. "Reality tunnels" are how people are bound by patterns on what they _want to see_ or are "programmed" to see and distorting information to fit their narrative.
+Robert Anton Wilson's [_Prometheus Rising_](https://www.goodreads.com/book/show/28597.Prometheus_Rising) discusses cognition and semiotics. "Reality tunnels" are how people are bound by patterns on what they _want to see_ or are "programmed" to see and distorting information to fit their narrative. Sounds familiar doesn't it?
 
 > When we meet somebody whose separate tunnel-reality is obviously far different from ours, we are a bit frightened and always disoriented. We tend to think they are mad, or that they are crooks trying to con us in some way, or that they are hoaxers playing a joke. Yet it is neurologically obvious that no two brains have the same genetically-programmed hard wiring, the same imprints, the same conditioning, the same learning experiences. We are all living in separate realities. That is why communication fails so often, and misunderstandings and resentments are so common. I say "meow" and you say "Bow-wow," and each of us is convinced the other is a bit dumb.
 >
@@ -122,12 +166,12 @@ Robert Anton Wilson's [_Prometheus Rising_](https://www.goodreads.com/book/show/
 >
 > The Prover is a much simpler mechanism. It operates on one law only: Whatever the Thinker thinks, the Prover proves.
 
-He believes we are limited by subjective perceptions and judgements we attach to ideas. The "Thinker" are our preconceptions and the "Prover" is what assigns and justifies our biases to the reality around us.
+He believes we are limited by subjective perceptions and judgements we attach to ideas. The "Thinker" is our preconceptions and the "Prover" is what assigns and justifies our biases to the reality around us.
 
-Challenging these preconceptions is a reoccurring theme in his works. Each chapter of _Prometheus Rising_ ends with [exercises](https://docs.google.com/document/d/1IIpyJRSyu7oC25SDMjJRh0ObM0Koe0mHJsImNiK84ZQ/edit?tab=t.0) on shifting your perception of the same events and observing the change in your thinking (Ni). Example:
+Each chapter of _Prometheus Rising_ ends with [exercises](https://docs.google.com/document/d/1IIpyJRSyu7oC25SDMjJRh0ObM0Koe0mHJsImNiK84ZQ/edit?tab=t.0) on shifting your perception of the same events and observing the change in your thinking (Ni). Example:
 
 > * Visualize a quarter vividly, and imagine vividly that you are going to find the quarter on the street. Then, look for the quarter every time you take a walk, meanwhile continuing to visualize it. See how long it takes you to find the quarter.&#x20;
 > * Explain the above experiment by the hypothesis of "selective attention"—that is, believe there are lots of lost quarters everywhere and you were bound to find one by continually looking. Go looking for a second quarter.&#x20;
 > * Explain the experiment by the alternative "mystical" hypothesis that "mind controls everything." Believe that you made the quarter manifest in this universe. Go looking for a second quarter. If the reader is a scientist, be not alarmed. This refers not to you but only to those benighted fools in the opposite camp who refuse to recognize that your theory is the only reasonable one. Of course.&#x20;
 
-This lines up well with Lenore's descriptions and the proposed definitions of Ni on this wiki, in particular [Tea Leaves and Tarot Cards](../../../../far-flung-explorations/tea-leaves-and-tarot-cards.md). Considering shifting reality tunnels is a reoccurring theme in his writings, he is an INJ.&#x20;
+This lines up well with Lenore's descriptions and the proposed definitions of Ni on this wiki. Considering shifting reality tunnels is a reoccurring theme in his writings, he is an INJ. Bears a great resemblance to [Tea Leaves and Tarot Cards](../../../../far-flung-explorations/tea-leaves-and-tarot-cards.md).

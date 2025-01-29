@@ -15,7 +15,6 @@ Some of us find terms in Lenore's book difficult to attach a clear meaning to. S
 * [Function Attitudes](../../function-attitude/)
 * [Rational and Irrational](rational-and-irrational.md)
 * [Developing a function](developing-a-function.md)
-* Objective and Subjective
 * Logical Probabilities
 * Imaginal
 
@@ -24,5 +23,5 @@ Some of us find terms in Lenore's book difficult to attach a clear meaning to. S
 ### Quasi-defining statement
 
 > p. 176: "By _subjective_ I mean that a person's ideas about what matters are unique to himself or herself."
-
-One can assume **objective** is the inverse: Ideas which are shared and collective.
+>
+> p. 321: "The word _objective_ simply means 'having material existence.' We’re disposed to hear this, however, as though it meant ‘existentially indifferent.’ Thus, general principles seem objective to us because they have nothing do to do with our behaviors as people; they’re abstractions—like the letters of the alphabet, or the concepts of unity and duality. Values, on the other hand, are personal and human. When they change, our behaviors change."
