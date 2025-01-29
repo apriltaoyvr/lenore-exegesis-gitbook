@@ -34,3 +34,9 @@ Judaism would seem to be an Fe religion while Christianity is an Fi religion.
 Judaism is about a "chosen people". It's one tribe, a big family in a world that contains many families. In practice, the religion consists primarily of rituals through which people transmit practical wisdom about getting along in the world with others (the Fe view of ethics), and indicate that they cast their lot with the Jewish people.
 
 Christianity is about God's unconditional love for all his children. There is only one family, and it includes everyone. Christianity focuses on getting in touch with God, doing good works only because they are good, and thereby transcending all divisions of tribe and family.
+
+A possible refinement to the religion idea. While Genesis is certainly Fe, and the rest of the Torah is to a lesser degree, it is not a very clean split, as the religion as a whole emphasizes serious questioning of absolutely everything, and actually encourages arguing with God, in an almost Ne way. So while Judaism is more Fe than Christianity, it is not predominantly Fe as a religion or a culture, only genesis is.
+
+_What about Genesis leads you to say that it's Fe? --_[_Ben Kovitz_](https://web.archive.org/web/20110108043303/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
+
+Compare: [The Structure of Scientific Revolutions](https://web.archive.org/web/20110108043303/http://greenlightwiki.com/lenore-exegesis/The_Structure_of_Scientific_Revolutions)\

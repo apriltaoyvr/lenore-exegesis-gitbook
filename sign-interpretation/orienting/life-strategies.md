@@ -1,6 +1,8 @@
-# Life Strategies
+---
+description: Different ways of Orienting, expressed as overall life strategies
+---
 
-Here are some different ways of [Orienting](./), expressed as overall life strategies:
+# Life Strategies
 
 * _Ne:_ Create enough potential to make connections and things will work out.
 * _Fe:_ Connect with the right people and things will work out.

@@ -1,8 +1,10 @@
+---
+description: >-
+  Looking at the conditions that different Semiotic Attitudes need to have met
+  before a person can feel oriented
+---
+
 # Semiotically Disoriented
-
-On this page, we look at the conditions that different [Semiotic Attitudes](./) need to have met before a person can feel oriented. See [Orienting](../orienting/).
-
-***
 
 Fi: Until I _understand_ it in terms of empathy and how it relates to a living need that I might have, I don't see how I can relate to it.
 

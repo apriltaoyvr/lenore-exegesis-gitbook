@@ -59,4 +59,6 @@ _...any other answers?_
 
 _A._ Jung, _Psychological Types_, p.273: He borrow terms coined by _Otto Gross_. The "primary function" and the "secondary function".
 
+_A._ He probably called it a function because it is a function! A function is an action performed by something, in this case a brain! It makes perfect sense.
+
 A. Random House definition of function: #1 the kind of action or activity proper to any person or thing #2 the purpose for which something is designed or exists. As an INFJ, it makes perfect sense to me. Your function is what serves your purpose, it is what's proper to yourself. If you want more of where this came from, [check this out](https://web.archive.org/web/20071014000354/http://greenlightwiki.com/lenore-exegesis/check_this_out)

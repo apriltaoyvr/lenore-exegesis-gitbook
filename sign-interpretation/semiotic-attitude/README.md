@@ -1,15 +1,17 @@
 ---
 icon: diamond-turn-right
+description: >-
+  What Lenore might have in mind by Se, Si, Ne, Ni, Te, Ti, Fe, and Fi is
+  different ways of understanding how signs relate to meanings--or rather, "what
+  signs mean".
 cover: >-
   https://images.unsplash.com/photo-1483213097419-365e22f0f258?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzaWdufGVufDB8fHx8MTczODAzNjMzNHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Semiotic Attitude
+# 🚦 Semiotic Attitude
 
 [Semiotics](https://en.wikipedia.org/wiki/Semiotics) is the systematic study of sign processes and the communication of meaning. In semiotics, a sign is defined as anything that communicates intentional and unintentional meaning or feelings to the sign's interpreter.
-
-What [Lenore](../../people-and-systems/lenore-thomson/) might have in mind by Se, Si, Ne, Ni, Te, Ti, Fe, and Fi is different ways of understanding how signs relate to meanings--or rather, "what signs mean".
 
 ## Signs and meanings
 
@@ -29,7 +31,7 @@ The idea, then, is that each of those Lenore-attitudes is a way in which you can
 
 Vast amounts of philosophical writing have been devoted to arguing that other people's ways of interpreting signs are "meaningless". For example, the [Logical Positivist](https://en.wikipedia.org/wiki/Logical_positivism) movement tried to show that a proposition is meaningless unless there is an empirical test to see if it's true; some even said that the meaning _is_ that empirical test. [William Blake](https://en.wikipedia.org/wiki/William_Blake) spoke of seeing a "world in a grain of sand": a radically different way of finding meaning in things. [Joe Friday](https://en.wikipedia.org/wiki/Joe_Friday) wanted "just the facts": when someone told him interpretations that he didn't think were reliable, he tried to sift out all but the meanings he could use as a solid basis for making decisions according to the law.
 
-On the [exegesis](../../exegeses-and-hypotheses/exegesis/) proposed here, what Lenore has done is come up with a set of Semiotic Attitudes that people depend on as a way of [orienting](../orienting/) themselves in life. Each, used on its own as a way to find meaning in life, leads you to carve out a life for yourself but also eventually gets you into trouble that you can't get out of by continuing to orient yourself with that attitude. Each **Semiotic Attitudes** has opposing attitudes that nullify it: opposite attitudes each call the other's ways of understanding things "meaningless". But there are other, more complementary relations between different **Semiotic Attitudes**.
+On the [exegesis](../../exegesis/) proposed here, what Lenore has done is come up with a set of Semiotic Attitudes that people depend on as a way of [orienting](../orienting/) themselves in life. Each, used on its own as a way to find meaning in life, leads you to carve out a life for yourself but also eventually gets you into trouble that you can't get out of by continuing to orient yourself with that attitude. Each **Semiotic Attitudes** has opposing attitudes that nullify it: opposite attitudes each call the other's ways of understanding things "meaningless". But there are other, more complementary relations between different **Semiotic Attitudes**.
 
 Lenore's stuff, then, would be a conceptual vocabulary for consciously shifting between **Semiotic Attitudes** and also understanding Rhetorical Clashes between people's attempts to persuade, understand, and be understood by others.
 

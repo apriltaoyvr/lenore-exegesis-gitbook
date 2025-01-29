@@ -9,7 +9,7 @@ description: >-
 
 ## First, a difficulty: the invisible dominant
 
-When people read [Lenore](../people-and-systems/lenore-thomson/)'s descriptions of types and attitudes, or even the attempts at [exegesis](../exegeses-and-hypotheses/exegesis/) posted on this site, they seldom recognize themselves in their [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md). The reaction is usually something like, "Whah? Maybe sorta kinda, but this hardly seems like me."
+When people read [Lenore](../people-and-systems/lenore-thomson/)'s descriptions of types and attitudes, or even the attempts at [exegesis](../exegesis/) posted on this site, they seldom recognize themselves in their [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md). The reaction is usually something like, "Whah? Maybe sorta kinda, but this hardly seems like me."
 
 A [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md), after all, is your main universe of description, and a universe of description does not include itself. It's the lens, not what you see. The [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md) is so ingrained in your personality that you might think that everyone has it also. Jung says that he took a while to figure out that not everyone else was an Introverted Thinker (_has anyone else seen this quote or know where it is?_). Since everyone has arms, you wouldn't say "I'm a person with arms" when you describe yourself. Same with the [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md).
 

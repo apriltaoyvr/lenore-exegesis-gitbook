@@ -1,15 +1,16 @@
 ---
 icon: compass
+description: >-
+  What is the difference between an introverted way of orienting yourself and an
+  extraverted way of orienting yourself?
 cover: >-
   https://images.unsplash.com/photo-1518065896235-a4c93e088e7a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb21wYXNzfGVufDB8fHx8MTczODAzNjMwMHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Orienting
+# 🧭 Orienting
 
-What is the difference between an introverted way of orienting yourself and an extraverted way of orienting yourself?
-
-To answer this question, we'll look at what it means to even say, "I am here."
+To answer this question, we'll look at what it means to even say, "I am here." Keep in mind as we present this that we're so introverted we can't be bothered to look at the external world long enough to learn what deixis is.
 
 ## Where is here?
 
@@ -25,7 +26,9 @@ You might still feel disoriented because you don't know where Kunststoffstrasse 
 
 From an extraverted point of view, you get your bearings by finding things that are right _here:_ things that you can see right now. The street itself is your reference point. You can find your way around simply by relating other things you find to that reference point. You don't need to know the whole layout of the city to navigate in this way. You walk around, you notice things, and gradually you learn more and more about the city.
 
-From an introverted point of view, you get your bearings by relating the things that are right _here_ to something complete, which you carry around within yourself. Unlike the city streets, which are outside yourself and that you can never fully "know", the map provides a vocabulary of meanings that exist entirely within yourself (or at least on the map). From an introverted standpoint, you only feel oriented when you relate things to a map.
+From an introverted point of view, you get your bearings by relating the things that are right _here_ to something complete, which you carry around within yourself, that someone else made by walking around, noticing things, and gradually learning more and more about the city. Unlike the city streets, which are outside yourself and that you can never fully "know", the map provides a vocabulary of meanings that exist entirely within yourself (or at least on the map). Or they would, if the map were a random scribble instead of symbols whose meaning only exists by virtue of their correspondence to things in the external world. From an introverted standpoint, you only feel oriented when you relate things to a map. That someone else made. Because you're an introvert. Get it? Me neither.
+
+Would it kill you to just ask for directions?
 
 This example uses Si to illustrate introversion--orienting oneself by a vocabulary of stable meanings that you relate tangible things to--but the principle applies to all the [Semiotic Attitudes](../semiotic-attitude/).
 

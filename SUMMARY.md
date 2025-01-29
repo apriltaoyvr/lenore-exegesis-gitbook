@@ -1,6 +1,8 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
+* [🕯️ Exegesis](exegesis/README.md)
+  * [Exegesis Basics](exegesis/exegesis-basics.md)
 
 ## Fundamentals
 
@@ -42,13 +44,11 @@
 
 ## exegeses and hypotheses
 
-* [🕯️ Exegesis](exegeses-and-hypotheses/exegesis/README.md)
-  * [Exegesis Basics](exegeses-and-hypotheses/exegesis/exegesis-basics.md)
+* [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
 * [Not Personality](exegeses-and-hypotheses/not-personality/README.md)
   * [Not Cognitive Processes](exegeses-and-hypotheses/not-personality/not-cognitive-processes.md)
   * [Beyond Personality](exegeses-and-hypotheses/not-personality/beyond-personality.md)
   * [Investments vs. Essence](exegeses-and-hypotheses/not-personality/investments-vs.-essence.md)
-* [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
 * [Introversion-Extraversion](exegeses-and-hypotheses/introversion-extraversion/README.md)
   * [Truth-and-Language](exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)
   * [Cocooning-vs.-Conforming](exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md)
@@ -58,9 +58,9 @@
   * [Place-Your-Stakes](exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md)
   * [Embedded](exegeses-and-hypotheses/introversion-extraversion/embedded.md)
 * [Parliament of Attitudes](exegeses-and-hypotheses/parliament-of-attitudes.md)
+* [Forward-Direction](exegeses-and-hypotheses/forward-direction.md)
 * [Gear-Shifting](exegeses-and-hypotheses/gear-shifting.md)
 * [Superego](exegeses-and-hypotheses/superego.md)
-* [Forward-Direction](exegeses-and-hypotheses/forward-direction.md)
 
 ## Sign interpretation
 
@@ -81,7 +81,9 @@
 * [Attitudes from the Horse's Mouth](far-flung-explorations/attitudes-from-the-horses-mouth.md)
 * [Intuition and Personal Development](far-flung-explorations/intuition-and-personal-development.md)
 * [Introverted Intuition and the Meaning of Music](far-flung-explorations/introverted-intuition-and-the-meaning-of-music.md)
+* [Why Mathematics Is Unpopular](far-flung-explorations/why-mathematics-is-unpopular.md)
 * [Don't Just be Yourself](far-flung-explorations/dont-just-be-yourself.md)
+* [Political Correctness](far-flung-explorations/political-correctness.md)
 * [Tea Leaves And Tarot Cards](far-flung-explorations/tea-leaves-and-tarot-cards.md)
 * [Rhetorical Stances](far-flung-explorations/rhetorical-stances/README.md)
   * [Rhetorical Clash](far-flung-explorations/rhetorical-stances/rhetorical-clash.md)

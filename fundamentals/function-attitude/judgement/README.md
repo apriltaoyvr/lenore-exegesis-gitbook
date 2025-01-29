@@ -5,7 +5,11 @@ description: A page for the judgement attitudes (Feeling and Thinking)
 
 # Judgement
 
-See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md).
+Judgement attitudes govern our ideas and criteria on the world around us, be it via logical relationships ([Thinking](thinking/)) or ethical relationships ([Feeling](feeling/)).&#x20;
+
+Extraverted [judgement](./) is capable of binding a society, enabling people to know their obligations and where they stand; but its rules are harsh and somewhat crude. Introverted [judgement](./) creates a moral sense that goes beyond publicly recognized rules, leading to greater humanity, mercy, intelligence, consideration of all the factors in a situation; but introverted [judgement](./) is too subtle and idiosyncratic to serve as the basis for social order.
+
+See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md), [Checks and Balances](../../../far-flung-explorations/checks-and-balances.md), [Dobie Gillis show](../../../people-and-systems/lenore-thomson/dobie-gillis-show.md).
 
 ## Extraverted Judgment
 

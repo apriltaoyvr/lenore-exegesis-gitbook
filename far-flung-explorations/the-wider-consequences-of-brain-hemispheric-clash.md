@@ -1,8 +1,8 @@
 ---
 description: >-
-  Hypothesis: Lenore's writing is mostly an exploration of the wider
-  consequences of brain-hemispheric clash--especially, its wider consequences in
-  public discourse.
+  Lenore's writing is mostly an exploration of the wider consequences of
+  brain-hemispheric clash--especially, its wider consequences in public
+  discourse.
 ---
 
 # The Wider Consequences of Brain-Hemispheric Clash

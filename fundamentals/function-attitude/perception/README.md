@@ -5,6 +5,8 @@ description: A page for the perception attitudes (Sensation and Intuition)
 
 # Perception
 
+Perception attitudes govern the [signs](../../../sign-interpretation/semiotic-attitude/) we notice in what they are and represent ([Sensation](sensation/)) or what they can represent ([Intuition](intuition/)).&#x20;
+
 See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md).
 
 ## Extraverted Perception

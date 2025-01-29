@@ -1,6 +1,13 @@
+---
+description: >-
+  Orientation by Pop Culture is judging anything that is attractive by
+  pop-culture standards to be good, and anything that is unattractive by
+  pop-culture standards to be bad
+---
+
 # Orientation by Pop Culture
 
-**Orientation by Pop Culture** is judging anything that is attractive by pop-culture standards good, and anything that is unattractive by pop-culture standards bad. Pop culture, these days, is mostly defined by television and music videos. If an idea looks like it would play well on TV, then it's good. Any idea that would not make high-ratings TV (or would make you look bad on TV) is bad.
+Pop culture, these days, is mostly defined by television and music videos. If an idea looks like it would play well on TV, then it's good. Any idea that would not make high-ratings TV (or would make you look bad on TV) is bad.
 
 In other words, the mindset that rejects an idea because: _Eww, you don't want a sound-bite of you saying_ that _playing over and over again on CNN, do you?_
 

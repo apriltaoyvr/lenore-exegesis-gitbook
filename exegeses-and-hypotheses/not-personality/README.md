@@ -28,7 +28,7 @@ Something unusual about Lenore's writing, compared to most writing about persona
 
 ### Then what _is_ [Lenore](https://web.archive.org/web/20051119065129/http://greenlightwiki.com/lenore-exegesis/Lenore) saying?
 
-Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../exegesis/).
+Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../../exegesis/).
 
 For some overall attempts, see:
 

@@ -1,6 +1,11 @@
-# Ego Orientation
+---
+description: >-
+  What Lenore means by "type" is the Semiotic Attitudes by which a person
+  consciously orients himself. "I" follow this path, navigating by these signs,
+  which "I" interpret in this way
+---
 
-Hypothesis: What [Lenore](../../people-and-systems/lenore-thomson/) means by "type" is the [Semiotic Attitudes](../semiotic-attitude/) by which a person consciously orients himself. "I" follow this path, navigating by these signs, which "I" interpret in this way.
+# Ego Orientation
 
 We can take any [function attitude](../../fundamentals/function-attitude/) we like, but a [function attitude](../../fundamentals/function-attitude/) that we follow to create a sense of self is to some considerable extent creating us. It's defining our conscious perspective, our understanding of who "I" am and what "I" care about and why "I" am doing what I'm doing.
 
