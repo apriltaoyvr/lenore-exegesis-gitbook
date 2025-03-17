@@ -1,5 +1,4 @@
 ---
-icon: crystal-ball
 description: >-
   What does Lenore mean by "intuition"? What do Extraverted Intuition and
   Introverted Intuition have in common?

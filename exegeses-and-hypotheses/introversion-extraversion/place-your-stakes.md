@@ -1,5 +1,4 @@
 ---
-icon: money-bill-wave
 description: Introversion and extraversion as where we place our stake in the world
 cover: >-
   https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxwbGFjZSUyMHlvdXIlMjBzdGFrZXN8ZW58MHx8fHwxNzM4MDM3Mzg4fDA&ixlib=rb-4.0.3&q=85

@@ -1,5 +1,4 @@
 ---
-icon: monero
 description: What does Lenore mean when she says introverted or extraverted?
 ---
 

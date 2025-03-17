@@ -2,7 +2,6 @@
 description: >-
   This might be what Lenore Thomson has in mind by function attitudes and their
   role in defining a self, including "plugging into the social matrix".
-icon: circle-arrow-right
 cover: >-
   https://images.unsplash.com/photo-1640388397643-cd924ab7ef1b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxtYXRyaXh8ZW58MHx8fHwxNzM4MDgxNjc1fDA&ixlib=rb-4.0.3&q=85
 coverY: 0

@@ -1,5 +1,4 @@
 ---
-icon: thought-bubble
 description: >-
   What does Lenore mean by "Thinking"? What is the difference between
   Extraverted Thinking and Introverted Thinking?

@@ -1,5 +1,4 @@
 ---
-icon: diamond-turn-right
 description: >-
   What Lenore might have in mind by Se, Si, Ne, Ni, Te, Ti, Fe, and Fi is
   different ways of understanding how signs relate to meanings--or rather, "what
@@ -9,7 +8,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🚦 Semiotic Attitude
+# Semiotic Attitude
 
 [Semiotics](https://en.wikipedia.org/wiki/Semiotics) is the systematic study of sign processes and the communication of meaning. In semiotics, a sign is defined as anything that communicates intentional and unintentional meaning or feelings to the sign's interpreter.
 

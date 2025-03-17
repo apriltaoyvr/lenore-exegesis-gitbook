@@ -1,5 +1,4 @@
 ---
-icon: hand
 description: >-
   What does Lenore mean by "sensation"? What do Extraverted Sensing and
   Introverted Sensing have in common?

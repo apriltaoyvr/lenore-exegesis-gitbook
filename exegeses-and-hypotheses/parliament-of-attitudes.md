@@ -1,5 +1,4 @@
 ---
-icon: landmark
 description: >-
   An understanding of attitude-functions as conflicting different internal
   attitudes

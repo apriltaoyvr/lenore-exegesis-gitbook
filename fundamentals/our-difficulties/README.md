@@ -1,5 +1,4 @@
 ---
-icon: exclamation
 cover: >-
   https://images.unsplash.com/photo-1582310849090-1619cba6c7c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxkaWZmaWN1bHR5fGVufDB8fHx8MTczODAzNjI0Mnww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -19,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ❗ Our Difficulties
+# Our Difficulties
 
 Here are some of the difficulties that we've had in our attempts to understand Lenore Thomson's ideas.
 

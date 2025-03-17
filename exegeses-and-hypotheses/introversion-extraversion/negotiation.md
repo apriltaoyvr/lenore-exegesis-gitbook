@@ -1,5 +1,4 @@
 ---
-icon: handshake
 description: Introversion and extraversion as understanding vs. negotiation
 cover: >-
   https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxuZWdvdGlhdGlvbnxlbnwwfHx8fDE3MzgwMzc4Njh8MA&ixlib=rb-4.0.3&q=85

@@ -1,5 +1,4 @@
 ---
-icon: compass
 description: >-
   What is the difference between an introverted way of orienting yourself and an
   extraverted way of orienting yourself?
@@ -8,7 +7,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🧭 Orienting
+# Orienting
 
 To answer this question, we'll look at what it means to even say, "I am here." Keep in mind as we present this that we're so introverted we can't be bothered to look at the external world long enough to learn what deixis is.
 

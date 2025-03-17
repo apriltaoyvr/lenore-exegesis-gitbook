@@ -1,5 +1,4 @@
 ---
-icon: bee
 description: >-
   Introversion and extraversion in the context of private and public
   environments

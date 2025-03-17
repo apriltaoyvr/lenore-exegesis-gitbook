@@ -1,12 +1,11 @@
 ---
-icon: head-side-brain
 description: What are function attitudes? What do they mean to Lenore?
 cover: >-
   https://images.unsplash.com/photo-1591040092219-081fb773589c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxqaWdzYXd8ZW58MHx8fHwxNzM4MDM2MjIzfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🧠 Function Attitude
+# Function Attitude
 
 {% hint style="info" %}
 [Lenore](../../people-and-systems/lenore-thomson/) often refers to function-attitudes just as "**functions**", which goes back to Jung.

@@ -1,13 +1,13 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
-* [🕯️ Exegesis](exegesis/README.md)
+* [Welcome](README.md)
+* [Exegesis](exegesis/README.md)
   * [Exegesis Basics](exegesis/exegesis-basics.md)
 
 ## Fundamentals
 
-* [✍️ Main Propositions](fundamentals/main-propositions.md)
-* [🧠 Function Attitude](fundamentals/function-attitude/README.md)
+* [Main Propositions](fundamentals/main-propositions.md)
+* [Function Attitude](fundamentals/function-attitude/README.md)
   * [Attitude](fundamentals/function-attitude/attitude.md)
   * [Perception](fundamentals/function-attitude/perception/README.md)
     * [Sensation](fundamentals/function-attitude/perception/sensation/README.md)
@@ -32,7 +32,7 @@
       * [Tertiary Temptation](fundamentals/function-attitude/cognitive-stack/tertiary-function/tertiary-temptation.md)
       * [Tertiary Defense](fundamentals/function-attitude/cognitive-stack/tertiary-function/tertiary-defense.md)
     * [Inferior Function](fundamentals/function-attitude/cognitive-stack/inferior-function.md)
-* [❗ Our Difficulties](fundamentals/our-difficulties/README.md)
+* [Our Difficulties](fundamentals/our-difficulties/README.md)
   * [Definition Problem](fundamentals/our-difficulties/definition-problem/README.md)
     * [Genus Problem](fundamentals/our-difficulties/definition-problem/genus-problem.md)
     * [Type Guesses and the Definition Problem](fundamentals/our-difficulties/definition-problem/type-guesses-and-the-definition-problem.md)
@@ -64,11 +64,11 @@
 
 ## Sign interpretation
 
-* [🧭 Orienting](sign-interpretation/orienting/README.md)
+* [Orienting](sign-interpretation/orienting/README.md)
   * [Ego Orientation](sign-interpretation/orienting/ego-orientation.md)
   * [Orientation by Pop Culture](sign-interpretation/orienting/orientation-by-pop-culture.md)
   * [Life Strategies](sign-interpretation/orienting/life-strategies.md)
-* [🚦 Semiotic Attitude](sign-interpretation/semiotic-attitude/README.md)
+* [Semiotic Attitude](sign-interpretation/semiotic-attitude/README.md)
   * [Semiotically Disoriented](sign-interpretation/semiotic-attitude/semiotically-disoriented.md)
 
 ## Far-flung explorations
@@ -102,6 +102,6 @@
 
 ## Meta
 
-* [❓ About](meta/about/README.md)
+* [About](meta/about/README.md)
   * [About This Wiki (Archive)](meta/about/about-this-wiki-archive.md)
   * [How to Participate Here (Archive)](meta/about/how-to-participate-here-archive.md)

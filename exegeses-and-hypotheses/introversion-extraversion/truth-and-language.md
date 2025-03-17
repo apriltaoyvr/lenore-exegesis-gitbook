@@ -1,5 +1,4 @@
 ---
-icon: language
 description: >-
   An attempt to describe Lenore's ideas about J-vs.-P attitudes in terms of the
   way a person understands what it means for a statement to be true and how

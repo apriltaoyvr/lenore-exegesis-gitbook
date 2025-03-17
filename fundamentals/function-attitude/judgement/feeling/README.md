@@ -1,5 +1,4 @@
 ---
-icon: heart
 description: >-
   What does Lenore mean by "Feeling"? What is the difference between Extraverted
   Feeling and Introverted Feeling?

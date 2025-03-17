@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: >-
   https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3MzgwOTkzODB8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -19,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 👋 Welcome
+# Welcome
 
 This is a recreation of the original [_Lenore Thomson Exegesis Wiki_](https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki) by [Ben Kovitz](https://wiki.c2.com/?BenKovitz). Why do this? You can learn more on the [About](meta/about/#about-this-site) page.
 

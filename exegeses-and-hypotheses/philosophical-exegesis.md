@@ -1,6 +1,5 @@
 ---
 description: An exegesis that attempts to highlight the main ideas in Lenore's writing
-icon: face-thinking
 cover: >-
   https://images.unsplash.com/photo-1620424393934-04e772be09f4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxwaGlsb3NvcGhlcnxlbnwwfHx8fDE3MzgwMzc5NjN8MA&ixlib=rb-4.0.3&q=85
 coverY: 191

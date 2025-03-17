@@ -1,5 +1,4 @@
 ---
-icon: gavel
 description: A page for the judgement attitudes (Feeling and Thinking)
 ---
 

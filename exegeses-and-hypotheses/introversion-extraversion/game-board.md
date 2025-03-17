@@ -1,5 +1,4 @@
 ---
-icon: game-board-simple
 description: Introversion and extraversion as exploration vs. winning
 cover: >-
   https://images.unsplash.com/photo-1602968407815-5963b28c66af?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxjaGVzc2JvYXJkfGVufDB8fHx8MTczODA0MDI1M3ww&ixlib=rb-4.0.3&q=85

@@ -1,5 +1,4 @@
 ---
-icon: folder-bookmark
 description: >-
   An attempt to understand how introverted vs extraverted attitudes are embedded
   in circumstances and perception

@@ -1,7 +1,3 @@
----
-icon: layer-group
----
-
 # Cognitive Stack
 
 A cognitive stack is the order of preference in [Function Attitudes](../) for a type.&#x20;

@@ -1,5 +1,4 @@
 ---
-icon: face-raised-eyebrow
 description: >-
   There seems to be a great deal to personality that Lenore Thomson doesn't talk
   about.

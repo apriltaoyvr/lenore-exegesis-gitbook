@@ -1,5 +1,4 @@
 ---
-icon: eye
 description: A page for the perception attitudes (Sensation and Intuition)
 ---
 
