@@ -8,21 +8,21 @@ Judgement attitudes govern our ideas and criteria on the world around us, be it 
 
 Extraverted [judgement](./) is capable of binding a society, enabling people to know their obligations and where they stand; but its rules are harsh and somewhat crude. Introverted [judgement](./) creates a moral sense that goes beyond publicly recognized rules, leading to greater humanity, mercy, intelligence, consideration of all the factors in a situation; but introverted [judgement](./) is too subtle and idiosyncratic to serve as the basis for social order.
 
-See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md), [Checks and Balances](../../../far-flung-explorations/checks-and-balances.md), [Dobie Gillis show](../../../people-and-systems/lenore-thomson/dobie-gillis-show.md).
+See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md), [Checks and Balances](../../../far-flung-explorations/checks-and-balances.md), [Dobie Gillis show](../../../other/dobie-gillis-show.md).
 
 ## Extraverted Judgment
 
 Forms of Extraverted Judgement:
 
-* [Extraverted Thinking ](thinking/extraverted-thinking-te/)
-* [Extraverted Feeling](thinking/extraverted-thinking-te/)
+* [Extraverted Thinking ](thinking/extraverted-thinking.md)
+* [Extraverted Feeling](thinking/extraverted-thinking.md)
 
 ## Introverted Judgment
 
 Forms of Introverted Judgement:
 
-* [Introverted Thinking](thinking/introverted-thinking-ti.md)&#x20;
-* [Introverted Feeling](feeling/introverted-feeling-fi.md)
+* [Introverted Thinking](thinking/introverted-thinking.md)&#x20;
+* [Introverted Feeling](feeling/introverted-feeling.md)
 
 ### Transcendent Justice
 
@@ -32,7 +32,7 @@ To see how this can be, consider that you can judge a law unjust. To take extrem
 
 As a matter of justice, written laws and rules can never take precedence over what is truly right.
 
-What makes this approach to justice [introverted](../attitude.md) is that it cannot serve as a shared agreement that binds the members of a society. Transcendent justice is not fair. Fairness has nothing to do with treating people humanely, or a person's right to defend himself against abuse. Laws created according to [extraverted thinking](thinking/extraverted-thinking-te/) represent the society's standards of fairness. People can recognize them as a consensual, shared definition of fairness--one that they can also expect _other_ people to abide by-- because they specify the rules independently of the participants and the situation. Introverted judgement responds to all aspects of a situation simultaneously, without defining the situation or its criteria of judgement in advance. It leaves room for the unexpected, and for criteria to shape themselves anew in every moment.
+What makes this approach to justice [introverted](broken-reference) is that it cannot serve as a shared agreement that binds the members of a society. Transcendent justice is not fair. Fairness has nothing to do with treating people humanely, or a person's right to defend himself against abuse. Laws created according to [extraverted thinking](thinking/extraverted-thinking.md) represent the society's standards of fairness. People can recognize them as a consensual, shared definition of fairness--one that they can also expect _other_ people to abide by-- because they specify the rules independently of the participants and the situation. Introverted judgement responds to all aspects of a situation simultaneously, without defining the situation or its criteria of judgement in advance. It leaves room for the unexpected, and for criteria to shape themselves anew in every moment.
 
 The clash between defenders of "situational ethics" and "objective law" is thus a clash between introverted and extraverted judgement, as they apply to justice.
 
@@ -58,6 +58,6 @@ The clash of Fe and Ti leads to attempts to argue over who society should respec
 
 The rebellion of Introverted Judgement against any external definition of reality is summed up in the words of [Jiddu Krishnamurti](https://web.archive.org/web/20070815023140/http://greenlightwiki.com/lenore-exegesis/Jiddu_Krishnamurti): "No organization can lead a man to truth. It is a hindrance, it can only impede. It blocks a man from sincere study. The truth comes from within, by seeing for yourself."
 
-_Would this also match with_ [_Lenore_](../../../people-and-systems/lenore-thomson/)_'s concept of_ [_Introverted Intuition_](../perception/intuition/introverted-intuition-ni.md)_? See, for example, the description on_ [_Truth-and-Language Exegesis_](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)_. Ni is also about "seeing for yourself", but with a different emphasis: on finding your own interpretation, as opposed to finding the one, true, reality-fitting interpretation._
+_Would this also match with_ [_Lenore_](../../../people-and-systems/lenore-thomson.md)_'s concept of_ [_Introverted Intuition_](../perception/intuition/introverted-intuition.md)_? See, for example, the description on_ [_Truth-and-Language Exegesis_](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)_. Ni is also about "seeing for yourself", but with a different emphasis: on finding your own interpretation, as opposed to finding the one, true, reality-fitting interpretation._
 
 Yes. That particular quote sounds like either Ti or Ni, though the rest of Krishnamurti's work sounds like dominant Ni.\

@@ -23,6 +23,6 @@ A regular tickler file reminds you of tasks that you want to do and can easily f
 
 ***
 
-Now does that illustrate [Lenore](../people-and-systems/lenore-thomson/)'s concept of [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition-ni.md) or what?
+Now does that illustrate [Lenore](../people-and-systems/lenore-thomson.md)'s concept of [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) or what?
 
 \

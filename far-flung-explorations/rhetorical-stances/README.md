@@ -12,15 +12,15 @@ This page attempts to describes the common rhetorical stances that people take. 
 
 Examples of Rhetorical Stances
 
-* [King on the Mountain](../king-on-the-mountain.md): a dogmatic [Te](../../fundamentals/function-attitude/judgement/thinking/extraverted-thinking-te/) stance
-* You can't make me look: a dogmatic [Ni](../../fundamentals/function-attitude/perception/intuition/introverted-intuition-ni.md) stance
+* [King on the Mountain](../king-on-the-mountain.md): a dogmatic [Te](../../fundamentals/function-attitude/judgement/thinking/extraverted-thinking.md) stance
+* You can't make me look: a dogmatic [Ni](../../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) stance
 
 _Other possibilities_
 
-* A dogmatic [Si](../../fundamentals/function-attitude/perception/sensation/introverted-sensation-si.md) stance which denies the use of any metaphysical questions&#x20;
-* A dogmatic [Fi](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling-fi.md) stance which refuses to judge people at all, or take any side in an argument because the IFP can empathize with both sides&#x20;
-* A [Fe](../../fundamentals/function-attitude/judgement/feeling/extraverted-feeling-fe.md) stance that sees someone's opinion as a consequence of their social role
-* &#x20;A [Ni](../../fundamentals/function-attitude/perception/intuition/introverted-intuition-ni.md) stance claiming that because someone's values and preferences are relative to that person's way of looking at the world:
+* A dogmatic [Si](../../fundamentals/function-attitude/perception/sensation/introverted-sensation.md) stance which denies the use of any metaphysical questions&#x20;
+* A dogmatic [Fi](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling.md) stance which refuses to judge people at all, or take any side in an argument because the IFP can empathize with both sides&#x20;
+* A [Fe](../../fundamentals/function-attitude/judgement/feeling/extraverted-feeling.md) stance that sees someone's opinion as a consequence of their social role
+* &#x20;A [Ni](../../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) stance claiming that because someone's values and preferences are relative to that person's way of looking at the world:
   * (a) those values can never be judged or questioned according to any objective criteria (e.g. cultural relativism), OR
   * (b) those preferences or values can _always_ be judged as lacking.
 

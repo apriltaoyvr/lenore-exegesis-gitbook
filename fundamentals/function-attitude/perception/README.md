@@ -4,7 +4,7 @@ description: A page for the perception attitudes (Sensation and Intuition)
 
 # Perception
 
-Perception attitudes govern the [signs](../../../sign-interpretation/semiotic-attitude/) we notice in what they are and represent ([Sensation](sensation/)) or what they can represent ([Intuition](intuition/)).&#x20;
+_Perception attitudes_ are irrational attitudes. In other words, they govern seeing concepts as what they are ([Sensation](sensation/)) and what they could be ([Intuition](intuition/)).&#x20;
 
 See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md).
 
@@ -12,27 +12,27 @@ See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-
 
 Forms of introverted perception are:
 
-* [Extraverted Sensation](sensation/extraverted-sensation-se.md)
-* [Extraverted Intuition](intuition/extraverted-intuition-ne.md)
+* [Extraverted Sensation](sensation/extraverted-sensation.md)
+* [Extraverted Intuition](intuition/extraverted-intuition.md)
 
 ## Introverted Perception
 
 Forms of introverted perception are:
 
-* [Introverted Sensation](sensation/introverted-sensation-si.md)
-* [Introverted Intuition](intuition/introverted-intuition-ni.md)
+* [Introverted Sensation](sensation/introverted-sensation.md)
+* [Introverted Intuition](intuition/introverted-intuition.md)
 
-### Holistic Spiraling
+## Holistic Spiraling
 
-The typical rhetorical style of NPs, especially INTPs: appeal to [Extraverted Intuition](intuition/extraverted-intuition-ne.md), pointing out relationships among disparate things, to trigger an "aha!" of [Introverted Judgement](../judgement/).
+The typical rhetorical style of NPs, especially INTPs: appeal to [Extraverted Intuition](intuition/extraverted-intuition.md), pointing out relationships among disparate things, to trigger an "aha!" of [Introverted Judgement](../judgement/).
 
 In Holistic Spiraling, one makes a contrast or comparison to establish reference for a term, then uses that term to state a proposition. That proposition is then contrasted or compared with other propositions, creating a new vocabulary for proposing yet more hypotheses, and so on, hence the "spiraling". "How does this relate to that? Now that we understand that relation, how we can we better understand these other things?"
 
-In contrast to rhetoric guided by [Extraverted Thinking](../judgement/thinking/extraverted-thinking-te/), the conclusion cannot be stated at the beginning. Nearly all of the rhetoric is concerned primarily with establishing a shared understanding of reference points in reality, in terms of which the conclusion will be framed. The rhetoric of [Extraverted Thinking](../judgement/thinking/extraverted-thinking-te/) more typically begins with a conclusion framed in terms of an already shared conceptual framework, followed by reasons to establish that conclusion as opposed to contrary conclusions.
+In contrast to rhetoric guided by [Extraverted Thinking](../judgement/thinking/extraverted-thinking.md), the conclusion cannot be stated at the beginning. Nearly all of the rhetoric is concerned primarily with establishing a shared understanding of reference points in reality, in terms of which the conclusion will be framed. The rhetoric of [Extraverted Thinking](../judgement/thinking/extraverted-thinking.md) more typically begins with a conclusion framed in terms of an already shared conceptual framework, followed by reasons to establish that conclusion as opposed to contrary conclusions.
 
 \--[Ben Kovitz](https://web.archive.org/web/20101125043007/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
 
-Perhaps this distinction explains why some students (probably NPs[^1]) have trouble with the essay format that is taught in most schools. Stating one's thesis at the beginning of the essay, then proving it is an [Extraverted Thinking](../judgement/thinking/extraverted-thinking-te/) method for writing an essay.
+Perhaps this distinction explains why some students (probably NPs[^1]) have trouble with the essay format that is taught in most schools. Stating one's thesis at the beginning of the essay, then proving it is an [Extraverted Thinking](../judgement/thinking/extraverted-thinking.md) method for writing an essay.
 
 A thing resembling holistic spiraling will take off when any two similar people communicate (could be talking, could be dancing, etc...)
 
@@ -42,15 +42,15 @@ Jared Diamond, in the book _Guns, Germs, and Steel,_ has probably taken the Holi
 
 ***
 
-Holistic Spiraling uses sensory, usually different type (ie. chair, room, anger) data points in an inferior way with the expectation that another someone will draw certain conclusions.
+_Holistic Spiraling_ uses sensory, usually different type (i.e..chair, room, anger) data points in an inferior way with the expectation that another someone will draw certain conclusions.
 
-Focused Collapse uses specific, same type (ie. granny smith apples vs red delicious apples) data points in a comparative manner with the expectation that another someone will see certain differences and/or similarities. -- Robert Evans
+Focused Collapse uses specific, same type (i.e. granny smith apples vs red delicious apples) data points in a comparative manner with the expectation that another someone will see certain differences and/or similarities. -- Robert Evans
 
-### No fixed reference points
+## No fixed reference points
 
 > p. 270: "Introverted Perception ... suggests that outer reality has no fixed reference points."
 
-#### Explanation of a Rhetorical Clash?
+#### Explanation of a [Rhetorical Clash](../../../far-flung-explorations/rhetorical-stances/rhetorical-clash.md)?
 
 Perhaps "no fixed reference points" explains a peculiarity in the way that some types, especially INFJs, often respond to the rhetoric of INTPs.
 
@@ -60,7 +60,7 @@ This would be explained by the "no fixed reference points" of Introverted Percep
 
 The INFJ, however, understands choice of shared reference points to be a matter of negotiation: a choice of reference points always serves some interests rather than others. "Why should I use reference points that serve your purposes rather than mine?" From the perspective of dominant Introverted Perception, choice of _shared_ reference points is really something to decide collectively, so that everyone's interests are served fairly.
 
-The INTP refuses to negotiate, because from the [Introverted Thinking](../judgement/thinking/introverted-thinking-ti.md) perspective, understanding things is not a matter of authority or negotiation, it's just between you and the concrete reality. The INFJ perceives the refusal to negotiate as an attempt to bully, or negotiate heavy-handedly--an attempt with no force behind it, therefore easy to ignore.
+The INTP refuses to negotiate, because from the [Introverted Thinking](../judgement/thinking/introverted-thinking.md) perspective, understanding things is not a matter of authority or negotiation, it's just between you and the concrete reality. The INFJ perceives the refusal to negotiate as an attempt to bully, or negotiate heavy-handedly--an attempt with no force behind it, therefore easy to ignore.
 
 #### But what exactly are these "reference points"?
 
@@ -78,7 +78,7 @@ Sounds right to me. Ne leads to accepting an idea provisionally and seeing where
 
 ### Representations
 
-[Lenore](../../../people-and-systems/lenore-thomson/) also says:
+[Lenore](../../../people-and-systems/lenore-thomson.md) also says:
 
 > p. 67: "Introverted Perception dictates an interest in _represented_ experience--words, facts, numbers, signs, and symbols: the kind of data that can be acquired or explored in the mind."
 
@@ -116,7 +116,7 @@ _Also from pure observation, I'd say that ENJs don't stay with an argument long 
 
 One interesting possibility might be that Moore is an Se type (undoubtedly an ESTP or ISTP). Presumably, an INTJ wouldn't sign off on Moore's display of what Lenore refers to as "inferior Perception."
 
-Fahrenheit 911 is an attempt to use inferior [Ni](intuition/introverted-intuition-ni.md). Attempting to use inferior Ni is not going to make an Se presentation more credible - not quite an exegesis, but what can I say. I recognize there's some imprecision here, if Moore's an ISTP. Nonetheless, in the mode of an ENTP, "As far as anyone is concerned, my intuition is valid." An INTJ might not think kindly of flagrant displays of an ISTP's tertiary defense, either.
+Fahrenheit 911 is an attempt to use inferior [Ni](intuition/introverted-intuition.md). Attempting to use inferior Ni is not going to make an Se presentation more credible - not quite an exegesis, but what can I say. I recognize there's some imprecision here, if Moore's an ISTP. Nonetheless, in the mode of an ENTP, "As far as anyone is concerned, my intuition is valid." An INTJ might not think kindly of flagrant displays of an ISTP's tertiary defense, either.
 
 "Who falls for this?!" - that's the question I want to ask Mr. Moore. As an ENTJ, possibly I'm smug about my Ni perceptions, but I agree - I wouldn't press it so much!
 
@@ -124,7 +124,7 @@ Fahrenheit 911 is an attempt to use inferior [Ni](intuition/introverted-intuitio
 
 ## A proposed definition: categorization without criteria
 
-Perhaps what [Lenore](../../../people-and-systems/lenore-thomson/) means by Introverted Perception is an attitude of putting things you experience into categories, where the categories are chosen on the basis of whatever seems to you to fit the things, without serving a predefined purpose or criterion.
+Perhaps what [Lenore](../../../people-and-systems/lenore-thomson.md) means by Introverted Perception is an attitude of putting things you experience into categories, where the categories are chosen on the basis of whatever seems to you to fit the things, without serving a predefined purpose or criterion.
 
 Taking an Si perspective, then, you simply find categories to put things in, and use these categories to build a rich network of mental associations that guide you to attend to the things that matter to you--to find those things in the midst of a predominantly overwhelming perceptual field.
 

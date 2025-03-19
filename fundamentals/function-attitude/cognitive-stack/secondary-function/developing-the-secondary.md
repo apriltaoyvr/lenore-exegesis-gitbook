@@ -1,6 +1,6 @@
 # Developing the Secondary
 
-Here are some ideas about the kinds of shifts in perspective that [Lenore](../../../../people-and-systems/lenore-thomson/) might be referring to when she speaks of using the [Secondary Function](./) to support a dominant "agenda" vs. using the [Secondary Function](./) to genuinely broaden your perspective.
+Here are some ideas about the kinds of shifts in perspective that [Lenore](../../../../people-and-systems/lenore-thomson.md) might be referring to when she speaks of using the [Secondary Function](./) to support a dominant "agenda" vs. using the [Secondary Function](./) to genuinely broaden your perspective.
 
 ## Examples
 

@@ -2,27 +2,25 @@
 description: What does Lenore mean by extraverted feeling?  (Often abbreviated "Fe".)
 ---
 
-# Extraverted Feeling (Fe)
-
-This is in the realm of the left brain's selective attention to the things we value, particularly in terms of human relations and relatedness, not necessarily in a sentimental way, but a [rational](../../../our-difficulties/terms-with-nonobvious-meanings/rational-and-irrational.md) way. So, who we befriend, love, hate are reflected here.
+# Extraverted Feeling
 
 ## Quasi-defining statements
 
-> p. 40: "When we use [Feeling](./) in an [Extraverted](../../attitude.md) way, it facilitates a complex social vocabulary, by which we express and recognize the values we hold in common with others."
+> p. 40: "When we use [Feeling](./) in an [Extraverted](broken-reference) way, it facilitates a complex social vocabulary, by which we express and recognize the values we hold in common with others."
 >
 > p. 318: "...organizing data by relatedness to ourselves. The categories of relationships we maintain in the external world—and the way we maintain them—reflect our _values_."
 >
-> p. 318: "Extraverted Feeling is conceptual and analytic. It encourages us to make rational choices, to measure our options for relationship against an external standard of behaviors. What distinguishes this function from [Extraverted Thinking](../thinking/extraverted-thinking-te/) is the fact that relatedness involves human beings, not impersonal abstractions."
+> p. 318: "Extraverted Feeling is conceptual and analytic. It encourages us to make rational choices, to measure our options for relationship against an external standard of behaviors. What distinguishes this function from [Extraverted Thinking](../thinking/extraverted-thinking.md) is the fact that relatedness involves human beings, not impersonal abstractions."
 >
 > p. 320 "... But the fact remains that we use these \[relational] categories for rational purposes: to set our priorities, to make decisions, to understand our obligations to others, and to anticipate others' behaviors toward us"
 >
 > p. 323: "The customs that constitute our \[Extraverted?] [Feeling](./) vocabulary are (socially) inherited forms that shape the relationships we establish and maintain. Their meaning is not straightforward but cumulative, becoming apparent as we use them and recognize their effects." (As a [Function Attitude](../../), then, Fe would be the ability to see people's behaviors in terms of such customs: as recognizable declarations of different kinds of relationship.)
 >
-> p. 370: "Extraverted Feeling relies on the outward, left-brain criteria of custom and law to mark off decisions that go beyond our immediate experience to affect the larger community. For example, in chapter 20, I mentioned rape and child abuse, which are not matters of individual choice, because they poison the society that tolerates them." (Compare [Introverted Feeling](introverted-feeling-fi.md).)
+> p. 370: "Extraverted Feeling relies on the outward, left-brain criteria of custom and law to mark off decisions that go beyond our immediate experience to affect the larger community. For example, in chapter 20, I mentioned rape and child abuse, which are not matters of individual choice, because they poison the society that tolerates them." (Compare [Introverted Feeling](introverted-feeling.md).)
 
 ## Proposed definitions
 
-### #1: [Orientation](../../../../sign-interpretation/orienting/) by social roles
+### #1: [Orientation](../../../../sign-interpretation/orienting.md) by social roles
 
 _Hypothesis:_ Extraverted Feeling is the attitude of viewing everything in terms of what _role_ it defines for people to play in regard to each other. When you say "How are you?" to someone, you are playing a role. It's a role that is intrinsically connected to other people's social roles; you can't play it by yourself. When the other person says, "Oh, not too bad. How about yourself?", they are playing out the complementary role. From an Fe perspective, by definition, every act is a declaration of what role you would like to play in the social setting.
 
@@ -30,9 +28,9 @@ When people speak of someone else's action as an attempt to "define them", they 
 
 In this manner, from an Fe standpoint, everyone is continually defining each other and getting defined by each other, as they establish social roles that others implicitly agree to go along with.
 
-### #2: [Orientation](../../../../sign-interpretation/orienting/) by the social language of relationship
+### #2: [Orientation](../../../../sign-interpretation/orienting.md) by the social language of relationship
 
-Fe is a way of [orienting](../../../../sign-interpretation/orienting/) yourself to your environment in terms of the culturally defined language of social relationship. The relationships of friend-friend, parent-child, husband-wife, teacher-student, teammate-teammate, leader-follower, and many others are all ultimately defined by and exist in the medium of gestures exchanged between people--gestures that they recognize as defining that relationship. When a jockey on the track tips his hat while passing the Queen of England, he is displaying a sign that says that he recognizes and participates in the relationship of British subject-British monarch. Each such relationship carries obligations for each party: both to display the signs that create the relationship, and to do more tangible things that give the relationship important stakes for all concerned--such as, in time of war, fighting for England or willingly giving up luxuries (e.g. rationing).
+Fe is a way of [orienting](../../../../sign-interpretation/orienting.md) yourself to your environment in terms of the culturally defined language of social relationship. The relationships of friend-friend, parent-child, husband-wife, teacher-student, teammate-teammate, leader-follower, and many others are all ultimately defined by and exist in the medium of gestures exchanged between people--gestures that they recognize as defining that relationship. When a jockey on the track tips his hat while passing the Queen of England, he is displaying a sign that says that he recognizes and participates in the relationship of British subject-British monarch. Each such relationship carries obligations for each party: both to display the signs that create the relationship, and to do more tangible things that give the relationship important stakes for all concerned--such as, in time of war, fighting for England or willingly giving up luxuries (e.g. rationing).
 
 Absolutely everything that people say to or do with each other can be interpreted as an invitation to participate in a social relationship that exists primarily through signs. This is because everything that we do says, "I care." Giving a woman a ring along with a proposal of marriage says "I care to have the relationship of marriage with you." Arguing heatedly with someone says, "I care that you see what I'm saying."
 
@@ -42,9 +40,9 @@ Sometimes you get into situations where some people you know will play along wit
 
 There is no escaping the fact that everything you do is such a declaration; no statement, no matter how factual or impersonal, can be truly neutral. Every statement is acting out a role, which some people will play along with and others won't.
 
-## As a mode of [ego-orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
+## As a mode of [ego-orientation](../../../../sign-interpretation/ego-orientation.md)
 
-As a mode of [ego-orientation](../../../../sign-interpretation/orienting/ego-orientation.md), Extraverted Feeling leads you to understand yourself as having a personal stake in the role that others in your community cast you in. By the role they cast you in and that you play--the role that emerges from the sort of negotiation described above--_you_ exist. If that role is bad, then it's a loss to your very self. If that role is good, then your very self has increased.
+As a mode of [ego-orientation](../../../../sign-interpretation/ego-orientation.md), Extraverted Feeling leads you to understand yourself as having a personal stake in the role that others in your community cast you in. By the role they cast you in and that you play--the role that emerges from the sort of negotiation described above--_you_ exist. If that role is bad, then it's a loss to your very self. If that role is good, then your very self has increased.
 
 People with developed Fe tend to create implied bargains with other people about what sort of role they will play in regard to each other. They make an opening "bid" where they cast the other person in a positive role, e.g. "Would you be willing to spare a moment of your time to share your expertise with me?", casting the other person as an expert and a very important person. The implied contract is that if they treat you as a very important person, then you will each have very satisfying social roles. But if you get out of line, then you will withdraw your willingness to cast them in that role. Each line where you play the other person up thus creates a sort of debt: now they "owe" you some response that makes you important.
 

@@ -17,7 +17,7 @@ Fe and Te are superego functions.
 
 Se and Ne are ego functions.
 
-If you truly do not have a sense of self as distinct, you truly do not have an ego. If a [function-attitude](../fundamentals/function-attitude/) as a dominant does not have a sense of self as unique (and thus uniquely important), that function-attitude is not an ego-attitude. (That is, if your dominant function is not an ego-function, you're going to have to hit another function for a sense of ego. -- that is, [Lenore](../people-and-systems/lenore-thomson/) on EFJs[^1] hitting their [tertiary function](../fundamentals/function-attitude/cognitive-stack/tertiary-function/) to experiment with their ability to stay up late and play hard, ETJs[^2] hitting their tertiary as a means to just quit regardless of the consequences, etc....)
+If you truly do not have a sense of self as distinct, you truly do not have an ego. If a [function-attitude](../fundamentals/function-attitude/) as a dominant does not have a sense of self as unique (and thus uniquely important), that function-attitude is not an ego-attitude. (That is, if your dominant function is not an ego-function, you're going to have to hit another function for a sense of ego. -- that is, [Lenore](../people-and-systems/lenore-thomson.md) on EFJs[^1] hitting their [tertiary function](../fundamentals/function-attitude/cognitive-stack/tertiary-function/) to experiment with their ability to stay up late and play hard, ETJs[^2] hitting their tertiary as a means to just quit regardless of the consequences, etc....)
 
 When functioning as a dominant, a superego function (that is, [extraverted feeling](https://web.archive.org/web/20060627203321/http://greenlightwiki.com/lenore-exegesis/extraverted_feeling)) will not be oriented by the self.
 

@@ -2,7 +2,7 @@
 description: What does Lenore mean by "Extraverted Intuition"? (Often abbreviated "Ne".)
 ---
 
-# Extraverted Intuition (Ne)
+# Extraverted Intuition
 
 ## Quasi-Defining Statements
 
@@ -16,7 +16,7 @@ description: What does Lenore mean by "Extraverted Intuition"? (Often abbreviate
 
 As a [dominant attitude](../../cognitive-stack/dominant-function.md):&#x20;
 
-> p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an [Extraverted](../../attitude.md) type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
+> p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an [Extraverted](broken-reference) type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
 
 ***
 
@@ -32,9 +32,9 @@ As a [dominant attitude](../../cognitive-stack/dominant-function.md):&#x20;
 
 To live, then, you need to continuously welcome the unknown, by always being ready to adjust in unanticipatable ways. What seems like a mistake is not a mistake when viewed in a larger pattern--and it's your job to find that larger pattern.
 
-(Compare [Introverted Sensation](../sensation/introverted-sensation-si.md), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
+(Compare [Introverted Sensation](../sensation/introverted-sensation.md), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
 
-### #3: [Orientation](../../../../sign-interpretation/orienting/) by searching
+### #3: [Orientation](../../../../sign-interpretation/orienting.md) by searching
 
 Ne is curiosity (but of course it's not that simple). Describing it as "looking" isn't deceptive, because Ne as an attitude is one of seeing what's there. The idea is that possibilities are visible in the Ne sense.
 
@@ -56,11 +56,11 @@ _Some examples_: How would the restaurant industry change if really good, health
 
 ### #5: Snapshot of Reality
 
-Ne is no different from its [Se](../sensation/extraverted-sensation-se.md) cousin. It creates a singular snapshot of the current state of reality. Unlike Se which is [sensory](../sensation/) based, Ne is everything extra-sensory. This includes everything that senses cannot pickup. (Disclaimer: "Senses" are not limited to just the 5 senses, all additional sense must be included i.e. balance, acceleration, kinesthetic etc.) For Ne primary type ENTP that snapshot is dissected with the [Ti](../../judgement/thinking/introverted-thinking-ti.md) function to see just how all of it works and fits together, while ENFPs use it to discern how to manipulate human relations and feelings. Einstein's famous thought experiments painted an impossible picture of reality which could then be studied.
+Ne is no different from its [Se](../sensation/extraverted-sensation.md) cousin. It creates a singular snapshot of the current state of reality. Unlike Se which is [sensory](../sensation/) based, Ne is everything extra-sensory. This includes everything that senses cannot pickup. (Disclaimer: "Senses" are not limited to just the 5 senses, all additional sense must be included i.e. balance, acceleration, kinesthetic etc.) For Ne primary type ENTP that snapshot is dissected with the [Ti](../../judgement/thinking/introverted-thinking.md) function to see just how all of it works and fits together, while ENFPs use it to discern how to manipulate human relations and feelings. Einstein's famous thought experiments painted an impossible picture of reality which could then be studied.
 
-This is what "outside the box" refers to, because human definition of box is an entirely sensory phenomena, everything is measured in terms of senses. Box defined in [intuition](./) would relate to this snapshot, which has a specific scope, its also a box. So Ne thinks outside the physical box, but it is within its own mental box. This isn't to say its inferior to true outside the box thinking which is actually [Te](../../judgement/thinking/extraverted-thinking-te/).
+This is what "outside the box" refers to, because human definition of box is an entirely sensory phenomena, everything is measured in terms of senses. Box defined in [intuition](./) would relate to this snapshot, which has a specific scope, its also a box. So Ne thinks outside the physical box, but it is within its own mental box. This isn't to say its inferior to true outside the box thinking which is actually [Te](../../judgement/thinking/extraverted-thinking.md).
 
-To investigate this Ne and [Ni](introverted-intuition-ni.md) must be compared. Ni would be the rolling of a camera, taking successive images of a situation until the events of which conclude. In order for this to have any meaning some arbitrary point must be defined by Extroverted [Judgement](../../judgement/). An investigation of a crime scene, probing witnesses for the events attempts to build a reconstruction of what occurred. Ni would piece together enough pictures to create a record.
+To investigate this Ne and [Ni](introverted-intuition.md) must be compared. Ni would be the rolling of a camera, taking successive images of a situation until the events of which conclude. In order for this to have any meaning some arbitrary point must be defined by Extroverted [Judgement](../../judgement/). An investigation of a crime scene, probing witnesses for the events attempts to build a reconstruction of what occurred. Ni would piece together enough pictures to create a record.
 
 Ne on the other hand simply takes an [intuitive](./) snapshot of the scene and uses the internal logic of the event. Specific occurrences within the event may or may not have happened because it is impossible for blood to splatter etc. etc.
 

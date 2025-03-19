@@ -14,7 +14,7 @@ It's easy to put down the shallow concerns of life, but in a way they are what l
 
 The word "shallow" is an interesting choice. We call the above concerns shallow, at least when taken to an extreme, because they involve seeking to display a sign without regard for the meaning of the sign. Making a big salary and driving a fancy car is a sign that you're contributing to your society in some important way, so important that other people are willing to pay lots of money for it. Means of becoming wealthy that don't involve constructive contribution to others' well-being play to the popular perception that money is good, but without the goodness.
 
-[Orienting](../sign-interpretation/orienting/) by how people instantly perceive a sign is [extraversion](../fundamentals/function-attitude/attitude.md). It's [extraversion](../fundamentals/function-attitude/attitude.md) taken to an extreme when the publicly accepted meaning of a sign is taken as the only reality, so that displaying those signs (and craftily maneuvering to get to display them) is all there is to life.
+[Orienting](../sign-interpretation/orienting.md) by how people instantly perceive a sign is [extraversion](broken-reference). It's [extraversion](broken-reference) taken to an extreme when the publicly accepted meaning of a sign is taken as the only reality, so that displaying those signs (and craftily maneuvering to get to display them) is all there is to life.
 
 ## What good is [introversion](https://web.archive.org/web/20080101070322/http://greenlightwiki.com/lenore-exegesis/introversion)?
 
@@ -22,7 +22,7 @@ The above might shed some light on the question of what benefit is there for ext
 
 Out-of-balance extraverts--those who lack an introverted perspective--have a distinctive way about them: they appear to be gigantic faces with no person inside. When they don't get instant respect, they seem to say, "But look, I'm putting on this gigantic face! You have to treat me as I say!" It works for a while, which is why they're baffled when it mysteriously stops working. It stops working when people see through it--that is, when the truth comes out that there's nothing behind the mask except a desperate grasping for social dominance and recognition.
 
-Gaining an introverted perspective would thus be to gain some depth: doing something that doesn't bring an immediate payoff and that others might not recognize the value of, because _you_ see the value of it--and fully accepting that perhaps no one else will ever appreciate it. Gaining depth means learning something about why the things that matter so much to you really matter: to become aware, for example, of how benefits that are easily measurable, like salary, are benefits only because of how they relate to the organic totality of life, which we can only experience all at once and does not submit to simplistic measures (see [Extraverted Thinking](../fundamentals/function-attitude/judgement/thinking/extraverted-thinking-te/) and [Introverted Feeling](../fundamentals/function-attitude/judgement/feeling/introverted-feeling-fi.md)). Or cultivate genuine knowledge and wisdom instead of the mere appearance of it (see [Extraverted Sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md) and [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition-ni.md)).
+Gaining an introverted perspective would thus be to gain some depth: doing something that doesn't bring an immediate payoff and that others might not recognize the value of, because _you_ see the value of it--and fully accepting that perhaps no one else will ever appreciate it. Gaining depth means learning something about why the things that matter so much to you really matter: to become aware, for example, of how benefits that are easily measurable, like salary, are benefits only because of how they relate to the organic totality of life, which we can only experience all at once and does not submit to simplistic measures (see [Extraverted Thinking](../fundamentals/function-attitude/judgement/thinking/extraverted-thinking.md) and [Introverted Feeling](../fundamentals/function-attitude/judgement/feeling/introverted-feeling.md)). Or cultivate genuine knowledge and wisdom instead of the mere appearance of it (see [Extraverted Sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md) and [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md)).
 
 ## The extraverted path for introverts
 
@@ -36,7 +36,7 @@ The problem I see with some of the ideas on this page is that it doesn't differe
 
 ***
 
-See also: [Lowest-Common-Denominator Logic](../fundamentals/function-attitude/judgement/thinking/extraverted-thinking-te/lowest-common-denominator-logic.md).
+See also: [Lowest-Common-Denominator Logic](lowest-common-denominator-logic.md).
 
 \
 \

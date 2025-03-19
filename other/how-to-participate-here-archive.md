@@ -9,7 +9,7 @@ For people who'd like to post to this wiki, here are some guidelines for how to 
 ## Guidelines
 
 * This probably goes without saying, but please actually read [Personality Type: An Owner's Manual](http://www.amazon.com/exec/obidos/ASIN/0877739870).
-* See [Exegesis Basics](../../exegesis/exegesis-basics.md).
+* See [Exegesis Basics](../exegesis.md#exegesis-basics).
 * Edit to make pages more interesting, more clear, more thought-provoking. Do you think that sticking an opposing idea into the middle of a paragraph as if it's part of the original idea makes it clearer\*\*\*? Me, neither. Develop each idea as clearly and persuasive as you can, usually separately from other ideas. Note that the clarity and interestingness of a page is different than whether you agree with it. "Edit to make pages clearer" is not the same as "edit to make pages say only things you agree with." See below for basic good writing tips.
 * Avoid writing in the first person (first-person declarations). Make your comments about the subject matter and not about yourself. For example, "Hypothesis: XYZW types tend to do ABC" is better than "I think XYZW types tend to do ABC." Ideas about Lenore Thomson's stuff are on topic; declarations that you think them are not. Without first-person writing, everyone can offer pros and cons of each hypothesis and we are all doing it cooperatively instead of forcing anyone to back down off of a claim they made. Here there is no shame in proposing a hypothesis that ultimately turns out to be wrong. Your job is not to be right, it's to say something interesting. Exception: First person is OK if you're relating an anecdote or expressing uncertainty (like asking someone else for clarification).
 * Please avoid making remarks about the other participants, especially what you think their type is. It's hard enough to share ideas about this topic without getting into arguments about who is what and trying to paint each other one way or another. The host (Ben Kovitz) will delete type guesses about participants on this wiki. Making type guesses about famous and fictional people is eagerly encouraged, though!
@@ -37,7 +37,7 @@ For people who'd like to post to this wiki, here are some guidelines for how to 
 
 \--Your host, Ben Kovitz
 
-See also: Type Guess, Type Guesses and the [Definition Problem](../../fundamentals/our-difficulties/definition-problem/).
+See also: [Type Guess](../fundamentals/our-difficulties/definition-problem/type-guesses-and-the-definition-problem.md), Type Guesses and the [Definition Problem](../fundamentals/our-difficulties/definition-problem/).
 
 
 

@@ -25,9 +25,9 @@ Furthermore, everyone actually has _all_ of the above attributes--potentially if
 
 Something unusual about Lenore's writing, compared to most writing about personality, is that it focuses squarely on people's real complexity, including their ability to have opposite attributes even while holding to a complex and ever-refining consistency. Lenore's main idea is not to fit people into categories of behavior, needs, or talents, but to describe ways in which people cut themselves off from and regain access to their full spectrum of ways of thinking and behaving, and why it's necessary to do that.
 
-### Then what _is_ [Lenore](https://web.archive.org/web/20051119065129/http://greenlightwiki.com/lenore-exegesis/Lenore) saying?
+### Then what _is_ [Lenore](../../people-and-systems/lenore-thomson.md) saying?
 
-Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../../exegesis/).
+Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../../exegesis.md).
 
 For some overall attempts, see:
 
@@ -37,7 +37,7 @@ For some overall attempts, see:
 
 ***
 
-See also: [Beyond Personality](https://web.archive.org/web/20051119065129/http://greenlightwiki.com/lenore-exegesis/Beyond_Personality), [Ecclesiastes 3:1-8](https://web.archive.org/web/20051119065129/http://www.blueletterbible.org/cgi-bin/tools/printer-friendly.pl?book=Ecc\&chapter=3\&startv=1\&endv=8\&version=kjv\&Go.x=33\&Go.y=12)\
+See also: [Beyond Personality](beyond-personality.md), [Ecclesiastes 3:1-8](https://web.archive.org/web/20051119065129/http://www.blueletterbible.org/cgi-bin/tools/printer-friendly.pl?book=Ecc\&chapter=3\&startv=1\&endv=8\&version=kjv\&Go.x=33\&Go.y=12)\
 \
 \
 \

@@ -8,23 +8,23 @@ coverY: 0
 # Function Attitude
 
 {% hint style="info" %}
-[Lenore](../../people-and-systems/lenore-thomson/) often refers to function-attitudes just as "**functions**", which goes back to Jung.
+[Lenore](../../people-and-systems/lenore-thomson.md) often refers to function-attitudes just as "**functions**", which goes back to Jung.
 
 On this wiki, we lean toward the more intuitively clear word "**attitudes**".
 {% endhint %}
 
-A _function-attitude_ is a [Jungian](../../people-and-systems/carl-jung.md) function used in an Extraverted or Introverted [attitude](attitude.md). Each type uses a combination of the four functions in a preferred order.&#x20;
+A _function-attitude_ is a [Jungian](../../people-and-systems/carl-jung.md) function used in an Extraverted or Introverted [attitude](broken-reference). Each type uses a combination of the four functions in a preferred order.&#x20;
 
 ## Functions
 
-In [Lenore'](../../people-and-systems/lenore-thomson/)s system, there are four functions:
+In [Lenore'](../../people-and-systems/lenore-thomson.md)s system, there are four functions:
 
 * [Sensation](perception/sensation/)
 * [Intuition](perception/intuition/)
 * [Thinking](judgement/thinking/)
 * [Feeling](judgement/feeling/)
 
-These are commonly grouped into **Perception** (Sensation and Intuition) and **Judgment** (Thinking and Feeling) within [Jungian ](../../people-and-systems/carl-jung.md)typology. [**Irrational** and **rational**](../our-difficulties/terms-with-nonobvious-meanings/rational-and-irrational.md) are used respectively as well, albeit differently than common utilisation.
+These are commonly grouped into **Perception** (Sensation and Intuition) and **Judgment** (Thinking and Feeling) within [Jungian ](../../people-and-systems/carl-jung.md)typology. **Irrational** and **rational** are used respectively as well, albeit differently than common utilisation.
 
 | Perception/Irrational | Judgment/Rational |
 | --------------------- | ----------------- |
@@ -33,16 +33,40 @@ These are commonly grouped into **Perception** (Sensation and Intuition) and **J
 
 See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md) for more information on why this may be.
 
+## Attitudes
+
+An attitude is a direction (introverted or extraverted) a function can have.&#x20;
+
+Some hypotheses on what introverted and extraverted mean are:
+
+* [Orienting](../../sign-interpretation/orienting.md)
+* [Introversion-Extraversion Exegeses](../../exegeses-and-hypotheses/introversion-extraversion/)
+  * [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)
+  * [Cocooning-vs.-Conforming Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md)
+  * [Game-Board Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/game-board.md)
+  * [Negotiation Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/negotiation.md)
+  * [Saints-and-Politicians Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians.md)
+  * [Place-Your-Stakes Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md)
+* [Philosophical Exegesis](../../exegeses-and-hypotheses/philosophical-exegesis.md)
+* [Forward-Direction Exegesis](../../exegeses-and-hypotheses/forward-direction.md)
+* [Shallowness](../../far-flung-explorations/shallowness.md)
+
+***
+
+### Extraversion
+
+> W.H Auden's poem [The Unknown Citizen](https://poets.org/poem/unknown-citizen) describes someone's life completely in extraverted terms.&#x20;
+
 ## Function-attitudes
 
-These four functions are then split into introverted and extraverted functions according to how one [orients](../../sign-interpretation/orienting/) themselves.
+These four functions are then split into introverted and extraverted functions according to how one [orients](../../sign-interpretation/orienting.md) themselves.
 
-| Extraverted                                                                    | Introverted                                                                    |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| [Extraverted Sensation (Se)](perception/sensation/extraverted-sensation-se.md) | [Introverted Sensation (Si)](perception/sensation/introverted-sensation-si.md) |
-| [Extraverted Intuition (Ne)](perception/intuition/extraverted-intuition-ne.md) | [Introverted Intuition (Ni)](perception/intuition/introverted-intuition-ni.md) |
-| [Extraverted Thinking (Te)](judgement/thinking/extraverted-thinking-te/)       | [Introverted Thinking (Ti)](judgement/thinking/introverted-thinking-ti.md)     |
-| [Extraverted Feeling (Fe)](judgement/feeling/extraverted-feeling-fe.md)        | [Introverted Feeling (Fi)](judgement/feeling/introverted-feeling-fi.md)        |
+| Extraverted                                                                 | Introverted                                                                 |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Extraverted Sensation (Se)](perception/sensation/extraverted-sensation.md) | [Introverted Sensation (Si)](perception/sensation/introverted-sensation.md) |
+| [Extraverted Intuition (Ne)](perception/intuition/extraverted-intuition.md) | [Introverted Intuition (Ni)](perception/intuition/introverted-intuition.md) |
+| [Extraverted Thinking (Te)](judgement/thinking/extraverted-thinking.md)     | [Introverted Thinking (Ti)](judgement/thinking/introverted-thinking.md)     |
+| [Extraverted Feeling (Fe)](judgement/feeling/extraverted-feeling.md)        | [Introverted Feeling (Fi)](judgement/feeling/introverted-feeling.md)        |
 
 Exactly what a function-attitude _is_ is the main part of the [Definition Problem](../our-difficulties/definition-problem/). See also [Genus Problem](../our-difficulties/definition-problem/genus-problem.md).
 

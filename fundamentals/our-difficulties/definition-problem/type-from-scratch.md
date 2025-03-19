@@ -7,7 +7,7 @@ description: >-
 
 # Type From Scratch
 
-For example, if we didn't already "know" that someone who tests ESTP has dominant [Extraverted Sensing](../../function-attitude/perception/sensation/extraverted-sensation-se.md) and secondary [Introverted Thinking](../../function-attitude/judgement/thinking/introverted-thinking-ti.md), what sorts of observations would lead us to figure that out?
+For example, if we didn't already "know" that someone who tests ESTP has dominant [Extraverted Sensing](../../function-attitude/perception/sensation/extraverted-sensation.md) and secondary [Introverted Thinking](../../function-attitude/judgement/thinking/introverted-thinking.md), what sorts of observations would lead us to figure that out?
 
 ## Some observations that seem to correlate with functions and attitudes
 
@@ -15,7 +15,7 @@ When you first meet an extravert, he seems to be a very clear-cut, definite pers
 
 When you first meet an introvert, he seems to have no personality at all. He barely seems to exist. The more you get to know an introvert, the more definite he seems to become. You start seeing a very clear-cut, unmistakable person who knows who he is and what he's doing. And then you see him in a group situation, and he seems to dissolve into nothing again.
 
-The relation between question and advice that [Lenore](../../../people-and-systems/lenore-thomson/) reports in the writings of [Advice Columnists](../../function-attitude/cognitive-stack/secondary-function/developing-the-secondary.md#advice-columnists).
+The relation between question and advice that [Lenore](../../../people-and-systems/lenore-thomson.md) reports in the writings of [Advice Columnists](../../function-attitude/cognitive-stack/secondary-function/developing-the-secondary.md#advice-columnists).
 
 A conversation between two NPs has a distinct pattern: you could call it [Holistic Spiraling](../../function-attitude/perception/#holistic-spiraling). When NJs talk together or an NP talks with an NJ, the spiraling seldom takes off even though there's still lots of reframing of ideas.
 
@@ -23,11 +23,11 @@ The peculiar disconnect that nearly always happens between INTJs and INTPs. From
 
 Type Clash in general: the specific ways in which people's assumptions about the unwritten rules of conversation or cooperation fail when they encounter people with different assumptions. Lenore's concepts might explain Type Clash in terms of different ways of finding the same things meaningful or meaningless.
 
-The staleness of the Analytic Philosophy world, presumably a magnet for INTJs who don't want to deal with anything tangible or of real consequence. The SFP-like fashion-following of much of academia (well, much of the humanities), where demonstrating that you are intellectually "hip" to all the latest fads and a craving for originality blots out the search for and teaching of timeless insights. Inferior [Extraverted Sensation](../../function-attitude/perception/sensation/extraverted-sensation-se.md)?
+The staleness of the Analytic Philosophy world, presumably a magnet for INTJs who don't want to deal with anything tangible or of real consequence. The SFP-like fashion-following of much of academia (well, much of the humanities), where demonstrating that you are intellectually "hip" to all the latest fads and a craving for originality blots out the search for and teaching of timeless insights. Inferior [Extraverted Sensation](../../function-attitude/perception/sensation/extraverted-sensation.md)?
 
-The peculiar difficulty that INJs often have in giving examples for their ideas. Asking for an example often strikes them as missing the point. Is this because of the way [Introverted Intuitions](../../function-attitude/perception/intuition/introverted-intuition-ni.md) "aren't really ideas"?
+The peculiar difficulty that INJs often have in giving examples for their ideas. Asking for an example often strikes them as missing the point. Is this because of the way [Introverted Intuitions](../../function-attitude/perception/intuition/introverted-intuition.md) "aren't really ideas"?
 
-ISTPs often take the same wry, distant, "commenting" attitude that Lenore ascribes to INJs, even to the point of being "seen as oracles and prophets". Tertiary [Introverted Intuition](../../function-attitude/perception/intuition/introverted-intuition-ni.md) could be the basis of the attitude of "commenting from the outside" seen in The Onion.
+ISTPs often take the same wry, distant, "commenting" attitude that Lenore ascribes to INJs, even to the point of being "seen as oracles and prophets". Tertiary [Introverted Intuition](../../function-attitude/perception/intuition/introverted-intuition.md) could be the basis of the attitude of "commenting from the outside" seen in The Onion.
 
 ## Imagine a zoo
 

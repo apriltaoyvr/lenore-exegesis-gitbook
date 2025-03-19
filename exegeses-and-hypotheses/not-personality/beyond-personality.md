@@ -2,13 +2,13 @@
 
 ## What it's not
 
-Lenore Thomson doesn't offer a bunch of categories to say that some people are inherently this way and other people are inherently that way. She offers no taxonomy of different kinds of talents, nor different kinds of callings, nor different kinds of environments that people need in order to flourish, nor _Gifts Differing_ of any sort. She uses the terms "[Extraverted](../../fundamentals/function-attitude/attitude.md)" and "[Introverted](../../fundamentals/function-attitude/attitude.md)" to mean something mostly unrelated to whether you're gregarious or reserved. As Lenore uses the four-letter codes, they aren't even a taxonomy of personality types.
+Lenore Thomson doesn't offer a bunch of categories to say that some people are inherently this way and other people are inherently that way. She offers no taxonomy of different kinds of talents, nor different kinds of callings, nor different kinds of environments that people need in order to flourish, nor _Gifts Differing_ of any sort. She uses the terms "[Extraverted](broken-reference)" and "[Introverted](broken-reference)" to mean something mostly unrelated to whether you're gregarious or reserved. As Lenore uses the four-letter codes, they aren't even a taxonomy of personality types.
 
 ## What it is
 
-What Lenore offers is a way to see your current way of understanding your personality as a way in which you've limited yourself in order to serve various needs, especially your need to plug in to the social matrix in some way. She offers a way to see your current understanding of your personality as an illusion. More importantly, she offers a vocabulary of different [attitudes](../../fundamentals/function-attitude/attitude.md) that lead beyond it, to a fuller realization of your genuine self in your real life and circumstances.
+What Lenore offers is a way to see your current way of understanding your personality as a way in which you've limited yourself in order to serve various needs, especially your need to plug in to the social matrix in some way. She offers a way to see your current understanding of your personality as an illusion. More importantly, she offers a vocabulary of different [attitudes](broken-reference) that lead beyond it, to a fuller realization of your genuine self in your real life and circumstances.
 
-The vocabulary doesn't point you to some distant place where you're supposedly heading. It aims to help you direct your attention in a way that is fruitful now, given your current situation and your current self-knowledge. The vocabulary focuses on what has shaped your personality so far and the [attitudes](../../fundamentals/function-attitude/attitude.md) that have grown into your characteristic ways of understanding and navigating your situation.
+The vocabulary doesn't point you to some distant place where you're supposedly heading. It aims to help you direct your attention in a way that is fruitful now, given your current situation and your current self-knowledge. The vocabulary focuses on what has shaped your personality so far and the [attitudes](broken-reference) that have grown into your characteristic ways of understanding and navigating your situation.
 
 ## Clash of expectations
 
@@ -18,6 +18,6 @@ But Lenore isn't telling you to be different than the way you are, either. She o
 
 ***
 
-See also: [Not Personality](./), [Investments vs. Essence](investments-vs.-essence.md), [Dobie Gillis show](../../people-and-systems/lenore-thomson/dobie-gillis-show.md).
+See also: [Not Personality](./), [Investments vs. Essence](investments-vs.-essence.md), [Dobie Gillis show](../../other/dobie-gillis-show.md).
 
 \

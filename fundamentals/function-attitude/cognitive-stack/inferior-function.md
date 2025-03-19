@@ -1,6 +1,6 @@
 # Inferior Function
 
-In [Lenore](../../../people-and-systems/lenore-thomson/)'s theory, the **inferior** [**function** ](../)is an attitude that is pushed out of consciousness as a person develops a [Dominant Function](dominant-function.md). The inferior function still exerts an influence on the person, but in a childish way. It leads the person to try to fulfill neglected needs, but in ways that clash with the rest of the person's life and self-understanding. When you get way out of balance, the inferior attitude "floods" you with motives and emotions you don't understand. You fall into a sort of ego-vertigo.
+In [Lenore](../../../people-and-systems/lenore-thomson.md)'s theory, the **inferior** [**function** ](../)is an attitude that is pushed out of consciousness as a person develops a [Dominant Function](dominant-function.md). The inferior function still exerts an influence on the person, but in a childish way. It leads the person to try to fulfill neglected needs, but in ways that clash with the rest of the person's life and self-understanding. When you get way out of balance, the inferior attitude "floods" you with motives and emotions you don't understand. You fall into a sort of ego-vertigo.
 
 One of Lenore's [Main Propositions](../../main-propositions.md) is that you can't solve those sorts of problems by developing your inferior function directly. She says that the path to consciously incorporating these neglected elements of yourself is through your [Secondary Function](secondary-function/).
 
@@ -8,9 +8,9 @@ See [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/introversion-e
 
 ## Interpretations and Readings
 
-### **The** [**Semiotic** ](../../../sign-interpretation/semiotic-attitude/)**Standpoint**
+### **The** [**Semiotic** ](../../../sign-interpretation/semiotic-attitude.md)**Standpoint**
 
-The Inferior Function pressures you to take a different interpretation of certain signs than you are used to. However, this can lead you to become [Semiotically Disoriented](../../../sign-interpretation/semiotic-attitude/semiotically-disoriented.md). Suddenly your inferior function confronts you with strange goals (due to different interpretations of signs), but your [dominant function](dominant-function.md) offers you no way to relate to them, let alone meet them. In fact, your [dominant function](dominant-function.md) will deny that these goals are even valid in the first place. It would love to sweep them under the carpet, and the [Tertiary Temptation](tertiary-function/tertiary-temptation.md) offers an excuse to do so. However, the [secondary function](secondary-function/) may offer a way of interpreting signs that allows the [dominant function](dominant-function.md) to properly orient itself in relation to the goals of the inferior function.
+The Inferior Function pressures you to take a different interpretation of certain signs than you are used to. However, this can lead you to become [Semiotically Disoriented](../../../semiotically-disoriented.md). Suddenly your inferior function confronts you with strange goals (due to different interpretations of signs), but your [dominant function](dominant-function.md) offers you no way to relate to them, let alone meet them. In fact, your [dominant function](dominant-function.md) will deny that these goals are even valid in the first place. It would love to sweep them under the carpet, and the [Tertiary Temptation](tertiary-function/tertiary-temptation.md) offers an excuse to do so. However, the [secondary function](secondary-function/) may offer a way of interpreting signs that allows the [dominant function](dominant-function.md) to properly orient itself in relation to the goals of the inferior function.
 
 ### The inferior function as your "alien hand"
 
@@ -20,7 +20,7 @@ p. 76 (Describing split-brain patients):
 >
 > "...Most of us favor functions governed by one side of the brain or another, which ensures that the 'alien side' of our personality receives little attention. Eventually, we reach a state of typological imbalance. Much as the 'alien hand' of a split-brain patient stops the other hand from opening a door or putting on a sock, our least-developed [function](../) asserts its own priorities, flooding us with impulses that interfere with our usual goals."
 
-Hypothesis: the Inferior Function is the [Semiotic Attitude](../../../sign-interpretation/semiotic-attitude/) through which you can see most clearly the parts of yourself that lurk in the [Yawning Void](https://web.archive.org/web/20070416085529/http://greenlightwiki.com/heuristic/Yawning_Void).
+Hypothesis: the Inferior Function is the [Semiotic Attitude](../../../sign-interpretation/semiotic-attitude.md) through which you can see most clearly the parts of yourself that lurk in the [Yawning Void](https://web.archive.org/web/20070416085529/http://greenlightwiki.com/heuristic/Yawning_Void).
 
 Maybe you don't want to look there. Maybe with good reason.
 
@@ -44,10 +44,10 @@ Dealing with spectrum behavior (ala the enneagram levels of development, Big 5s 
 * Schizoid
 * Manic Depressive
 
-In his descriptions of [Introverted Thinking](../judgement/thinking/introverted-thinking-ti.md) Jung directly correlated the type-specific neurotic behavior with psychasthenia (which correlates to Schizophrenia, and to enneagram type 5).This overflows somewhat to 4w5 INTJs - depressive schizophrenia - Haruki Murakami's book Hard-boiled Wonderland and the End of the World; and to 6w5 INFPs - paranoid schizophrenia - Adolf Hitler; and to some 8s - L. Ron Hubbard.
+In his descriptions of [Introverted Thinking](../judgement/thinking/introverted-thinking.md) Jung directly correlated the type-specific neurotic behavior with psychasthenia (which correlates to Schizophrenia, and to enneagram type 5).This overflows somewhat to 4w5 INTJs - depressive schizophrenia - Haruki Murakami's book Hard-boiled Wonderland and the End of the World; and to 6w5 INFPs - paranoid schizophrenia - Adolf Hitler; and to some 8s - L. Ron Hubbard.
 
 ***
 
 See Taxi Driver.
 
-And then see [Function Attitude](../), [Terms With Nonobvious Meanings](../../our-difficulties/terms-with-nonobvious-meanings/), [Cocooning-vs.-Conforming Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md).
+And then see [Function Attitude](../), [Terms With Nonobvious Meanings](../../our-difficulties/terms-with-nonobvious-meanings.md), [Cocooning-vs.-Conforming Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md).

@@ -12,11 +12,11 @@ The nature of mathematics necessitates an indifference to whether its ideas have
 
 Math departments in universities all over the United States have posters saying, "Math is cool," but they're wrong. The only reason they have to say it is because they and everyone else knows it's false. Math is intrinsically difficult to talk about. It takes a lot of time and training to get to know what the symbols mean and the idioms of the field, and even then, talking about new mathematical ideas requires a great deal of patience.
 
-Thus math does not provide a way to interact with people in a quick, easy-to-understand way. It has little to offer for [extraverted](../fundamentals/function-attitude/attitude.md) interaction. For example, math is not cool, and so cannot provide much appeal from an [extraverted sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md) standpoint. So you have a proof of Lagrange's theorem? How many people can respond to that? Compare a good proof to a crazy haircut. Which gets more attention among the general population?
+Thus math does not provide a way to interact with people in a quick, easy-to-understand way. It has little to offer for [extraverted](broken-reference) interaction. For example, math is not cool, and so cannot provide much appeal from an [extraverted sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md) standpoint. So you have a proof of Lagrange's theorem? How many people can respond to that? Compare a good proof to a crazy haircut. Which gets more attention among the general population?
 
 ### An extraverted arena where math has an important role
 
-There is, however, one area where math provides an extraverted payoff: making calculations where something tangible is at stake. Applied math gives you a way to define promises that you can make, and to determine which promises you can deliver on, and even, to some extent, how much it will cost to deliver. This doesn't make math cool, but it does make it very appealing from the perspective of [Extraverted Thinking](../fundamentals/function-attitude/judgement/thinking/extraverted-thinking-te/).
+There is, however, one area where math provides an extraverted payoff: making calculations where something tangible is at stake. Applied math gives you a way to define promises that you can make, and to determine which promises you can deliver on, and even, to some extent, how much it will cost to deliver. This doesn't make math cool, but it does make it very appealing from the perspective of [Extraverted Thinking](../fundamentals/function-attitude/judgement/thinking/extraverted-thinking.md).
 
 ### Could math become cool?
 
@@ -34,7 +34,7 @@ Good math people are just too honest for marketing (which is so utterly, utterly
 
 ### Hypothesis: This is actually Se
 
-Here's why changing the name might illustrate an Se attitude rather than Ni: Because it's bending to the limitations of what people in the culture will pay attention to right now. It adapts to what _is_ perceived as cool. Adapting to (limiting oneself to what's possible within) the present cultural situation: [extraversion](../fundamentals/function-attitude/attitude.md); making appearance into the primary factor: [extraverted sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md).
+Here's why changing the name might illustrate an Se attitude rather than Ni: Because it's bending to the limitations of what people in the culture will pay attention to right now. It adapts to what _is_ perceived as cool. Adapting to (limiting oneself to what's possible within) the present cultural situation: [extraversion](broken-reference); making appearance into the primary factor: [extraverted sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md).
 
 An Ni attitude would lead one to attend to how this choice of name will likely distort people's understanding of math and possibly shape future research directions.
 

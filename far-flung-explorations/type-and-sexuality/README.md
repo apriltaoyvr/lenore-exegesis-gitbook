@@ -6,13 +6,13 @@ description: >-
 
 # Type and Sexuality
 
-As Paul James mentions in his long [INTP profile](https://web.archive.org/web/20071014043748/http://www.intp.org/intprofile.html), "sexuality is the one thing whose natural power can break through any type dynamics." Sexuality provides individuals with both extraverted goals and introverted opportunities for development. Hence, issues around sexuality can often be a cause the feeling of "being stuck in life" that [Lenore](../../people-and-systems/lenore-thomson/) describes.
+As Paul James mentions in his long [INTP profile](https://web.archive.org/web/20071014043748/http://www.intp.org/intprofile.html), "sexuality is the one thing whose natural power can break through any type dynamics." Sexuality provides individuals with both extraverted goals and introverted opportunities for development. Hence, issues around sexuality can often be a cause the feeling of "being stuck in life" that [Lenore](../../people-and-systems/lenore-thomson.md) describes.
 
 What exactly is the relationship between sexuality and type?
 
-## Hypothesis: [Extraverted Sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md)
+## Hypothesis: [Extraverted Sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md)
 
-Sexuality is contained by [extraverted sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md) and possibly [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling-fi.md), because sexuality is sensual and emotional. This hypothesis fits with MBTI because some type profiles describe [SFPs](https://web.archive.org/web/20071014043748/http://greenlightwiki.com/lenore-exegesis/SFPs) as very sexual.
+Sexuality is contained by [extraverted sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md) and possibly [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling.md), because sexuality is sensual and emotional. This hypothesis fits with MBTI because some type profiles describe [SFPs](https://web.archive.org/web/20071014043748/http://greenlightwiki.com/lenore-exegesis/SFPs) as very sexual.
 
 ### **A possible problem with this hypothesis:**
 
@@ -20,17 +20,17 @@ People can have highly developed Se, but still be sexually repressed. Likewise, 
 
 ## A more refined hypothesis
 
-_Some_ aspects of sexuality are contained by [extraverted sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation-se.md) and [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling-fi.md), but sexuality behaves like _another_ [_function attitude_](../../fundamentals/function-attitude/). This extra function is related to Se only to the extent that they are both sensual. Hence, we can talk about "developing one's sexuality" like we talk about developing a [function attitude](../../fundamentals/function-attitude/).
+_Some_ aspects of sexuality are contained by [extraverted sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md) and [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling.md), but sexuality behaves like _another_ [_function attitude_](../../fundamentals/function-attitude/). This extra function is related to Se only to the extent that they are both sensual. Hence, we can talk about "developing one's sexuality" like we talk about developing a [function attitude](../../fundamentals/function-attitude/).
 
-In short, sexuality somehow overlaps with Se and Fi. (and maybe Ti, as [Lenore](../../people-and-systems/lenore-thomson/) defines it???)
+In short, sexuality somehow overlaps with Se and Fi. (and maybe Ti, as [Lenore](../../people-and-systems/lenore-thomson.md) defines it???)
 
-Some relationship between sexuality and Se/Fi makes sense considering that many restrictions on sexuality have come from a J standpoint. The idea that virginity is a type of purity seems like an example of tertiary or inferior [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling-fi.md). Marriage is an extreme Judging institution. Concern with the "stability of marriage" represents Si. Dating is a complex system of [extraverted feeling](../../fundamentals/function-attitude/judgement/feeling/extraverted-feeling-fe.md). [Seduction](seduction.md), in contrast, is a very [Perceiving](../../fundamentals/function-attitude/perception/) approach to sexuality because it goes around social rules, and even exploits those rules. (refinement - Seduction is more specifically a very Ti approach to sexuality - Fi impels FP[^1]s to express themselves rather than use tactics which they don't see has reflecting their personal values but may have a higher success rate. "Success" is a functional, not a value judgement, placing it more in line with Ti than Fi.) Polyamory is also an extreme Ji approach to relationships (and it is definitely distrusted from the standpoint of Je).
+Some relationship between sexuality and Se/Fi makes sense considering that many restrictions on sexuality have come from a J standpoint. The idea that virginity is a type of purity seems like an example of tertiary or inferior [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling.md). Marriage is an extreme Judging institution. Concern with the "stability of marriage" represents Si. Dating is a complex system of [extraverted feeling](../../fundamentals/function-attitude/judgement/feeling/extraverted-feeling.md). [Seduction](seduction.md), in contrast, is a very [Perceiving](../../fundamentals/function-attitude/perception/) approach to sexuality because it goes around social rules, and even exploits those rules. (refinement - Seduction is more specifically a very Ti approach to sexuality - Fi impels FP[^1]s to express themselves rather than use tactics which they don't see has reflecting their personal values but may have a higher success rate. "Success" is a functional, not a value judgement, placing it more in line with Ti than Fi.) Polyamory is also an extreme Ji approach to relationships (and it is definitely distrusted from the standpoint of Je).
 
 Yet within the basic idea that sexuality has something to do with Se, there are ways to approach sexuality from each of the function attitudes.
 
 ## Attitudes toward sex (a completely different hypothesis)
 
-_Hypothesis:_ From the [Lenore](../../people-and-systems/lenore-thomson/) standpoint, sex is not the province of any one [function attitude](../../fundamentals/function-attitude/), but rather different attitudes create different mental representations of sex. These different ways of understanding what sex is and what it means lead to conflicting approaches to sex, which each person has to sort out in his own way:
+_Hypothesis:_ From the [Lenore](../../people-and-systems/lenore-thomson.md) standpoint, sex is not the province of any one [function attitude](../../fundamentals/function-attitude/), but rather different attitudes create different mental representations of sex. These different ways of understanding what sex is and what it means lead to conflicting approaches to sex, which each person has to sort out in his own way:
 
 _Te:_ What do the recognized authorities say about sex? They'll know a lot more than you can possibly figure out by experimenting in bed. To have great sex, you should read a book to learn how to do it _right._ Sex is part of our marriage contract, so you're going to have sex whether you like it or not.
 
@@ -52,21 +52,21 @@ _Ni:_ What is sex, really? Just two bodies rubbing together. All that we make of
 
 It might help to spell out explicitly how those illustrate each [function attitude](https://web.archive.org/web/20071014043748/http://greenlightwiki.com/lenore-exegesis/function_attitude) in general:
 
-_Te:_ [Orienting](../../sign-interpretation/orienting/) by predictability, especially through what has already been proven or agreed to, and can be carried out in a step-by-step way that is defined in advance of the act and that both parties understand; tying into the social network to get second-hand knowledge (verbal/procedural, not experiential).
+_Te:_ [Orienting](../../sign-interpretation/orienting.md) by predictability, especially through what has already been proven or agreed to, and can be carried out in a step-by-step way that is defined in advance of the act and that both parties understand; tying into the social network to get second-hand knowledge (verbal/procedural, not experiential).
 
-_Ti:_ [Orienting](../../sign-interpretation/orienting/) by first-hand, experiential understanding; exploring the causal connections through experiment, learning to "see" the whole space through direct interaction.
+_Ti:_ [Orienting](../../sign-interpretation/orienting.md) by first-hand, experiential understanding; exploring the causal connections through experiment, learning to "see" the whole space through direct interaction.
 
-_Fe:_ [Orienting](../../sign-interpretation/orienting/) by how sex defines a relationship in socially recognizable terms, analyzing in terms of what the stakes are in terms of social connection and obligation: "What ties will this create or destroy, and do I want that?"
+_Fe:_ [Orienting](../../sign-interpretation/orienting.md) by how sex defines a relationship in socially recognizable terms, analyzing in terms of what the stakes are in terms of social connection and obligation: "What ties will this create or destroy, and do I want that?"
 
-_Fi:_ [Orienting](../../sign-interpretation/orienting/) by each individual's unique nature and desires, insisting that everything else (like social agreement about rights) should be adapted to let the individual's calling be fulfilled, whatever it is.
+_Fi:_ [Orienting](../../sign-interpretation/orienting.md) by each individual's unique nature and desires, insisting that everything else (like social agreement about rights) should be adapted to let the individual's calling be fulfilled, whatever it is.
 
-_Se:_ [Orienting](../../sign-interpretation/orienting/) by appearance and its immediate effects on people when they don't reflect on what they're doing or second-guess themselves; trusting your body and the world and just letting it happen.
+_Se:_ [Orienting](../../sign-interpretation/orienting.md) by appearance and its immediate effects on people when they don't reflect on what they're doing or second-guess themselves; trusting your body and the world and just letting it happen.
 
-_Si:_ [Orienting](../../sign-interpretation/orienting/) by what is known and matters to you personally in any context (in this case, your health and your pleasure and your bond (if any) with your partner); setting up a barrier to prevent the unknown from endangering that.
+_Si:_ [Orienting](../../sign-interpretation/orienting.md) by what is known and matters to you personally in any context (in this case, your health and your pleasure and your bond (if any) with your partner); setting up a barrier to prevent the unknown from endangering that.
 
-_Ne:_ [Orienting](../../sign-interpretation/orienting/) by thinking "outside the box" about sex, looking for insight from something seemingly unrelated, going off on the exploration and never returning home (being tied to no predetermined destination).
+_Ne:_ [Orienting](../../sign-interpretation/orienting.md) by thinking "outside the box" about sex, looking for insight from something seemingly unrelated, going off on the exploration and never returning home (being tied to no predetermined destination).
 
-_Ni:_ Refusing to [orient](../../sign-interpretation/orienting/) by reference points found in external reality: rejecting both the body and culture as meaningful reference points for understanding sex.
+_Ni:_ Refusing to [orient](../../sign-interpretation/orienting.md) by reference points found in external reality: rejecting both the body and culture as meaningful reference points for understanding sex.
 
 ***
 

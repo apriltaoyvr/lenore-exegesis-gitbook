@@ -26,7 +26,7 @@ The "representations" described above are things like words, numbers, and diagra
 ## Some problems with this exegesis
 
 * It's a pure gear-shifting theory: just a collection of heuristics, suggesting nothing about internal conflicts, self-identity, why people would cling to one of these, or why a Secondary Function would be so helpful.
-* It offers no answer to the question of why the same words are used to describe different [Function Attitudes](../fundamentals/function-attitude/): for example, what the different [Introverted attitudes](../fundamentals/function-attitude/attitude.md) have in common, or what the different [Sensation ](../fundamentals/function-attitude/perception/sensation/)attitudes have in common.
+* It offers no answer to the question of why the same words are used to describe different [Function Attitudes](../fundamentals/function-attitude/): for example, what the different [Introverted attitudes](broken-reference) have in common, or what the different [Sensation ](../fundamentals/function-attitude/perception/sensation/)attitudes have in common.
 
 And yet, it seems to map well to actual people who fit the type profiles.
 

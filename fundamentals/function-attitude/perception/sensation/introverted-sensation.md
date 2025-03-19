@@ -2,7 +2,7 @@
 description: What does Lenore mean by introverted sensation? (Often abbreviated "Si".)
 ---
 
-# Introverted Sensation (Si)
+# Introverted Sensation
 
 ## Quasi-defining statements
 
@@ -20,7 +20,7 @@ As a [dominant attitude](../../cognitive-stack/dominant-function.md):
 
 ## Proposed definition #1: You need a map
 
-**Introverted Sensation** (Si) is the attitude that what is manifest (apparent, observable) is overwhelming in its complexity and patternlessness, and that the only way we can find our way through it is with a map. To make our way through the unpredictable, we need to anchor ourselves in some way, to know what, in that vast chaos, to focus on. (See [Orienting](../../../../sign-interpretation/orienting/).)
+**Introverted Sensation** (Si) is the attitude that what is manifest (apparent, observable) is overwhelming in its complexity and patternlessness, and that the only way we can find our way through it is with a map. To make our way through the unpredictable, we need to anchor ourselves in some way, to know what, in that vast chaos, to focus on. (See [Orienting](../../../../sign-interpretation/orienting.md).)
 
 ## Proposed definition #2: The unknown is dangerous, so anchor yourself in the known
 
@@ -32,7 +32,7 @@ An everyday example is to allow some extra time when leaving on a trip. The reas
 
 From the Si standpoint, the more you're going to depend on something, the more carefully you'd better inspect it, because you never know what unknown things might go awry, you only know that most of them are bad.
 
-(Compare [Extraverted Intuition](../intuition/extraverted-intuition-ne.md), which leads to the exact opposite attitude toward the unknown.)
+(Compare [Extraverted Intuition](../intuition/extraverted-intuition.md), which leads to the exact opposite attitude toward the unknown.)
 
 ## Si in the [Inferior Position](../../cognitive-stack/inferior-function.md)
 

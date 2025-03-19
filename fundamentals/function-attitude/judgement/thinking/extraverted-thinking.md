@@ -2,25 +2,25 @@
 description: What does Lenore mean by extraverted thinking?  (Often abbreviated "Te".)
 ---
 
-# Extraverted Thinking (Te)
+# Extraverted Thinking
 
 ## Quasi-defining statements
 
 > p. 255: "The discernment of a standard, or principle, that can be pried apart from its context and applied to a new set of objects."
 >
-> p. 254: "In the inner Perceptual world, we need not organize acquired facts or determine their relationship to each other. It's in the outer world that the left brain requires predictability. Confronted with multiple objects in a sensory context, the left brain has to decide where to place its focus. ... Extraverted Thinking is one way of creating \[a systematic basis for concentrating our attention]--an impersonal way. It prompts us to notice the qualities that objects have in common, and to use those shared aspects as a standard of sequential order. Whenever we [Think](../), we're relying on such standards--to organize multiple objects and to establish logical relationships between them."
+> p. 254: "In the inner Perceptual world, we need not organize acquired facts or determine their relationship to each other. It's in the outer world that the left brain requires predictability. Confronted with multiple objects in a sensory context, the left brain has to decide where to place its focus. ... Extraverted Thinking is one way of creating \[a systematic basis for concentrating our attention]--an impersonal way. It prompts us to notice the qualities that objects have in common, and to use those shared aspects as a standard of sequential order. Whenever we [Think](./), we're relying on such standards--to organize multiple objects and to establish logical relationships between them."
 >
 > p. 256: "\[From the standpoint of Extraverted Thinking], the objects that illustrate our general principles are less important than the principles themselves. ... What's important is their _relationship_--the expectation that we retain."
 >
 > p. 256: "As we move from one context to another, a throng of such ghosts \[known causal relationships] come with us, and we assess their possibilities for tangible embodiment."
 >
-> p. 257: "When we [Think](../), we're either extracting a logical relationship from its material context, turning it into a portable ghost, or we're translating our familiar ghosts into form in some new context."
+> p. 257: "When we [Think](./), we're either extracting a logical relationship from its material context, turning it into a portable ghost, or we're translating our familiar ghosts into form in some new context."
 >
 > p. 265: "If you can't measure something, you can't predict its behavior, and hence it isn't real."
 
 ## Sequential order (aka Cause and Effect)
 
-What [Lenore](../../../../../people-and-systems/lenore-thomson/) meant by "sequential order" might be illustrated by this sentence:
+What [Lenore](../../../../people-and-systems/lenore-thomson.md) meant by "sequential order" might be illustrated by this sentence:
 
 > p. 255: "The relationship between act and result \[dropped spoon and clang] is so utterly predictable that it suggests a fixed sequence of events--the idea that the same thing will occur with other kinds of objects."
 
@@ -36,18 +36,18 @@ As a [dominant function](https://web.archive.org/web/20071014031048/http://green
 
 The statue of the blind woman holding a balance scale, to symbolize justice, might be one of the clearest symbols of the Te attitude.
 
-[Steven Covey](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/Steven_Covey) is no doubt one of the leading exponents of the [extraverted thinking](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/extraverted_thinking) attitude toward life, though partly leavened by an alternative viewpoint of [introverted intuition](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/introverted_intuition).
+[Steven Covey](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/Steven_Covey) is no doubt one of the leading exponents of the [extraverted thinking](extraverted-thinking.md) attitude toward life, though partly leavened by an alternative viewpoint of [introverted intuition](../../perception/intuition/introverted-intuition.md).
 
 ## In different positions
 
-As a [dominant function](../../../cognitive-stack/dominant-function.md) in ETJs[^1]: Integrity means sticking with it until it's done right, or quitting when those you are working with are interfering with your ability to do it right.
+As a [dominant function](../../cognitive-stack/dominant-function.md) in ETJs[^1]: Integrity means sticking with it until it's done right, or quitting when those you are working with are interfering with your ability to do it right.
 
-As a [tertiary defense](../../../cognitive-stack/tertiary-function/tertiary-defense.md) in ENFPs: Integrity means quiting when you can no longer add anything useful, or are hindering the smooth operation of those/that with which you are working.
+As a [tertiary defense](../../cognitive-stack/tertiary-function/tertiary-defense.md) in ENFPs: Integrity means quitting when you can no longer add anything useful, or are hindering the smooth operation of those/that with which you are working.
 
 ***
 
-See [Lowest-Common-Denominator Logic](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/Lowest-Common-Denominator_Logic), other [Function Attitudes](../../../), [Thinking](../).
+See [Lowest-Common-Denominator Logic](https://web.archive.org/web/20071014031048/http://greenlightwiki.com/lenore-exegesis/Lowest-Common-Denominator_Logic), other [Function Attitudes](../../), [Thinking](./).
 
-For an illustration of how Te sometimes manifests itself in conversation, see [King on the Mountain](../../../../../far-flung-explorations/king-on-the-mountain.md).
+For an illustration of how Te sometimes manifests itself in conversation, see [King on the Mountain](../../../../far-flung-explorations/king-on-the-mountain.md).
 
 [^1]: Types with Extraverted Thinking as their dominant function
