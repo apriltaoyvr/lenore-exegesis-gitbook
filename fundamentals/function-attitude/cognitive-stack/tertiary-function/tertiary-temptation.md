@@ -1,14 +1,14 @@
 # Tertiary Temptation
 
-The temptation, when we feel pressure from our [Inferior Function](../inferior-function.md), to explain our problems to ourselves in terms of an attitude opposite to our [Secondary Function](../secondary-function/). This supports the self-understanding of our [Dominant Function](../dominant-function.md) in [Extraverted or Introverted](broken-reference) terms, whichever we are most accustomed to. This cognitive move doesn't lead us to address the real problems, which would require a more genuine change in perspective; it does, however, restore an inner sense of harmony.
+The temptation, when we feel pressure from our [Inferior Function](../inferior-function.md), to explain our problems to ourselves in terms of an attitude opposite to our [Secondary Function](../secondary-function/). This supports the self-understanding of our [Dominant Function](../dominant-function.md) in Extraverted or Introverted terms, whichever we are most accustomed to. This cognitive move doesn't lead us to address the real problems, which would require a more genuine change in perspective; it does, however, restore an inner sense of harmony.
 
-For an exploration of why this is, see [Tertiary Defense](https://web.archive.org/web/20060621032431/http://greenlightwiki.com/lenore-exegesis/Tertiary_Defense).
+For an exploration of why this is, see [Tertiary Defense](tertiary-defense.md).
 
 ## How it works
 
 ### For introverts
 
-When introverts run into a situation that their [Dominant Function](../dominant-function.md) can't handle, they need to adapt by negotiating, going along with the limitations of low-bandwidth social interaction, or otherwise doing something that does not involve total control or understanding of the situation. The [Tertiary Function](./) provides justification for maintaining an [Introverted ](broken-reference)approach directly opposite to the worldly expansiveness that the person is ready for.
+When introverts run into a situation that their [Dominant Function](../dominant-function.md) can't handle, they need to adapt by negotiating, going along with the limitations of low-bandwidth social interaction, or otherwise doing something that does not involve total control or understanding of the situation. The [Tertiary Function](./) provides justification for maintaining an Introverted approach directly opposite to the worldly expansiveness that the person is ready for.
 
 Tertiary Si: "I can't possibly go along with this, I don't have any reliable concepts or map to anchor myself with: it's all arbitrary and untrustworthy and meaningless. I'd be diving in without any orientation; I'd be tripped up or harmed from any random direction, and my efforts wouldn't be cumulative. I just won't budge. I'll build myself some barricades and wait for the storm to blow over." The [Secondary Function](../secondary-function/) would say: "Look around, shake up the pot, see what new arises, and deal with it imaginatively; there must be better alternatives available than being stuck here."
 
@@ -20,7 +20,7 @@ Tertiary Fi: "I can't possibly go along with this, because it would mar my soul.
 
 ### For extraverts
 
-For extraverts, the **Tertiary Temptation** arises when [Orienting ](../../../../sign-interpretation/orienting/)by socially defined expectations is failing them. To find their way, they need an independent integrity or awareness, which cannot be developed by understanding oneself solely in terms of how people respond to you. The [Tertiary Function](./) provides a way of [Orienting ](../../../../sign-interpretation/orienting/)in an [Extraverted ](broken-reference)way--a way of [Orienting ](../../../../sign-interpretation/orienting/)directly opposite to the [Introverted](broken-reference) discovery that the person's current situation is naturally leading to.
+For extraverts, the **Tertiary Temptation** arises when [Orienting ](../../../../sign-interpretation/orienting/)by socially defined expectations is failing them. To find their way, they need an independent integrity or awareness, which cannot be developed by understanding oneself solely in terms of how people respond to you. The [Tertiary Function](./) provides a way of [Orienting ](../../../../sign-interpretation/orienting/)in an Extraverted way--a way of [Orienting ](../../../../sign-interpretation/orienting/)directly opposite to the Introverted discovery that the person's current situation is naturally leading to.
 
 Tertiary Se: "I'll physically intimidate him. I'll brandish a little power and he'll get back in line. Beneath all our refinement, people are just animals, and let me tell you, this animal will not be denied. I'll go with my gut instinct here. You can't know everything in advance, you have to trust your gut in each moment. Good thing my gut is trustworthy. A person with lesser character wouldn't be able to trust his luck the way I can." The [Secondary Function](../secondary-function/) would say: "What is really dangerous here and what's just a paper tiger? What are some options you haven't considered yet only because the current way appears--falsely--to be necessarily so?"
 

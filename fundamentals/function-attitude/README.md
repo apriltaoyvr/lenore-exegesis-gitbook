@@ -13,7 +13,7 @@ coverY: 0
 On this wiki, we lean toward the more intuitively clear word "**attitudes**".
 {% endhint %}
 
-A _function-attitude_ is a [Jungian](../../people-and-systems/carl-jung.md) function used in an Extraverted or Introverted [attitude](broken-reference). Each type uses a combination of the four functions in a preferred order.&#x20;
+A _function-attitude_ is a [Jungian](../../people-and-systems/carl-jung.md) function used in an Extraverted or Introverted attitude. Each type uses a combination of the four functions in a preferred order.&#x20;
 
 ## Functions
 

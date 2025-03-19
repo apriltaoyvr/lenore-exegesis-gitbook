@@ -6,7 +6,7 @@ description: What does Lenore mean by introverted thinking?  (Often abbreviated 
 
 ## Quasi-defining statements
 
-> p. 42: "When we use [Thinking](./) in an [Introverted](broken-reference) way, we get a mental image of the logical relationships in an entire system. For example, if we're crocheting an initial into a sweater, we're likely to draw a picture rather than work out the logical relationships analytically."
+> p. 42: "When we use [Thinking](./) in an Introverted way, we get a mental image of the logical relationships in an entire system. For example, if we're crocheting an initial into a sweater, we're likely to draw a picture rather than work out the logical relationships analytically."
 >
 > p. 342: "Introverted Thinking is a right-brain form of judgement that makes us aware of a situation's many variables. When we use it, we recognize our power, as individuals, to exploit some variables at the expense of others."
 >
@@ -70,7 +70,7 @@ Or in other words, you have come to understand the tool in the Ti way.
 
 ## Goals
 
-Perhaps the notion of a goal explains why Lenore calls Ti [Subjective](../../../our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective):
+Perhaps the notion of a goal explains why Lenore calls Ti [Subjective](../../../our-difficulties/terms-with-nonobvious-meanings.md):
 
 > p. 288: "We have to recognize, in the midst of action, which variables are best taken into account and which are irrelevant to our goal."
 >
@@ -88,7 +88,7 @@ _EXTPs do not seek_ goals _either, not in the TJ sense. I recognise_ opportuniti
 
 _I'd correct the p. 287 quote to say that by adjusting ourselves to the conditions in the here and now, we also adjust our goals._
 
-Thank you, Michelle! Maybe you'll enjoy the new definition I just added to [Extraverted Intuition](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Extraverted_Intuition). --[Ben Kovitz](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
+Thank you, Michelle! Maybe you'll enjoy the new definition I just added to [Extraverted Intuition](../../perception/intuition/extraverted-intuition.md). --[Ben Kovitz](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
 
 ## [Semiotically Disoriented](../../../../sign-interpretation/semiotic-attitude/semiotically-disoriented.md) in dominant-Ti style
 
@@ -111,7 +111,7 @@ Ti leads IFJs to.... ?
 
 > ...."advise others on the wisdom of their choices" (edited from [Lenore](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Lenore), p.231 on INFJs.)&#x20;
 
-vis a vis Ti as a primary attribute. Also, tertiary Ti leads to an important emphasis on personal experience. Yet unlike dominant and secondary Ti, tertiary Ti can often lead sweeping generalizations induced from sparse evidence. Tertiary Ti leads can lead to a narcissistic focus on your own experience, or the experience of people who stand with you. If someone disagrees with you, then they must be naive. This kind of narrow view is often used defensively. Especially when combined with dominant Ni, tertiary Ti can be used to defend bizarre theories that are completely unfalsifiable. An example of tertiary Ti is the feminist concept of "authority of experience," and its use thereof. This concept is used to exalt the experience of women who toe the party line of [feminism](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/feminism), but feminists aren't always so quick to acknowledge the experience of women (and men) who disagree with them. For example, a woman who works in the pornography industry and claims that she has been exploited is considered to be speaking gospel, but a woman who works in the porn industry and says that she enjoys it is speaking heresy.
+vis a vis Ti as a primary attribute. Also, tertiary Ti leads to an important emphasis on personal experience. Yet unlike dominant and secondary Ti, tertiary Ti can often lead sweeping generalizations induced from sparse evidence. Tertiary Ti leads can lead to a narcissistic focus on your own experience, or the experience of people who stand with you. If someone disagrees with you, then they must be naive. This kind of narrow view is often used defensively. Especially when combined with dominant Ni, tertiary Ti can be used to defend bizarre theories that are completely unfalsifiable. An example of tertiary Ti is the feminist concept of "authority of experience," and its use thereof. This concept is used to exalt the experience of women who toe the party line of feminism, but feminists aren't always so quick to acknowledge the experience of women (and men) who disagree with them. For example, a woman who works in the pornography industry and claims that she has been exploited is considered to be speaking gospel, but a woman who works in the porn industry and says that she enjoys it is speaking heresy.
 
 ### As an [Inferior Function](../../cognitive-stack/inferior-function.md)
 
@@ -147,7 +147,7 @@ Quoting from a Terry Pratchett book "Small Gods":
 
 ## The Connection between Critical Thinking and Introverted Thinking
 
-According to some of the definitions of Introverted Thinking, it seems as though this function can be described as taking a holistic, right-brained approach to observing and understanding the variables, causality, and inner-mechanics of an idea or situation. This information is generally too specific to [subjective](../../../our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective) experience and too ethereal for most [Extraverted Thinking](extraverted-thinking.md) to understand.
+According to some of the definitions of Introverted Thinking, it seems as though this function can be described as taking a holistic, right-brained approach to observing and understanding the variables, causality, and inner-mechanics of an idea or situation. This information is generally too specific to [subjective](../../../our-difficulties/terms-with-nonobvious-meanings.md) experience and too ethereal for most [Extraverted Thinking](extraverted-thinking.md) to understand.
 
 The aspects of this general definition which seems to illuminate a connection between this function and most notions of Critical Thinking would be in how Critical Thinking is, much like Introverted Thinking contrasted to [Extraverted Thinking](extraverted-thinking.md), involved in understanding the logical consistency inherent in the mechanics of an argument, idea or any system of principles which rely on self-consistency in order to function reliably. Critical thinking, unlike problem-solving, is less directed towards the application of ideas to a conflicting situation, and more concerned with the overall logical cogency of an intellectual construct, regardless of the construct's intentions towards the external. Furthermore, in order to use critical thinking effectively, one needs to have an understanding of a "situation's many variables", in order to judge that the "larger picture" is being sustained by the smaller components acting in synchronicity with one another, regardless of one's ability to interpret the rules from more linear processes.
 
@@ -165,6 +165,6 @@ Far forethought based on inductive reasoning of current social/personal/etc situ
 
 **Opposing View**: Far forethought and distant extrapolation from the present suggest extraverted intuition rather than the "body-based reasoning" and "conversation with the material" that Lenore speaks of. Lenore's theory would be that NTP types often engage in this kind of extrapolation, since it brings to bear the "holistic, imaginal" orientation of Ti as well as the orientation toward context and the currently unknown that characterizes Ne. STP types, however, understand the world no less in holistic, Ti terms, but their emphasis is more on the present, especially on matters that bring immediate payoffs, are immediately verifiable, and connect with others by being immediately apparent and emotionally impactful (extraverted sensation).
 
-See also: [Thinking](./), [Louis Farrakhan](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Louis_Farrakhan), [Function Attitudes](../../), [Why Can't You Share Your Feelings](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Why_Can't_You_Share_Your_Feelings)
+See also: [Thinking](./), [Louis Farrakhan](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Louis_Farrakhan), [Function Attitudes](../../), [Why Can't You Share Your Feelings](../../../../far-flung-explorations/why-cant-you-share-your-feelings.md)
 
 [^1]: Extraverted Thinking and Extraverted Feeling

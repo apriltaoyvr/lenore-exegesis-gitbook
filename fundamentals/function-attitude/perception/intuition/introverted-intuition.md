@@ -18,7 +18,7 @@ As a [dominant function](../../cognitive-stack/dominant-function.md):
 
 > p. 225: "For INJs, patterns aren't 'out there' in the world, waiting to be discovered. They're part of _us_--the way we make sense of the riot of energy and information impinging on our systems. A disease syndrome is a useful construct, but that's all it is--an aggregate of observations attached to a label, telling us what to see and how to deal with it."
 >
-> p. 225: "Where Extraverted Intuitives see many behavioral options, INJs acknowledge many conceptual standpoints. They experience no need to declare one inherently better than another. Indeed, these types have the disconcerting habit of solving a problem by shifting their perspective and defining the situation some other way."
+> p. 225: "Where [Extraverted Intuitives](extraverted-intuition.md) see many behavioral options, INJs acknowledge many conceptual standpoints. They experience no need to declare one inherently better than another. Indeed, these types have the disconcerting habit of solving a problem by shifting their perspective and defining the situation some other way."
 >
 > p. 234: "For INJs, truth isn't about logic. Truth is a frame of reference, a way of organizing information, which serves one set of needs or another."
 

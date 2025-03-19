@@ -6,7 +6,7 @@ description: What does Lenore mean by extraverted feeling?  (Often abbreviated "
 
 ## Quasi-defining statements
 
-> p. 40: "When we use [Feeling](./) in an [Extraverted](broken-reference) way, it facilitates a complex social vocabulary, by which we express and recognize the values we hold in common with others."
+> p. 40: "When we use [Feeling](./) in an Extraverted way, it facilitates a complex social vocabulary, by which we express and recognize the values we hold in common with others."
 >
 > p. 318: "...organizing data by relatedness to ourselves. The categories of relationships we maintain in the external world—and the way we maintain them—reflect our _values_."
 >

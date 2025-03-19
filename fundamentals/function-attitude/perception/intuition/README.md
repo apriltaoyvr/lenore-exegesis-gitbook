@@ -10,7 +10,7 @@ description: >-
 
 > p. 196: "Intuition draws our attention to context and we adapt to sensory events in terms of it."
 
-## As a [Semiotic Attitude](https://web.archive.org/web/20070118003254/http://greenlightwiki.com/lenore-exegesis/Semiotic_Attitude): A sign means everything that caused it
+## As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): A sign means everything that caused it
 
 Hypothesis: Intuition is a way of understanding the relation between a sign and its meaning in which the meaning is the _totality_ of the reality that gave rise to it.
 
@@ -22,7 +22,7 @@ From an Intuitive standpoint, whenever you come across a sign, you perceive much
 
 ### [Extraverted Intuition](extraverted-intuition.md)
 
-To use Intuition in an [Extraverted ](broken-reference)way--as a way to navigate through the world--you maintain a flexible understanding of what a sign means, which varies as more and more of that "everything" emerges. You view each interpretation of a sign as nothing more or less than a _guess._ You may well decide to bet a lot on that guess, but you regard it as just a guess. As more information becomes available, you change your guess.
+To use Intuition in an Extraverted way--as a way to navigate through the world--you maintain a flexible understanding of what a sign means, which varies as more and more of that "everything" emerges. You view each interpretation of a sign as nothing more or less than a _guess._ You may well decide to bet a lot on that guess, but you regard it as just a guess. As more information becomes available, you change your guess.
 
 For example, suppose you hear that a toaster company has declared bankruptcy. What does that tell you about the management of the toaster company? What does that tell you about the toaster company's market? Perhaps this happened because the management was awful. Or corrupt. Or because the market changed in ways that management was unable to keep up with. Nothing is certain here, except that there is something interesting there waiting to be found out. The declaration of bankruptcy tells you that there is something to be learned by looking into it further: it suggests all sorts of possibilities for the total process that caused this meager sign to appear.
 
@@ -34,7 +34,7 @@ Einstein summarised the Extraverted Intuition standpoint best when he said, "Ins
 
 ### [Introverted Intuition](introverted-intuition.md)
 
-To take an Intuitive attitude toward signs in an [Introverted](broken-reference) way--to give you an atemporal perspective on events that is not bound to any particular time or place--you attempt to discover _all_ the possible meanings of a sign before giving it any interpretation or power to lead you in any particular direction. You continually wonder, "In what other contexts could this sign mean something different?" You discover these other contexts, and these other meanings that a sign could have, through imagination or by acquiring knowledge from other times and places (like by reading books). You refuse to jump to any conclusions about the _actual_ context that gave rise to a sign until you've peered into that vast set of possible reasons that the sign may have appeared.
+To take an Intuitive attitude toward signs in an Introverted way--to give you an atemporal perspective on events that is not bound to any particular time or place--you attempt to discover _all_ the possible meanings of a sign before giving it any interpretation or power to lead you in any particular direction. You continually wonder, "In what other contexts could this sign mean something different?" You discover these other contexts, and these other meanings that a sign could have, through imagination or by acquiring knowledge from other times and places (like by reading books). You refuse to jump to any conclusions about the _actual_ context that gave rise to a sign until you've peered into that vast set of possible reasons that the sign may have appeared.
 
 In short, you won't be _led_ by observation. Before granting any particular meaning to an observation, you hold back and explore all the possible interpretations that it might have. "How do I know it wasn't X?"
 
@@ -50,7 +50,7 @@ What distinguishes [Introverted Intuition](introverted-intuition.md) from the ot
 
 ### Seeking the incommensurable
 
-Both the Extraverted and Introverted ways of taking an Intuitive [attitude ](broken-reference)oppose rational interpretations. A rational interpretation of a sign is one that postulates an invariant relation in the world, so that the only way a given sign can occur is if a certain kind of cause occurred. Rational interpretations work on a principle of commensurability: that there is something comparable about two or more situations.
+Both the Extraverted and Introverted ways of taking an [Intuitive](./) attitude oppose [rational](../../../our-difficulties/terms-with-nonobvious-meanings.md#rational-and-irrational) interpretations. A rational interpretation of a sign is one that postulates an invariant relation in the world, so that the only way a given sign can occur is if a certain kind of cause occurred. Rational interpretations work on a principle of commensurability: that there is something comparable about two or more situations.
 
 These attitudes lead you to seek out aspects of the world that are too irregular to be captured by any system that depends on commensurability. For example, there is a kind of meaning in the final movement of Beethoven's string quartet in F major, Op. 135. What is that meaning? How could you put it into words? You can't. Any attempt to put it into words will be tawdry and crude. If you say something like, "the clash between desire and uncertainty", this sounds like an essay from a junior-high school English class. Beethoven (ENTJ?) did write words for it, though. But the words are just as mysterious: "Must it be? It must be. It must be." And yet, if you "get" the music, you can perceive--in a way that you can't explain or justify by any rules--that these words are magnificently appropriate.
 
@@ -62,15 +62,15 @@ This leads to a common Intuitive way of communicating: saying things that are pu
 
 On the above way of distinguishing [Extraverted Intuition](extraverted-intuition.md) from [Introverted Intuition](introverted-intuition.md), the understanding of how signs relate to meanings is the same in both cases. What's different is how each turns the basic semiotic attitude into a heuristic. [Extraverted Intuition](extraverted-intuition.md) uses the "principle of incompleteness of any interpretation" to lead one to follow empirical signs in ways that promise that what is hidden will become apparent. [Introverted Intuition](introverted-intuition.md) uses the same principle to explore alternate interpretations that are not suggested by observation--that might be intrinsically unable to become apparent by any means (except justificationless intuitive leap).
 
-Perhaps that's the common denominator linking all Extraverted and Introverted forms of the same [attitude](broken-reference): same understanding of how signs relate to meanings, different heuristics--the extraverted one leading you to navigate through the world one sign at a time, the introverted one leading you to treat signs as stimuli for ideas about how to navigate in general. The extraverted heuristic would lead you to follow the topography of the world without making inferences about it, the introverted heuristic would stimulate you to make inferences about the topography of the world without actually exploring it.
+Perhaps that's the common denominator linking all Extraverted and Introverted forms of the same attitude: same understanding of how signs relate to meanings, different heuristics--the extraverted one leading you to navigate through the world one sign at a time, the introverted one leading you to treat signs as stimuli for ideas about how to navigate in general. The extraverted heuristic would lead you to follow the topography of the world without making inferences about it, the introverted heuristic would stimulate you to make inferences about the topography of the world without actually exploring it.
 
 ***
 
-The above is somewhat different than how [Lenore](https://web.archive.org/web/20070118003254/http://greenlightwiki.com/lenore-exegesis/Lenore) puts it. She describes [Extraverted Intuition](extraverted-intuition.md) as telling you how the missing elements are filled in, without uncertainty: jumping to conclusions. The above interpretation says that [Extraverted Intuition](https://web.archive.org/web/20070118003254/http://greenlightwiki.com/lenore-exegesis/Extraverted_Intuition) is no less a form of suspended judgement than [Introverted Intuition](https://web.archive.org/web/20070118003254/http://greenlightwiki.com/lenore-exegesis/Introverted_Intuition).
+The above is somewhat different than how [Lenore](../../../../people-and-systems/lenore-thomson.md) puts it. She describes [Extraverted Intuition](extraverted-intuition.md) as telling you how the missing elements are filled in, without uncertainty: jumping to conclusions. The above interpretation says that [Extraverted Intuition](extraverted-intuition.md) is no less a form of suspended judgement than [Introverted Intuition](introverted-intuition.md).
 
 ## The attitude of multiple interpretations
 
-Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in just one system of relationships, while the sign is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in all.
+Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in just one system of relationships, while the sign is [embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in all.
 
 When providing [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md), Intuition leads people to seek escape from the confines of any given way of making sense of things--to seek a greater, richer, more complex reality "beyond".
 

@@ -16,7 +16,7 @@ description: What does Lenore mean by "Extraverted Intuition"? (Often abbreviate
 
 As a [dominant attitude](../../cognitive-stack/dominant-function.md):&#x20;
 
-> p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an [Extraverted](broken-reference) type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
+> p. 224: "Extraverted Intuitives are right-brain types who deal with their sense impressions by unifying them into larger outward patterns. An ENP physician, for example, may realize, with sudden insight, that several unexplained symptoms are actually part of a single disease. As an Extraverted type, the physician has no doubt that the disease syndrome really exists. The pattern was always there, waiting for someone to discover it."
 
 ***
 
@@ -40,11 +40,11 @@ Ne is curiosity (but of course it's not that simple). Describing it as "looking"
 
 There's a film called the Zero Effect. The main character is probably an INTP. A quote from the film that encapsulates Ne:
 
-"If you go looking for something in particular, your chances of finding it are very bad, because of all the things in the world, you're only looking for one of them. If you go looking for anything at all, your chances of finding it are very good, because of all the things in the world, you're sure to find some of them."
+> "If you go looking for something in particular, your chances of finding it are very bad, because of all the things in the world, you're only looking for one of them. If you go looking for anything at all, your chances of finding it are very good, because of all the things in the world, you're sure to find some of them."
 
 Even if you look for anything at all, and find nothing, then you found something. You just didn't find anything new, but this is an opportunity in disguise. That's Ne. It's the attitude that searching is inherently valuable because no matter what outcome you get you find something.
 
-(Tangent: This also highlights the importance of Lenore's idea about developing the secondary. Ne by itself is very indiscriminate. There's a point at which "looking for anything at all" really risks being too randomly useful or too randomly pointless to be helpful. A dominant Ne type needs to be able to distinguish between the relative importance of things, or be able to identify the needs and people they really care about, to make the most of it.)
+(Tangent: This also highlights the importance of Lenore's idea about [developing the secondary](../../cognitive-stack/secondary-function/developing-the-secondary.md). Ne by itself is very indiscriminate. There's a point at which "looking for anything at all" really risks being too randomly useful or too randomly pointless to be helpful. A dominant Ne type needs to be able to distinguish between the relative importance of things, or be able to identify the needs and people they really care about, to make the most of it.)
 
 ### #4: The "outside the box" attitude
 
@@ -60,7 +60,7 @@ Ne is no different from its [Se](../sensation/extraverted-sensation.md) cousin. 
 
 This is what "outside the box" refers to, because human definition of box is an entirely sensory phenomena, everything is measured in terms of senses. Box defined in [intuition](./) would relate to this snapshot, which has a specific scope, its also a box. So Ne thinks outside the physical box, but it is within its own mental box. This isn't to say its inferior to true outside the box thinking which is actually [Te](../../judgement/thinking/extraverted-thinking.md).
 
-To investigate this Ne and [Ni](introverted-intuition.md) must be compared. Ni would be the rolling of a camera, taking successive images of a situation until the events of which conclude. In order for this to have any meaning some arbitrary point must be defined by Extroverted [Judgement](../../judgement/). An investigation of a crime scene, probing witnesses for the events attempts to build a reconstruction of what occurred. Ni would piece together enough pictures to create a record.
+To investigate this Ne and [Ni](introverted-intuition.md) must be compared. Ni would be the rolling of a camera, taking successive images of a situation until the events of which conclude. In order for this to have any meaning some arbitrary point must be defined by [Extroverted Judgement](../../judgement/#extraverted-judgment). An investigation of a crime scene, probing witnesses for the events attempts to build a reconstruction of what occurred. Ni would piece together enough pictures to create a record.
 
 Ne on the other hand simply takes an [intuitive](./) snapshot of the scene and uses the internal logic of the event. Specific occurrences within the event may or may not have happened because it is impossible for blood to splatter etc. etc.
 

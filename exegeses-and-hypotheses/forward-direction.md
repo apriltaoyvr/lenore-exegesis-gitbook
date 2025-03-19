@@ -11,7 +11,7 @@ coverY: 0
 
 ## Which way is forward?
 
-[**Orienting**](../sign-interpretation/orienting/) **by an extraverted** [**attitude**](broken-reference)**,** you feel a need to expand your influence and connections in the tangible or social world:
+[**Orienting**](../sign-interpretation/orienting/) **by an extraverted attitude,** you feel a need to expand your influence and connections in the tangible or social world:
 
 _Se:_ Having an impact, being noticed, creating excitement and spectacle, leaving _your_ stamp visibly on the world around you. Finding satisfaction for yourself and others at an immediate, visceral level that requires no explanation.
 
@@ -21,7 +21,7 @@ _Fe:_ Gaining importance in the social world, becoming a person to whom others f
 
 _Ne:_ Getting ahead of the rest of the world, especially by thinking outside "the box" that other people are thinking in; showing people ways beyond their "boxes"; being seen as heralding something new and emerging, something that cannot be understood right now, and will change their present understanding of things.
 
-[**Orienting**](../sign-interpretation/orienting/) **by an introverted** [**attitude**](broken-reference)**,** you feel a need to increase your level of attunement to something, by calling forth the powers of your mind:
+[**Orienting**](../sign-interpretation/orienting/) **by an introverted attitude,** you feel a need to increase your level of attunement to something, by calling forth the powers of your mind:
 
 _Si:_ Becoming ever more solidly oriented by a mental map of things that endure; knowing better and better what to single out and focus on in a world of overwhelming complexity.
 
@@ -31,7 +31,7 @@ _Fi:_ Becoming ever more attuned to the nature of life, the differences among al
 
 _Ni:_ Cultivating detachment, a perspective disentangled from all worldly concerns or assumptions, to remain open to perceiving the whole, directly, without reason or justification or explanation; seeing how a system works in terms independent of viewpoints from within the system (thus often seeing hidden points of leverage).
 
-[Extraversion](broken-reference), then, leads you to seek, in each situation, advancement for yourself in terms of status, power, influence, visibility, and tangible gain—to expand your presence in the world. [Introversion](../fundamentals/function-attitude/#attitudes) leads you to draw upon the archetypes to create a more refined mental structure for interpreting what you see—creating greater and greater depth as a person.
+Extraversion, then, leads you to seek, in each situation, advancement for yourself in terms of status, power, influence, visibility, and tangible gain—to expand your presence in the world. Introversion leads you to draw upon the archetypes to create a more refined mental structure for interpreting what you see—creating greater and greater depth as a person.
 
 The theory, then, is that everyone's brains have processes that attempt to push them "forward" as defined by each [function attitude](../fundamentals/function-attitude/). Since "forward" is a decidedly different direction in each case, the need to create a coherent self that can go in one direction long enough to get somewhere necessitates that one [function attitude](../fundamentals/function-attitude/) reign supreme. The others still operate, in that they still process all information that the person takes in and they still declare a certain direction as "forward", but their views of forward are not easily incorporated into the person's self-concept (ego). The [inferior function](../fundamentals/function-attitude/cognitive-stack/inferior-function.md) pushes its agenda covertly, by sneaking ways to fulfill the needs it identifies into the conscious agenda. The other [function attitudes](../fundamentals/function-attitude/) have varying degrees of commonality with the [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md).
 

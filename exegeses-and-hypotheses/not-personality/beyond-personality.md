@@ -6,9 +6,9 @@ Lenore Thomson doesn't offer a bunch of categories to say that some people are i
 
 ## What it is
 
-What Lenore offers is a way to see your current way of understanding your personality as a way in which you've limited yourself in order to serve various needs, especially your need to plug in to the social matrix in some way. She offers a way to see your current understanding of your personality as an illusion. More importantly, she offers a vocabulary of different [attitudes](broken-reference) that lead beyond it, to a fuller realization of your genuine self in your real life and circumstances.
+What Lenore offers is a way to see your current way of understanding your personality as a way in which you've limited yourself in order to serve various needs, especially your need to plug in to the social matrix in some way. She offers a way to see your current understanding of your personality as an illusion. More importantly, she offers a vocabulary of different attitudes that lead beyond it, to a fuller realization of your genuine self in your real life and circumstances.
 
-The vocabulary doesn't point you to some distant place where you're supposedly heading. It aims to help you direct your attention in a way that is fruitful now, given your current situation and your current self-knowledge. The vocabulary focuses on what has shaped your personality so far and the [attitudes](broken-reference) that have grown into your characteristic ways of understanding and navigating your situation.
+The vocabulary doesn't point you to some distant place where you're supposedly heading. It aims to help you direct your attention in a way that is fruitful now, given your current situation and your current self-knowledge. The vocabulary focuses on what has shaped your personality so far and the attitudes that have grown into your characteristic ways of understanding and navigating your situation.
 
 ## Clash of expectations
 

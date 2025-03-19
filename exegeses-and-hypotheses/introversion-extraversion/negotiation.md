@@ -33,7 +33,7 @@ _Possible explanation:_ These ENTJs are usually quick to jump to a false conclus
 
 ## Negotiation Basics
 
-If [Extraverted attitudes](broken-reference) show you the world primarily as a place to negotiate (as proposed on Negotiation Exegesis and [Saints-and-Politicians Exegesis](saints-and-politicians.md)), maybe we could learn something about Lenore's ideas by looking at different ways to negotiate.
+If Extraverted attitudes show you the world primarily as a place to negotiate (as proposed on Negotiation Exegesis and [Saints-and-Politicians Exegesis](saints-and-politicians.md)), maybe we could learn something about Lenore's ideas by looking at different ways to negotiate.
 
 ### Know your alternatives
 
