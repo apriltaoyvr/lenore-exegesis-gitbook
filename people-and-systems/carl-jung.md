@@ -3,6 +3,17 @@ description: >-
   Carl Gustav Jung was a Swiss psychiatrist, psychotherapist, psychologist and
   pioneering evolutionary theorist who founded the school of analytical
   psychology.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Carl Jung

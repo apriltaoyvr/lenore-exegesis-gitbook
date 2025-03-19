@@ -52,21 +52,21 @@ _Ni:_ What is sex, really? Just two bodies rubbing together. All that we make of
 
 It might help to spell out explicitly how those illustrate each [function attitude](https://web.archive.org/web/20071014043748/http://greenlightwiki.com/lenore-exegesis/function_attitude) in general:
 
-_Te:_ [Orienting](../../sign-interpretation/orienting.md) by predictability, especially through what has already been proven or agreed to, and can be carried out in a step-by-step way that is defined in advance of the act and that both parties understand; tying into the social network to get second-hand knowledge (verbal/procedural, not experiential).
+_Te:_ [Orienting](../../sign-interpretation/orienting/) by predictability, especially through what has already been proven or agreed to, and can be carried out in a step-by-step way that is defined in advance of the act and that both parties understand; tying into the social network to get second-hand knowledge (verbal/procedural, not experiential).
 
-_Ti:_ [Orienting](../../sign-interpretation/orienting.md) by first-hand, experiential understanding; exploring the causal connections through experiment, learning to "see" the whole space through direct interaction.
+_Ti:_ [Orienting](../../sign-interpretation/orienting/) by first-hand, experiential understanding; exploring the causal connections through experiment, learning to "see" the whole space through direct interaction.
 
-_Fe:_ [Orienting](../../sign-interpretation/orienting.md) by how sex defines a relationship in socially recognizable terms, analyzing in terms of what the stakes are in terms of social connection and obligation: "What ties will this create or destroy, and do I want that?"
+_Fe:_ [Orienting](../../sign-interpretation/orienting/) by how sex defines a relationship in socially recognizable terms, analyzing in terms of what the stakes are in terms of social connection and obligation: "What ties will this create or destroy, and do I want that?"
 
-_Fi:_ [Orienting](../../sign-interpretation/orienting.md) by each individual's unique nature and desires, insisting that everything else (like social agreement about rights) should be adapted to let the individual's calling be fulfilled, whatever it is.
+_Fi:_ [Orienting](../../sign-interpretation/orienting/) by each individual's unique nature and desires, insisting that everything else (like social agreement about rights) should be adapted to let the individual's calling be fulfilled, whatever it is.
 
-_Se:_ [Orienting](../../sign-interpretation/orienting.md) by appearance and its immediate effects on people when they don't reflect on what they're doing or second-guess themselves; trusting your body and the world and just letting it happen.
+_Se:_ [Orienting](../../sign-interpretation/orienting/) by appearance and its immediate effects on people when they don't reflect on what they're doing or second-guess themselves; trusting your body and the world and just letting it happen.
 
-_Si:_ [Orienting](../../sign-interpretation/orienting.md) by what is known and matters to you personally in any context (in this case, your health and your pleasure and your bond (if any) with your partner); setting up a barrier to prevent the unknown from endangering that.
+_Si:_ [Orienting](../../sign-interpretation/orienting/) by what is known and matters to you personally in any context (in this case, your health and your pleasure and your bond (if any) with your partner); setting up a barrier to prevent the unknown from endangering that.
 
-_Ne:_ [Orienting](../../sign-interpretation/orienting.md) by thinking "outside the box" about sex, looking for insight from something seemingly unrelated, going off on the exploration and never returning home (being tied to no predetermined destination).
+_Ne:_ [Orienting](../../sign-interpretation/orienting/) by thinking "outside the box" about sex, looking for insight from something seemingly unrelated, going off on the exploration and never returning home (being tied to no predetermined destination).
 
-_Ni:_ Refusing to [orient](../../sign-interpretation/orienting.md) by reference points found in external reality: rejecting both the body and culture as meaningful reference points for understanding sex.
+_Ni:_ Refusing to [orient](../../sign-interpretation/orienting/) by reference points found in external reality: rejecting both the body and culture as meaningful reference points for understanding sex.
 
 ***
 

@@ -1,7 +1,7 @@
 ---
 description: What are function attitudes? What do they mean to Lenore?
 cover: >-
-  https://images.unsplash.com/photo-1591040092219-081fb773589c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxqaWdzYXd8ZW58MHx8fHwxNzM4MDM2MjIzfDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -39,7 +39,7 @@ An attitude is a direction (introverted or extraverted) a function can have.&#x2
 
 Some hypotheses on what introverted and extraverted mean are:
 
-* [Orienting](../../sign-interpretation/orienting.md)
+* [Orienting](../../sign-interpretation/orienting/)
 * [Introversion-Extraversion Exegeses](../../exegeses-and-hypotheses/introversion-extraversion/)
   * [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)
   * [Cocooning-vs.-Conforming Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md)
@@ -59,7 +59,7 @@ Some hypotheses on what introverted and extraverted mean are:
 
 ## Function-attitudes
 
-These four functions are then split into introverted and extraverted functions according to how one [orients](../../sign-interpretation/orienting.md) themselves.
+These four functions are then split into introverted and extraverted functions according to how one [orients](../../sign-interpretation/orienting/) themselves.
 
 | Extraverted                                                                 | Introverted                                                                 |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |

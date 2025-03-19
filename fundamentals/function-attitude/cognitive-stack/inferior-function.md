@@ -8,9 +8,9 @@ See [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/introversion-e
 
 ## Interpretations and Readings
 
-### **The** [**Semiotic** ](../../../sign-interpretation/semiotic-attitude.md)**Standpoint**
+### **The** [**Semiotic** ](../../../sign-interpretation/semiotic-attitude/)**Standpoint**
 
-The Inferior Function pressures you to take a different interpretation of certain signs than you are used to. However, this can lead you to become [Semiotically Disoriented](../../../semiotically-disoriented.md). Suddenly your inferior function confronts you with strange goals (due to different interpretations of signs), but your [dominant function](dominant-function.md) offers you no way to relate to them, let alone meet them. In fact, your [dominant function](dominant-function.md) will deny that these goals are even valid in the first place. It would love to sweep them under the carpet, and the [Tertiary Temptation](tertiary-function/tertiary-temptation.md) offers an excuse to do so. However, the [secondary function](secondary-function/) may offer a way of interpreting signs that allows the [dominant function](dominant-function.md) to properly orient itself in relation to the goals of the inferior function.
+The Inferior Function pressures you to take a different interpretation of certain signs than you are used to. However, this can lead you to become [Semiotically Disoriented](../../../sign-interpretation/semiotic-attitude/semiotically-disoriented.md). Suddenly your inferior function confronts you with strange goals (due to different interpretations of signs), but your [dominant function](dominant-function.md) offers you no way to relate to them, let alone meet them. In fact, your [dominant function](dominant-function.md) will deny that these goals are even valid in the first place. It would love to sweep them under the carpet, and the [Tertiary Temptation](tertiary-function/tertiary-temptation.md) offers an excuse to do so. However, the [secondary function](secondary-function/) may offer a way of interpreting signs that allows the [dominant function](dominant-function.md) to properly orient itself in relation to the goals of the inferior function.
 
 ### The inferior function as your "alien hand"
 
@@ -20,7 +20,7 @@ p. 76 (Describing split-brain patients):
 >
 > "...Most of us favor functions governed by one side of the brain or another, which ensures that the 'alien side' of our personality receives little attention. Eventually, we reach a state of typological imbalance. Much as the 'alien hand' of a split-brain patient stops the other hand from opening a door or putting on a sock, our least-developed [function](../) asserts its own priorities, flooding us with impulses that interfere with our usual goals."
 
-Hypothesis: the Inferior Function is the [Semiotic Attitude](../../../sign-interpretation/semiotic-attitude.md) through which you can see most clearly the parts of yourself that lurk in the [Yawning Void](https://web.archive.org/web/20070416085529/http://greenlightwiki.com/heuristic/Yawning_Void).
+Hypothesis: the Inferior Function is the [Semiotic Attitude](../../../sign-interpretation/semiotic-attitude/) through which you can see most clearly the parts of yourself that lurk in the [Yawning Void](https://web.archive.org/web/20070416085529/http://greenlightwiki.com/heuristic/Yawning_Void).
 
 Maybe you don't want to look there. Maybe with good reason.
 

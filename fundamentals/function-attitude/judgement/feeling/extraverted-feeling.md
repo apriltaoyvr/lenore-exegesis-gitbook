@@ -20,7 +20,7 @@ description: What does Lenore mean by extraverted feeling?  (Often abbreviated "
 
 ## Proposed definitions
 
-### #1: [Orientation](../../../../sign-interpretation/orienting.md) by social roles
+### #1: [Orientation](../../../../sign-interpretation/orienting/) by social roles
 
 _Hypothesis:_ Extraverted Feeling is the attitude of viewing everything in terms of what _role_ it defines for people to play in regard to each other. When you say "How are you?" to someone, you are playing a role. It's a role that is intrinsically connected to other people's social roles; you can't play it by yourself. When the other person says, "Oh, not too bad. How about yourself?", they are playing out the complementary role. From an Fe perspective, by definition, every act is a declaration of what role you would like to play in the social setting.
 
@@ -28,9 +28,9 @@ When people speak of someone else's action as an attempt to "define them", they 
 
 In this manner, from an Fe standpoint, everyone is continually defining each other and getting defined by each other, as they establish social roles that others implicitly agree to go along with.
 
-### #2: [Orientation](../../../../sign-interpretation/orienting.md) by the social language of relationship
+### #2: [Orientation](../../../../sign-interpretation/orienting/) by the social language of relationship
 
-Fe is a way of [orienting](../../../../sign-interpretation/orienting.md) yourself to your environment in terms of the culturally defined language of social relationship. The relationships of friend-friend, parent-child, husband-wife, teacher-student, teammate-teammate, leader-follower, and many others are all ultimately defined by and exist in the medium of gestures exchanged between people--gestures that they recognize as defining that relationship. When a jockey on the track tips his hat while passing the Queen of England, he is displaying a sign that says that he recognizes and participates in the relationship of British subject-British monarch. Each such relationship carries obligations for each party: both to display the signs that create the relationship, and to do more tangible things that give the relationship important stakes for all concerned--such as, in time of war, fighting for England or willingly giving up luxuries (e.g. rationing).
+Fe is a way of [orienting](../../../../sign-interpretation/orienting/) yourself to your environment in terms of the culturally defined language of social relationship. The relationships of friend-friend, parent-child, husband-wife, teacher-student, teammate-teammate, leader-follower, and many others are all ultimately defined by and exist in the medium of gestures exchanged between people--gestures that they recognize as defining that relationship. When a jockey on the track tips his hat while passing the Queen of England, he is displaying a sign that says that he recognizes and participates in the relationship of British subject-British monarch. Each such relationship carries obligations for each party: both to display the signs that create the relationship, and to do more tangible things that give the relationship important stakes for all concerned--such as, in time of war, fighting for England or willingly giving up luxuries (e.g. rationing).
 
 Absolutely everything that people say to or do with each other can be interpreted as an invitation to participate in a social relationship that exists primarily through signs. This is because everything that we do says, "I care." Giving a woman a ring along with a proposal of marriage says "I care to have the relationship of marriage with you." Arguing heatedly with someone says, "I care that you see what I'm saying."
 
@@ -40,9 +40,9 @@ Sometimes you get into situations where some people you know will play along wit
 
 There is no escaping the fact that everything you do is such a declaration; no statement, no matter how factual or impersonal, can be truly neutral. Every statement is acting out a role, which some people will play along with and others won't.
 
-## As a mode of [ego-orientation](../../../../sign-interpretation/ego-orientation.md)
+## As a mode of [ego-orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
 
-As a mode of [ego-orientation](../../../../sign-interpretation/ego-orientation.md), Extraverted Feeling leads you to understand yourself as having a personal stake in the role that others in your community cast you in. By the role they cast you in and that you play--the role that emerges from the sort of negotiation described above--_you_ exist. If that role is bad, then it's a loss to your very self. If that role is good, then your very self has increased.
+As a mode of [ego-orientation](../../../../sign-interpretation/orienting/ego-orientation.md), Extraverted Feeling leads you to understand yourself as having a personal stake in the role that others in your community cast you in. By the role they cast you in and that you play--the role that emerges from the sort of negotiation described above--_you_ exist. If that role is bad, then it's a loss to your very self. If that role is good, then your very self has increased.
 
 People with developed Fe tend to create implied bargains with other people about what sort of role they will play in regard to each other. They make an opening "bid" where they cast the other person in a positive role, e.g. "Would you be willing to spare a moment of your time to share your expertise with me?", casting the other person as an expert and a very important person. The implied contract is that if they treat you as a very important person, then you will each have very satisfying social roles. But if you get out of line, then you will withdraw your willingness to cast them in that role. Each line where you play the other person up thus creates a sort of debt: now they "owe" you some response that makes you important.
 

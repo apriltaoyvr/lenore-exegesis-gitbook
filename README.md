@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Welcome
+# 👋 Welcome
 
 This is a recreation of the original [_Lenore Thomson Exegesis Wiki_](https://web.archive.org/web/20071215002147/http://greenlightwiki.com/lenore-exegesis/TheLenoreThomsonExegesisWiki) by [Ben Kovitz](https://wiki.c2.com/?BenKovitz). Why do this? You can learn more on the [About](meta/about.md#about-this-site) page.
 
@@ -32,8 +32,8 @@ Otherwise, good starting points would be:
 * [Function Attitude](fundamentals/function-attitude/)
 * [Our Difficulties](fundamentals/our-difficulties/)
 * [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
-* [Orienting](sign-interpretation/orienting.md)
-* [Semiotic Attitude](sign-interpretation/semiotic-attitude.md)
+* [Orienting](sign-interpretation/orienting/)
+* [Semiotic Attitude](sign-interpretation/semiotic-attitude/)
 
 ## Original Introduction
 

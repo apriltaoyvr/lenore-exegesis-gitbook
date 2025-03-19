@@ -3,7 +3,7 @@ description: >-
   There seems to be a great deal to personality that Lenore Thomson doesn't talk
   about.
 cover: >-
-  https://images.unsplash.com/photo-1602984338060-bfddce132ebc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxub3R8ZW58MHx8fHwxNzM4MDM3OTgxfDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -27,7 +27,7 @@ Something unusual about Lenore's writing, compared to most writing about persona
 
 ### Then what _is_ [Lenore](../../people-and-systems/lenore-thomson.md) saying?
 
-Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../../exegesis.md).
+Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../../fundamentals/exegesis.md).
 
 For some overall attempts, see:
 

@@ -1,6 +1,6 @@
 # Political Correctness
 
-Hypothesis: [Lenore Thomson](../people-and-systems/lenore-thomson.md)'s theory explains "politically correct" speech codes and intolerance and the like as [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) gone wild, trying to move into the [extraverted](broken-reference) arena as a basis of social agreement—where it can't possibly work.
+Hypothesis: [Lenore Thomson](../people-and-systems/lenore-thomson.md)'s theory explains "politically correct" speech codes and intolerance and the like as [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) gone wild, trying to move into the [extraverted](../fundamentals/function-attitude/#attitudes) arena as a basis of social agreement—where it can't possibly work.
 
 ## Lenore on Ni and political correctness
 
@@ -14,7 +14,7 @@ Hypothesis: [Lenore Thomson](../people-and-systems/lenore-thomson.md)'s theory e
 
 A particular form of bias that many INJs especially loathe is the bias that comes from your economic situation: your social class, or who's buttering your bread. If you're from an economically well-off social class, it can be very convenient to believe that you and your friends are better off than the poor people across town because you're smarter, have more drive, better moral character, or some other innate trait that makes you come off looking good and _deserving_ your privileged position. There are winking conspiracies, where people play along with a social myth like "we're the most charitable," lest they be kicked out of their group and lose all the attendant benefits. These convenient myths are never put to a real test, because the unwritten social rules prevent any such test from ever occurring. Instead, there is the ever-present false test: "See, we're better off and we look nicer. If they were better people, they'd be better off, too."
 
-[Introverted intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) used for [ego orientation](../sign-interpretation/ego-orientation.md) leads one to take responsibility for the unintended consequences of decisions and the hidden factors that lurk behind public façades. The felt responsibility is to ensure that all decisions take all these hidden factors into account.
+[Introverted intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) used for [ego orientation](../sign-interpretation/orienting/ego-orientation.md) leads one to take responsibility for the unintended consequences of decisions and the hidden factors that lurk behind public façades. The felt responsibility is to ensure that all decisions take all these hidden factors into account.
 
 ### From eye-opening heuristic to guilt for being alive
 
@@ -30,7 +30,7 @@ The philosophy of John Rawls would be the ultimate _reductio ad absurdum_ of [in
 
 I deleted your objections because they were all just saying that there's no empirical basis for the hypothesis above, rather than offering any sort of alternative idea. Also, you seemed to be saying that the hypothesis above is _wrong,_ not just an inaccurate representation of [Lenore Thomson](https://web.archive.org/web/20111107144324/http://greenlightwiki.com/lenore-exegesis/Lenore_Thomson). If you think someone's ideas have been misrepresented, do please post about it, but explain their actual ideas.
 
-You objected, "Anything fucking goes here." That is actually almost right. Anything goes, as long as it's [exegesis](../exegesis.md) of [Lenore Thomson](../people-and-systems/lenore-thomson.md), not personal remarks, and not a claim that a hypothesis posted here is right or wrong. Opposing hypotheses are welcome, as are tangents that briefly summarize topics that come up, like the main ideas of John Rawls. See [How to Participate Here](../other/how-to-participate-here-archive.md) for more, and please take note of "Focus more on presenting ideas than on refuting them."
+You objected, "Anything fucking goes here." That is actually almost right. Anything goes, as long as it's [exegesis](../fundamentals/exegesis.md) of [Lenore Thomson](../people-and-systems/lenore-thomson.md), not personal remarks, and not a claim that a hypothesis posted here is right or wrong. Opposing hypotheses are welcome, as are tangents that briefly summarize topics that come up, like the main ideas of John Rawls. See [How to Participate Here](../other/how-to-participate-here-archive.md) for more, and please take note of "Focus more on presenting ideas than on refuting them."
 
 I gave a fuller answer to your complaints on my user page.
 
@@ -38,7 +38,7 @@ I gave a fuller answer to your complaints on my user page.
 
 ## A different angle (Fe)
 
-[Introverted intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) is what gives people the desire to detect inherent biases and to examine underlying beliefs behind behaviours. Questioning subconscious, destructive assumptions you or others around you have is Ni at its best. Developing an internal system of viewing a world that can only function within a vacuum, refuses to accept some bias, and is missing additional context is Ni at its worst. It is vulnerable to solipsism the way all introverted functions are by nature of being [Introverted](broken-reference), thus [Subjective](../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective).&#x20;
+[Introverted intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) is what gives people the desire to detect inherent biases and to examine underlying beliefs behind behaviours. Questioning subconscious, destructive assumptions you or others around you have is Ni at its best. Developing an internal system of viewing a world that can only function within a vacuum, refuses to accept some bias, and is missing additional context is Ni at its worst. It is vulnerable to solipsism the way all introverted functions are by nature of being [Introverted](../fundamentals/function-attitude/#attitudes), thus [Subjective](../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective).&#x20;
 
 However, quick judgement without nuance on dynamics between people applies better to [Extraverted Feeling](../fundamentals/function-attitude/judgement/feeling/extraverted-feeling.md). It pertains to personal ethics ([Feeling](../fundamentals/function-attitude/judgement/feeling/)), examines relationships between others and views acts as showing allegiance ([Extraverted Feeling](../fundamentals/function-attitude/judgement/feeling/extraverted-feeling.md)), and is prone to lacking nuance by preferring 'simpler', broader rules (Extraverted [Judgement](../fundamentals/function-attitude/judgement/)).&#x20;
 

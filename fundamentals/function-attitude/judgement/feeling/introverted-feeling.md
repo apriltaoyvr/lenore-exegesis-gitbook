@@ -20,17 +20,17 @@ description: >-
 
 ## Proposed Definitions
 
-### #1: [Orientation](../../../../sign-interpretation/orienting.md) by self-expression
+### #1: [Orientation](../../../../sign-interpretation/orienting/) by self-expression
 
 **Introverted Feeling** (Fi) is the attitude that everything that is manifest (apparent, observable, described) is the expression of a soul or life force, in terms of which everything ultimately makes sense. Everything that happens is the result of a _soul_ expressing its unique nature.
 
 From this attitude, each living thing is completely unique, and has unique needs. Every living thing needs to express itself and grow in its unique way. None of this can be put into categories or measurements, at least not without blotting out that utter uniqueness of each living thing. Because we are all living things, even though each of us is unique we can still connect to the life force as it exists in others. From an Fi standpoint, the way to respond to things is in a way that is faithful to that underlying life force.
 
-### #2: [Orientation](../../../../sign-interpretation/orienting.md) by inner harmony
+### #2: [Orientation](../../../../sign-interpretation/orienting/) by inner harmony
 
 **Introverted Feeling** (Fi) is the attitude of judging things good or bad based on how they harmonize or clash with a living being's inner essence. That inner essence or soul, and how things in the environment get along with it or conflict with it, is knowable only first-hand--ultimately, only by that soul. It is known by attending to one's own emotions in response to things. What you like is good--for you, not necessarily good for others. What you don't like is bad--for you, not necessarily bad for others. Anything outside your own soul is irrelevant to evaluating anything or choosing your course in life.
 
-### #3: [Orientation](../../../../sign-interpretation/orienting.md) by emotional "grooves"
+### #3: [Orientation](../../../../sign-interpretation/orienting/) by emotional "grooves"
 
 **Introverted Feeling** (Fi) is a framework of [Subjective](../../../our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective) observations and values on the human experience. If [Introverted Thinking](../thinking/introverted-thinking.md#definition-2-orientation-by-the-groove) can be defined as a culmination of logical 'grooves', Introverted Feeling can be defined as a culmination of emotional grooves.&#x20;
 
@@ -44,7 +44,7 @@ Because of this, Fi users often have a natural dislike for painting others with 
 
 When Fi is underdeveloped, it is often stubborn and solipsistic--unable to understand and accept values too different than theirs. When it is more developed, it recognizes the depth of others' frameworks: "What is right for me may not be right for you; we are operating from different values, beliefs and needs."
 
-## As a language of [Ego Orientation](../../../../sign-interpretation/ego-orientation.md)
+## As a language of [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
 
 As a [Dominant Function](../../cognitive-stack/dominant-function.md), Fi leads IFPs to live a life based on empathy and harmony between self and others--and/or to see life as a never-ending conflict between souls that are intrinsically different and opposed. ISFPs typically seek out a space in which they can be completely and spontaneously themselves, following their artistic impulses without regard to social expectation or definition of any sort. Some do their best to live life as a soap opera: creating and living out intense drama wherever they go. INFPs typically seek to _understand_ the world in terms of drama, emotion, and people seeking their own unique callings (perhaps [Garrison Keillor](https://web.archive.org/web/20071014022310/http://greenlightwiki.com/lenore-exegesis/Garrison_Keillor) is a good example of that). Some, like [John Gray](https://web.archive.org/web/20071014022310/http://greenlightwiki.com/lenore-exegesis/John_Gray), attempt to help others understand each other through empathy with each other's differences, and thereby find peace and synergy.
 

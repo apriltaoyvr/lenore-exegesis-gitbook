@@ -29,7 +29,7 @@ From an introverted point of view, you get your bearings by relating the things 
 
 Would it kill you to just ask for directions?
 
-This example uses Si to illustrate introversion--orienting oneself by a vocabulary of stable meanings that you relate tangible things to--but the principle applies to all the [Semiotic Attitudes](semiotic-attitude.md).
+This example uses Si to illustrate introversion--orienting oneself by a vocabulary of stable meanings that you relate tangible things to--but the principle applies to all the [Semiotic Attitudes](../semiotic-attitude/).
 
 ### Introverts and extraverts
 
@@ -51,11 +51,11 @@ This difference shows itself in a common philosophical difference regarding whet
 
 ## A question
 
-_Q._ Doesn't the distinction illustrated above have more to do with the matter of [Sensing ](../fundamentals/function-attitude/perception/sensation/)vs. [iNtuition ](../fundamentals/function-attitude/perception/intuition/)(rather than with [Extraverted/Introverted](broken-reference)) ? isn't it typical of "S" (regardless of whether they are "I" or "E") to have their understanding grounded in "what is easily perceivable here and now"? isn't it characteristic of "N" (be they "EN" or "IN") to "prefer" the more abstract notion of "street as represented by a line on a map" to "street as these buildings and traffic lights and shop signs"?
+_Q._ Doesn't the distinction illustrated above have more to do with the matter of [Sensing ](../../fundamentals/function-attitude/perception/sensation/)vs. [iNtuition ](../../fundamentals/function-attitude/perception/intuition/)(rather than with [Extraverted/Introverted](broken-reference)) ? isn't it typical of "S" (regardless of whether they are "I" or "E") to have their understanding grounded in "what is easily perceivable here and now"? isn't it characteristic of "N" (be they "EN" or "IN") to "prefer" the more abstract notion of "street as represented by a line on a map" to "street as these buildings and traffic lights and shop signs"?
 
 Perhaps, one way to resolve this is to find an IS and an EN and ask them. :)
 
-_A._ The above is a subtle idea, so I can only ask you to read it again. It uses S to illustrate the idea, but don't get confused by the fact that S is being used as the example. I think it would be a lot harder to illustrate with other [function attitudes](../fundamentals/function-attitude/). The key idea is whether you orient yourself by a map (i.e. something self-contained and mental) or by the territory (the real, concrete world, so the meaning cannot be understood by looking at the map alone, and yes, that definitely applies to Ne).
+_A._ The above is a subtle idea, so I can only ask you to read it again. It uses S to illustrate the idea, but don't get confused by the fact that S is being used as the example. I think it would be a lot harder to illustrate with other [function attitudes](../../fundamentals/function-attitude/). The key idea is whether you orient yourself by a map (i.e. something self-contained and mental) or by the territory (the real, concrete world, so the meaning cannot be understood by looking at the map alone, and yes, that definitely applies to Ne).
 
 Regarding asking an IS and an EN, most probably would not be able to answer, or even understand the question, any more than a kitten can explain how it knows who its mommy is. It takes an outside perspective on how one's perspective works to be able to describe it. Indeed, the purpose of this wiki and probably of Lenore's writing is to build up the kind of conceptual vocabulary that enables a person to be able to think of and answer questions of this kind.
 
@@ -65,6 +65,6 @@ Nevertheless, this reasoning must be demonstrable with other function attitudes 
 
 ***
 
-See also: [Semiotic Attitudes](semiotic-attitude.md), [Semiotically Disoriented](https://web.archive.org/web/20070118003350/http://greenlightwiki.com/lenore-exegesis/Semiotically_Disoriented), [Forward-Direction Exegesis](https://web.archive.org/web/20070118003350/http://greenlightwiki.com/lenore-exegesis/Forward-Direction_Exegesis).
+See also: [Semiotic Attitudes](../semiotic-attitude/), [Semiotically Disoriented](https://web.archive.org/web/20070118003350/http://greenlightwiki.com/lenore-exegesis/Semiotically_Disoriented), [Forward-Direction Exegesis](https://web.archive.org/web/20070118003350/http://greenlightwiki.com/lenore-exegesis/Forward-Direction_Exegesis).
 
 \

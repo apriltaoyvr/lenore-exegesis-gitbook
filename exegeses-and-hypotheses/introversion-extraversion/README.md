@@ -3,7 +3,7 @@ description: >-
   A collection of exegeses pertaining to attitudes (introversion and
   extraversion)
 cover: >-
-  https://images.unsplash.com/photo-1712614445439-997f439defd6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8bmlnaHQlMjBkYXl8ZW58MHx8fHwxNzM4MTAyMzIwfDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 

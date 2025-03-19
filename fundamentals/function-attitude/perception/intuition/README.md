@@ -70,9 +70,9 @@ The above is somewhat different than how [Lenore](https://web.archive.org/web/20
 
 ## The attitude of multiple interpretations
 
-Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude.md): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in just one system of relationships, while the sign is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in all.
+Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in just one system of relationships, while the sign is [Embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in all.
 
-When providing [Ego Orientation](../../../../sign-interpretation/ego-orientation.md), Intuition leads people to seek escape from the confines of any given way of making sense of things--to seek a greater, richer, more complex reality "beyond".
+When providing [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md), Intuition leads people to seek escape from the confines of any given way of making sense of things--to seek a greater, richer, more complex reality "beyond".
 
 [Extraverted Intuition](extraverted-intuition.md) leads people to draw upon circumstances themselves to lead them out of their current "box". Instead of trying to escape from your current way of seeing things, you embrace it as far as possible.
 

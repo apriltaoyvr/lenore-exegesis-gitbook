@@ -17,7 +17,7 @@ A saint might intentionally lose at the game in order to get right with God or a
 
 ## Looking at the [Function Attitudes](../../fundamentals/function-attitude/) this way
 
-Here's how people might do [Ego Orientation](../../sign-interpretation/ego-orientation.md) via their [Dominant Function](../../fundamentals/function-attitude/cognitive-stack/dominant-function.md) in this analogy:
+Here's how people might do [Ego Orientation](../../sign-interpretation/orienting/ego-orientation.md) via their [Dominant Function](../../fundamentals/function-attitude/cognitive-stack/dominant-function.md) in this analogy:
 
 Te: Apply strategies whose validity can be traced deductively back to the rules of the game. Exploit ways in which the rules of the game, as applied to the board at present, can combine to force your opponent's next move. It might not be apparent yet how your move will lead to victory, but you can always distinguish between a step toward it and a step away from it. A step toward it is one that constrains future possibilities such that a greater percentage of those possibilities are winners.
 

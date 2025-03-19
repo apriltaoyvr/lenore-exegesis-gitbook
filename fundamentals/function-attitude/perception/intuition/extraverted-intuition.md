@@ -34,7 +34,7 @@ To live, then, you need to continuously welcome the unknown, by always being rea
 
 (Compare [Introverted Sensation](../sensation/introverted-sensation.md), which leads to the exact opposite attitude toward the unknown. Ne says to anchor yourself nowhere, so you can continuously adapt to exploit unknown opportunities; Si says to anchor yourself firmly to what matters regardless of change, in order to keep out the unknown and its attendant, unknowable risks.)
 
-### #3: [Orientation](../../../../sign-interpretation/orienting.md) by searching
+### #3: [Orientation](../../../../sign-interpretation/orienting/) by searching
 
 Ne is curiosity (but of course it's not that simple). Describing it as "looking" isn't deceptive, because Ne as an attitude is one of seeing what's there. The idea is that possibilities are visible in the Ne sense.
 

@@ -17,7 +17,7 @@ Old people, unattractive people, people with plain faces, people who work with f
 
 ## Hypothesis: Se
 
-[Lenore](../people-and-systems/lenore-thomson.md) often seems to make pop culture into the principal source of signs by which [extraverted sensation](../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md) orients.
+[Lenore](../../people-and-systems/lenore-thomson.md) often seems to make pop culture into the principal source of signs by which [extraverted sensation](../../fundamentals/function-attitude/perception/sensation/extraverted-sensation.md) orients.
 
 (p. ???) "The perfect Extraverted Sensate conclusion," describing how, in _Back to the Future,_ people come out looking blow-dried and attractive as proof that everything has worked out.
 

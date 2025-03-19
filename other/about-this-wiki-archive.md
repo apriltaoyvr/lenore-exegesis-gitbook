@@ -8,7 +8,7 @@ description: Archive of the "About This Wiki" page
 
 This wiki is for understanding [Lenore Thomson](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/Lenore_Thomson)'s ideas about [psychological type](https://web.archive.org/web/20071014043137/http://greenlightwiki.com/lenore-exegesis/psychological_type), mostly as described in her book [Personality Type: An Owner's Manual](https://web.archive.org/web/20071014043137/http://www.amazon.com/exec/obidos/ASIN/0877739870/ref=ase_greenlightwik-20), and partly as she's talked about them on various Internet discussion lists.
 
-By [exegesis](../exegesis.md), we do not simply mean "What did Lenore mean?" but rather "What is she talking about?" We don't aim to nail down precisely what is or was in Lenore's head. Rather, we aim to see for ourselves some of the same things that she is seeing and describing. Naturally, each person will see such things in his or her own way.
+By [exegesis](../fundamentals/exegesis.md), we do not simply mean "What did Lenore mean?" but rather "What is she talking about?" We don't aim to nail down precisely what is or was in Lenore's head. Rather, we aim to see for ourselves some of the same things that she is seeing and describing. Naturally, each person will see such things in his or her own way.
 
 The purpose of this wiki is not to settle on any definite interpretation of Lenore's writing, but to learn whatever we happen to learn by trying to articulate Lenore's ideas in our own words and through our own observations, and by watching other people's attempts to do the same. It's inspired by Lance Fletcher's concept of [Slow Reading](https://www.chrisjohnsphd.net/uploads/5/0/2/0/50201359/slow_reading_long.pdf).
 

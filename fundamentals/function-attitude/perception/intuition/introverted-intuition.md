@@ -46,7 +46,7 @@ Introverted Intuition is a way of orienting yourself to your environment by cons
 
 For example, whereas from an [Extraverted Sensation](../sensation/extraverted-sensation.md) perspective, you might feel very impressed upon meeting a man wearing a fancy Italian suit (signs call forth a natural response and need no interpretation); from an Ni perspective, you would consciously say to yourself that he's wearing an Italian suit and this is supposed to make you think he's wealthy or upper-class or really has his act together or something like that, and therefore is supposed to make you feel impressed (signs and what they mean are connected only arbitrarily). Whether he really does have his act together is a matter upon which you reserve judgement. Consequently you don't feel impressed. You merely note the expected interpretation as no less a part of your environment than the suit itself.
 
-Without knowing the expected interpretations of a system--the way signs are interpreted within that system, and the expected responses that make the system work--you can't get [oriented ](../../../../sign-interpretation/orienting.md)via Ni. The expected interpretations must be stabilized and clear to you. _Then_ you can comment from an outside perspective, or see ways to respond to the signs that violate the system's assumptions, or simply know how to operate the thing. First you have to get "outside" it, then you can deal with it. The process of "getting outside it" can take a long time. As you identify expected interpretations, you find yourself uncovering ever more and more hidden assumptions, and you feel the need to distance yourself from those, too, before you get your hands dirty or draw a conclusion.
+Without knowing the expected interpretations of a system--the way signs are interpreted within that system, and the expected responses that make the system work--you can't get [oriented ](../../../../sign-interpretation/orienting/)via Ni. The expected interpretations must be stabilized and clear to you. _Then_ you can comment from an outside perspective, or see ways to respond to the signs that violate the system's assumptions, or simply know how to operate the thing. First you have to get "outside" it, then you can deal with it. The process of "getting outside it" can take a long time. As you identify expected interpretations, you find yourself uncovering ever more and more hidden assumptions, and you feel the need to distance yourself from those, too, before you get your hands dirty or draw a conclusion.
 
 ### #4: Just knowing
 
@@ -64,7 +64,7 @@ _For example:_ Jack Groverland (ENTJ?) preaches to "be still" and just "tune in 
 
 With [extraverted intuition](extraverted-intuition.md), you bypass the socially defined interpretations of signs by broadening the context, and thus relate to other people's ideas in a definite way: you propose something "[outside the box](https://web.archive.org/web/20061116224153/http://greenlightwiki.com/improv/Outside_the_Box)"--the box that other people are thinking in. You expect that other people's minds will be blown, probably pleasantly, inducing a feeling of "wow!" With [introverted intuition](introverted-intuition.md), you also bypass the expected interpretations of signs, but your belief is self-contained, and you have no sense that anyone else would find it interesting or compelling. It came to you, for no reason that you can fathom, and you can't show anyone else any reason why they should take it seriously. The belief might be very specific, too vague for words, or even too specific for words.
 
-[Orienting ](../../../../sign-interpretation/orienting.md)by Ni, you are likely to view belief as something that simply arises within each person when they tune into it. If two people have different beliefs, there is no resolving it. I have my belief and you have yours. End of story. New ideas or evidence seem beside the point. If you think there's a bad moon rising, how could mere "evidence" persuade you otherwise?
+[Orienting ](../../../../sign-interpretation/orienting/)by Ni, you are likely to view belief as something that simply arises within each person when they tune into it. If two people have different beliefs, there is no resolving it. I have my belief and you have yours. End of story. New ideas or evidence seem beside the point. If you think there's a bad moon rising, how could mere "evidence" persuade you otherwise?
 
 #### Lenore doesn't talk much about this
 
@@ -72,7 +72,7 @@ Lenore's writing doesn't emphasize this aspect of Ni. It's hidden in little note
 
 ### #5: Orienting by explicit representation of the mapping between signs and meaning
 
-Ni is orienting yourself by an explicit representation of the mapping between [signs and meaning](../../../../sign-interpretation/semiotic-attitude.md). For example, "This dark-stained mahogany table is supposed to make me think the owner is upper-class" or "We put north at the top of maps (rather than, say, the bottom or the right), because northern countries traditionally had more power, and we perceive 'higher on the page' to mean 'more important'." From an Ni standpoint, one doesn't feel oriented until one can articulate explicitly what are the signs one is supposed to look at and what are the meanings one is supposed to take from them.
+Ni is orienting yourself by an explicit representation of the mapping between [signs and meaning](../../../../sign-interpretation/semiotic-attitude/). For example, "This dark-stained mahogany table is supposed to make me think the owner is upper-class" or "We put north at the top of maps (rather than, say, the bottom or the right), because northern countries traditionally had more power, and we perceive 'higher on the page' to mean 'more important'." From an Ni standpoint, one doesn't feel oriented until one can articulate explicitly what are the signs one is supposed to look at and what are the meanings one is supposed to take from them.
 
 Because the mental space that Ni "lives in" is the world of all possible ways of mapping signs to meanings, Ni leads you to consider not only the accepted ways of mapping signs to meanings, but others. For example, why couldn't dark-stained mahogany mean "lower class"? For example, what if instead of viewing failing a test as an occasion for shame, we viewed it as an occasion for celebration? How might our lives change if we merely rewired the interpretations we are giving to things?
 
@@ -82,7 +82,7 @@ Lenore characterizes Ni as "about the box" as opposed to [Extraverted Intuition]
 
 Ni on this perspective is a decidedly left-brain orientation. It doesn't lead you to flow with anything or even participate. It leads you to stop, get "into your head", and even act in ways that go against the spirit of a system, or to think about ways that going with the spirit of rules can lead to unexpected and undesired results.
 
-In contrast to most other definitions, this one has nothing mysterious or particularly "intuitive" about it. Ni on this definition is simply a matter of looking at things from a "meta" perspective, explicitly characterizing how signs are getting mapped to meanings. This simple definition, combined with the idea of [ego-orientation](../../../../sign-interpretation/ego-orientation.md), explains the many standard observations about NJs and SPs: the "commenting from an outside perspective" usually seen in INJs, the coldly "objective, impersonal" style usually seen in INTJs, the interest in pointing out that social myths exist to support power structures usually seen in INFJs, the interest in gaming a system or throwing a monkey wrench into it usually seen in SPs, the seeking of the social "cat-bird seat" usually seen in ENJs, the endless levels of meta-discussion found in INJ-filled academia, etc.
+In contrast to most other definitions, this one has nothing mysterious or particularly "intuitive" about it. Ni on this definition is simply a matter of looking at things from a "meta" perspective, explicitly characterizing how signs are getting mapped to meanings. This simple definition, combined with the idea of [ego-orientation](../../../../sign-interpretation/orienting/ego-orientation.md), explains the many standard observations about NJs and SPs: the "commenting from an outside perspective" usually seen in INJs, the coldly "objective, impersonal" style usually seen in INTJs, the interest in pointing out that social myths exist to support power structures usually seen in INFJs, the interest in gaming a system or throwing a monkey wrench into it usually seen in SPs, the seeking of the social "cat-bird seat" usually seen in ENJs, the endless levels of meta-discussion found in INJ-filled academia, etc.
 
 ### Definition #6: Transformation in general
 
@@ -106,7 +106,7 @@ This definition is completely clear and precise. And therefore it runs against t
 
 The reason they are not parallel is the same reason that the sea is not parallel. It doesn't mean anything. You can slice the Whole Sort of General Mish Mash any way you like and you will generally come up with something that someone will call home." Taken from Mostly Harmless. I think that explains how Ni does what it does, and it explains it in a Ni way.
 
-## As a language of [Ego Orientation](../../../../sign-interpretation/ego-orientation.md)
+## As a language of [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
 
 As a [Dominant Function](../../cognitive-stack/dominant-function.md), Ni leads INJs to anchor themselves primarily in discovery of and attunement to that "what else"--to seek communion with it for its own sake. INJs are typically concerned with finding an independent and all-encompassing perspective on whatever interests them, so they can see it without bias, without being fooled or led along by ways in which other interests have set things up, and without a merely partial understanding.
 
@@ -120,7 +120,7 @@ Naturally, you can see plenty of dominant-style Ni in ENJs, secondary-style Ni i
 
 ## What do ant pheromones mean?
 
-The following might illustrate [Introverted Intuition](introverted-intuition.md) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude.md).
+The following might illustrate [Introverted Intuition](introverted-intuition.md) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/).
 
 There are certain organisms that live as parasites on ant colonies. They live nearly motionless most of their lives, inside an ant colony. Ants bring them food. Ants just keep on bringing them more and more food, which the parasites eat and eat and eat.
 

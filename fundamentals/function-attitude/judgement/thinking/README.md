@@ -12,7 +12,7 @@ description: >-
 >
 > p. 257: "When we Think, we're either extracting a logical relationship from its material context, turning it into a portable ghost, or we're translating our familiar ghosts into form in some new context."
 
-## As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude.md): A sign locates things in a space
+## As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): A sign locates things in a space
 
 Whatever caused a sign to appear fits somewhere in a space of possibilities. For example, if someone's phone number appears on your caller ID, that sign indicates which phone number, out of the set of all possible phone numbers, is the source of the call. The phone number indicates which person, out of the set of all people, is calling.
 

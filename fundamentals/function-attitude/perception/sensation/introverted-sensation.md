@@ -20,7 +20,7 @@ As a [dominant attitude](../../cognitive-stack/dominant-function.md):
 
 ## Proposed definition #1: You need a map
 
-**Introverted Sensation** (Si) is the attitude that what is manifest (apparent, observable) is overwhelming in its complexity and patternlessness, and that the only way we can find our way through it is with a map. To make our way through the unpredictable, we need to anchor ourselves in some way, to know what, in that vast chaos, to focus on. (See [Orienting](../../../../sign-interpretation/orienting.md).)
+**Introverted Sensation** (Si) is the attitude that what is manifest (apparent, observable) is overwhelming in its complexity and patternlessness, and that the only way we can find our way through it is with a map. To make our way through the unpredictable, we need to anchor ourselves in some way, to know what, in that vast chaos, to focus on. (See [Orienting](../../../../sign-interpretation/orienting/).)
 
 ## Proposed definition #2: The unknown is dangerous, so anchor yourself in the known
 

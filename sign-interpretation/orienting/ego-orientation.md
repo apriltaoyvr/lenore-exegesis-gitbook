@@ -7,7 +7,7 @@ description: >-
 
 # Ego Orientation
 
-We can take any function attitude we like, but a [function attitude](../fundamentals/function-attitude/) that we follow to create a sense of self is to some considerable extent creating us. It's defining our conscious perspective, our understanding of who "I" am and what "I" care about and why "I" am doing what I'm doing.
+We can take any function attitude we like, but a [function attitude](../../fundamentals/function-attitude/) that we follow to create a sense of self is to some considerable extent creating us. It's defining our conscious perspective, our understanding of who "I" am and what "I" care about and why "I" am doing what I'm doing.
 
 _Te:_ What are _my_ goals, _my_ criteria of progress and success? How shall _I_ constrain affairs to ensure that those goals come about?
 
@@ -27,7 +27,7 @@ _Ni:_ What is _my own_ way of seeing things, independent of influences such as o
 
 Relentlessly asking and answering these questions, we form an ego. We eventually believe that the "I" of one of these sentences is what we are, and any other "I" is a threat to our very integrity as a person.
 
-Learning about [function attitudes](../fundamentals/function-attitude/) widens our conscious perspective so that we no longer understand ourselves solely in terms of one of these. When different [function attitudes](../fundamentals/function-attitude/) no longer seem like a threat, we can call widely upon our talents and still maintain personal integrity.
+Learning about [function attitudes](../../fundamentals/function-attitude/) widens our conscious perspective so that we no longer understand ourselves solely in terms of one of these. When different [function attitudes](../../fundamentals/function-attitude/) no longer seem like a threat, we can call widely upon our talents and still maintain personal integrity.
 
 ## An opposing idea?
 
@@ -41,10 +41,10 @@ Ne: What can I contribute to those around me? What skills, ideas and talents do 
 
 Note: These descriptions nearly mirror those above. Highlighting "Me" and "I" doesn't make the statements solely about ego. Highlighting the attributes that each focus on would (ie. in Fe: "Network of obligations", "relationships", etc...), possibly, would need to deconstruct it further.
 
-See [Superego Exegesis](../exegeses-and-hypotheses/superego.md).
+See [Superego Exegesis](../../exegeses-and-hypotheses/superego.md).
 
 #### Against this opposing idea: Terminology clarification
 
-Actually, "me" and "I" above do make the statements at the beginning of this page solely about the ego, because all that's meant by "ego" is your sense of "me" and "I". No doubt some people use the word "ego" to mean other things. Please don't let that distract you from the idea being proposed--which is indeed that "type" as [Lenore](https://web.archive.org/web/20070118003157/http://greenlightwiki.com/lenore-exegesis/Lenore) uses the word has to do strictly with which [function attitudes](../fundamentals/function-attitude/) create a sense of "I".
+Actually, "me" and "I" above do make the statements at the beginning of this page solely about the ego, because all that's meant by "ego" is your sense of "me" and "I". No doubt some people use the word "ego" to mean other things. Please don't let that distract you from the idea being proposed--which is indeed that "type" as [Lenore](https://web.archive.org/web/20070118003157/http://greenlightwiki.com/lenore-exegesis/Lenore) uses the word has to do strictly with which [function attitudes](../../fundamentals/function-attitude/) create a sense of "I".
 
 \

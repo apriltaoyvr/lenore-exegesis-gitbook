@@ -26,9 +26,9 @@ Ni, at least understood in a "[gear-shifting](../exegeses-and-hypotheses/gear-sh
 
 It's no big deal for anyone of any Lenore-type to attend to something in an Ni manner, focusing on the way of seeing rather than the content. The hypothesis of this page is that when you "get" a piece of music, you are indeed consciously attending to a way of seeing; and of course non-INJs are perfectly capable of understanding music.
 
-This might shed some light on the difference between taking a Lenore-attitude and creating a sense of self via a Lenore-attitude, i.e. [ego-orientation](../sign-interpretation/ego-orientation.md). As a [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md) or [secondary function](../fundamentals/function-attitude/cognitive-stack/secondary-function/), Ni would mean holding yourself apart from specific interpretations about real-world matters, viewing any attempt to make a statement about anything as "relative to" the way of seeing that gave rise to it and not really true or false on its own.
+This might shed some light on the difference between taking a Lenore-attitude and creating a sense of self via a Lenore-attitude, i.e. [ego-orientation](../sign-interpretation/orienting/ego-orientation.md). As a [dominant function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md) or [secondary function](../fundamentals/function-attitude/cognitive-stack/secondary-function/), Ni would mean holding yourself apart from specific interpretations about real-world matters, viewing any attempt to make a statement about anything as "relative to" the way of seeing that gave rise to it and not really true or false on its own.
 
-A [dominant function](https://web.archive.org/web/20071014022321/http://greenlightwiki.com/lenore-exegesis/dominant_function) is the attitude through which you understand the _stake_ that you have in things--the concerns that embody _you_ (or at least your ego). Thus dominant Ni would lead a person to consider _detachment_ essential to having a sense of self. Indeed, the sense I get from most INJs is that they consider it unseemly and disgraceful to let loose and be a part of things, where you view your very self as having a stake in concrete events. For example, it would be absurd from a purely Ni style of [ego-orientation](../sign-interpretation/ego-orientation.md) to care one way or the other whether a particular football team wins a particular game.
+A [dominant function](https://web.archive.org/web/20071014022321/http://greenlightwiki.com/lenore-exegesis/dominant_function) is the attitude through which you understand the _stake_ that you have in things--the concerns that embody _you_ (or at least your ego). Thus dominant Ni would lead a person to consider _detachment_ essential to having a sense of self. Indeed, the sense I get from most INJs is that they consider it unseemly and disgraceful to let loose and be a part of things, where you view your very self as having a stake in concrete events. For example, it would be absurd from a purely Ni style of [ego-orientation](../sign-interpretation/orienting/ego-orientation.md) to care one way or the other whether a particular football team wins a particular game.
 
 ### A path to understanding Lenore-types?
 
@@ -36,7 +36,7 @@ This all implies, then, that by noticing what you assent to or find revolting in
 
 The Ni attitude might become especially clear if you think of how you might understand music as having _influence_ on someone. What sort of worldview is transmitted through gangsta rap? Never mind the words, just listen to the sound of it. What worldview are people expressing and propagating to others through rap music? What kind of a culture would that create, if rap music were its primary shared medium of expression--the common worldview in terms of which everyone in that culture formed and shared their experiences and created their sense of self?
 
-As an attitude of [ego-orientation](../sign-interpretation/ego-orientation.md), then, Ni leads you to continually ask this: What is _my own_ way of seeing things, independent of influences such as other people's music, other people's ideas, other people's expectations, my culture, my language, or reality itself?
+As an attitude of [ego-orientation](../sign-interpretation/orienting/ego-orientation.md), then, Ni leads you to continually ask this: What is _my own_ way of seeing things, independent of influences such as other people's music, other people's ideas, other people's expectations, my culture, my language, or reality itself?
 
 \-- [Ben Kovitz](https://web.archive.org/web/20071014022321/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz), sitting here listening to _Debussy's String Quartet_ on KUSC and thinking of the book _Beethoven: His Spiritual Development_ by J.W.N. Sullivan.
 
@@ -64,7 +64,7 @@ _Many extraverts I've spoken to do not use metaphors of invasion or outward impi
 
 _-- Gib Wallis_
 
-## Another hypothesis: All introverted [attitudes](broken-reference) are this way
+## Another hypothesis: All introverted attitudes are this way
 
 Another possibility is that cultivating, attending to, expressing, even describing a "way of seeing" is not distinctively Ni, but distinctively introverted.
 

@@ -38,7 +38,7 @@ As a [Secondary Function](../../cognitive-stack/secondary-function/):
 
 **Introverted thinking** is a form of mental representation in which every input, every variable, every aspect of things is considered simultaneously and holistically to perceive causal, mathematical, and aesthetic order. What you know by Ti, you know with your hands, your eyes, your muscles, even a tingling sensation "downstairs" because you sense that everything fits. Every variable is fair game to vary, every combination of variables worthy of consideration; the only ultimate arbiter is how well the parts form a unified whole rather than a jumble.
 
-[Orienting](../../../../sign-interpretation/orienting.md) by Ti, you track causal harmony: you are part of the system, you do your part to fit in with that overall way that things make sense and harmonize. You get into "the flow" or "the zone". You need a gestalt sense of order to know what to do--a sense that you feel in your body, in your mind, in everything at once. "I get it." Without that, you are lost.
+[Orienting](../../../../sign-interpretation/orienting/) by Ti, you track causal harmony: you are part of the system, you do your part to fit in with that overall way that things make sense and harmonize. You get into "the flow" or "the zone". You need a gestalt sense of order to know what to do--a sense that you feel in your body, in your mind, in everything at once. "I get it." Without that, you are lost.
 
 _For example:_ You hear a Brahms piece that you've never heard before, and you're sure it's Brahms. How can you tell? You can't name a criterion, like the pitch of the notes, the number of notes, or some simply measurable criterion like that (see [extraverted thinking](extraverted-thinking.md)). You know "all at once" because of the way in which the notes all relate to each other. You sense the overall pattern as an indivisible gestalt way in which the music makes sense.
 
@@ -90,11 +90,11 @@ _I'd correct the p. 287 quote to say that by adjusting ourselves to the conditio
 
 Thank you, Michelle! Maybe you'll enjoy the new definition I just added to [Extraverted Intuition](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Extraverted_Intuition). --[Ben Kovitz](https://web.archive.org/web/20071014022326/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
 
-## [Semiotically Disoriented](../../../../semiotically-disoriented.md) in dominant-Ti style
+## [Semiotically Disoriented](../../../../sign-interpretation/semiotic-attitude/semiotically-disoriented.md) in dominant-Ti style
 
 > p. 293: "Unless the man had direct involvement in the unfolding process and could exert some effect on its logical outcome, he didn't know how to relate to it."
 
-## As a Language of [Ego Orientation](../../../../sign-interpretation/ego-orientation.md)
+## As a Language of [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md)
 
 ### As a [Dominant Function](../../cognitive-stack/dominant-function.md)
 

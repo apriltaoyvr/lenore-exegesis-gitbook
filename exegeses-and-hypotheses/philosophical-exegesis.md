@@ -1,8 +1,8 @@
 ---
 description: An exegesis that attempts to highlight the main ideas in Lenore's writing
 cover: >-
-  https://images.unsplash.com/photo-1620424393934-04e772be09f4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxwaGlsb3NvcGhlcnxlbnwwfHx8fDE3MzgwMzc5NjN8MA&ixlib=rb-4.0.3&q=85
-coverY: 191
+  https://images.unsplash.com/photo-1728852575736-d76338d15b76?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxoZXJtaXQlMjBhcnR8ZW58MHx8fHwxNzQyMzQ3OTY4fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Philosophical Exegesis
@@ -13,7 +13,7 @@ For a quicker attempt to cut to the chase, see [Main Propositions](../fundamenta
 
 ## Conflicting ways of assigning meaning
 
-Humans have four fundamental ways of giving consciously understood meaning to what they experience--which we will call "[functions](../fundamentals/function-attitude/)". Each of them can be used in a way that is independent of or grows out of socially accepted beliefs and morals--that is, in an Introverted or an Extraverted [attitude](broken-reference). Each combination of [function](../fundamentals/function-attitude/) + [attitude](broken-reference) provides the vocabulary and ground rules for developing an epistemological and ethical perspective on life. No one of them, however, provides enough for a full life that incorporates all your potential, talents, and callings.
+Humans have four fundamental ways of giving consciously understood meaning to what they experience--which we will call "[functions](../fundamentals/function-attitude/)". Each of them can be used in a way that is independent of or grows out of socially accepted beliefs and morals--that is, in an Introverted or an Extraverted [attitude](broken-reference). Each combination of function + attitude provides the vocabulary and ground rules for developing an epistemological and ethical perspective on life. No one of them, however, provides enough for a full life that incorporates all your potential, talents, and callings.
 
 Each way of assigning meaning leads to very different conclusions in everyday life about what is trustworthy and what is important. It is not possible to develop a coherent, functioning self by holding all of the perspectives in a balanced manner. As people become adults, they usually develop their epistemological[^1] and ethical[^2] perspectives along one pattern of assigning meaning. This is a person's [Dominant Function](../fundamentals/function-attitude/cognitive-stack/dominant-function.md).
 

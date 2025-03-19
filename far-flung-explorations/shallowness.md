@@ -14,7 +14,7 @@ It's easy to put down the shallow concerns of life, but in a way they are what l
 
 The word "shallow" is an interesting choice. We call the above concerns shallow, at least when taken to an extreme, because they involve seeking to display a sign without regard for the meaning of the sign. Making a big salary and driving a fancy car is a sign that you're contributing to your society in some important way, so important that other people are willing to pay lots of money for it. Means of becoming wealthy that don't involve constructive contribution to others' well-being play to the popular perception that money is good, but without the goodness.
 
-[Orienting](../sign-interpretation/orienting.md) by how people instantly perceive a sign is [extraversion](broken-reference). It's [extraversion](broken-reference) taken to an extreme when the publicly accepted meaning of a sign is taken as the only reality, so that displaying those signs (and craftily maneuvering to get to display them) is all there is to life.
+[Orienting](../sign-interpretation/orienting/) by how people instantly perceive a sign is [extraversion](../fundamentals/function-attitude/#extraversion). It's extraversion taken to an extreme when the publicly accepted meaning of a sign is taken as the only reality, so that displaying those signs (and craftily maneuvering to get to display them) is all there is to life.
 
 ## What good is [introversion](https://web.archive.org/web/20080101070322/http://greenlightwiki.com/lenore-exegesis/introversion)?
 

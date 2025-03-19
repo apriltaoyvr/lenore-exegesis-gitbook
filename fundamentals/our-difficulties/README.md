@@ -3,7 +3,7 @@ description: >-
   Here are some of the difficulties that we've had in our attempts to understand
   Lenore Thomson's ideas.
 cover: >-
-  https://images.unsplash.com/photo-1582310849090-1619cba6c7c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxkaWZmaWN1bHR5fGVufDB8fHx8MTczODAzNjI0Mnww&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDIzNDc4NjR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:

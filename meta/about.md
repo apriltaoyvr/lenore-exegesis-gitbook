@@ -1,5 +1,7 @@
 ---
-description: An about page for this site
+description: >-
+  What is the Lenore Exegesis Wiki? Why revive the original Lenore Exegesis
+  Wiki?
 ---
 
 # About
@@ -14,7 +16,7 @@ If you're looking for information about the site you are reading now, it is a re
 
 The format of the site is quite different. This is structured more as a documentation site, but it is designed to be edited, commented upon, etc.
 
-There are liberties taken with the formatting, organisation, and what is archived. Part of it is out of laziness, part of it is a sense that there are better ways to organize the information, part of it is a sense that some things were too specific to the site itself (e.g. the sandbox page), etc. Certain pages are merged into single pages now (e.g. Extraversion and Introversion as [Attitudes](broken-reference)), other pages unarchived as they were quite short (one sentence).&#x20;
+There are liberties taken with the formatting, organisation, and what is archived. Certain pages are merged into single pages now (e.g. **Extraversion** and **Introversion** as [Function-Attitude#Attitudes](../fundamentals/function-attitude/#attitudes)), other pages unarchived as they were quite short (one sentence).&#x20;
 
 I believe it's still within the spirit of the original site itself: it was a wiki, it is meant to be changed and built upon to be as clean and clear as possible. The majority of the text itself is left as is.
 
@@ -30,6 +32,6 @@ The principles of the original [How to Participate Here](../other/how-to-partici
 
 My personal caveat is to avoid idle talk on the pages themselves. This is just to keep things tidy. There is a [discussion board](https://github.com/apriltaoyvr/thomson-exegesis/discussions) available on the Github repo for sharing your thoughts. Adding additional theories, observations, etc. is always welcome on the pages themselves though.
 
-There are likely leftover links that direct to Wayback Machine pages rather than their internal equivalents. If you see leftover _internal_ links like this that have a matching page, please redirect them to the corresponding page. External links (to outside of the wiki) should be left as they are or directed to an appropriate live alternative.&#x20;
+There are likely leftover links that direct to [Wayback Machine](https://web.archive.org/) pages rather than their internal equivalents. If you see leftover internal links that have a matching page, please redirect them to the corresponding page. External links (to outside of the wiki) should be left as they are or directed to an appropriate live alternative.&#x20;
 
 I am currently debating if more personal pages (e.g. author subpages) should be archived on here.

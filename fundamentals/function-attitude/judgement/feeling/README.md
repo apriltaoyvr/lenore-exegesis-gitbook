@@ -14,7 +14,7 @@ This is in the realm of the left brain's selective attention to the things we va
 >
 > p. 320: "\[Functions] operate separately from our emotional system. When we use a function often enough, we’re emotionally invested in the choices it encourages, but this is true of all functions, and it’s not the same thing as acting directly on what we feel"
 
-## Hypothesis: (As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude.md)) Signs are meaningful only insofar as they relate to needs
+## Hypothesis: (As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/)) Signs are meaningful only insofar as they relate to needs
 
 Emotions are the expression of whether a person's needs are being met or not. Signs of emotion are thus the truest and most important signs, because they relate to the most important matters.
 

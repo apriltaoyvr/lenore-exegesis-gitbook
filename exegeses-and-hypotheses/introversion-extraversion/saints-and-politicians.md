@@ -29,7 +29,7 @@ From an introverted perspective, you see things from a timeless perspective that
 
 To put all this another way, extraversion makes you a politician while introversion makes you a saint.
 
-### The [Function Attitudes](../../fundamentals/function-attitude/) seen through this [exegesis](../../exegesis.md)
+### The [Function Attitudes](../../fundamentals/function-attitude/) seen through this [exegesis](../../fundamentals/exegesis.md)
 
 * Se types make a place for themselves in the social arena by creating an attractive image--attractive according to current tastes. Their main tool is impactfulness: sensing what will stand out and get people's attention. If no one sees it or it bores people, why waste a moment of your life on it?
 * Si types hold steady to things that they see as mattering regardless of change or whether anyone regards them as important. For example, sanitation is probably the greatest boon to humanity ever, but it never has nor will ever be glamorous. From the Si perspective, you maintain what needs maintaining because it needs maintaining, not because people admire you for it or even thank you for it.
@@ -42,7 +42,7 @@ To put all this another way, extraversion makes you a politician while introvers
 
 ### [Developing a Secondary Function](../../fundamentals/function-attitude/cognitive-stack/secondary-function/developing-the-secondary.md)
 
-Seen through this [exegesis](../../exegesis.md), Lenore's basic proposition that when you're stuck in life, the answer is found via the Secondary Function, this boils down to:
+Seen through this [exegesis](../../fundamentals/exegesis.md), Lenore's basic proposition that when you're stuck in life, the answer is found via the Secondary Function, this boils down to:
 
 * When politicians are running out of options and don't know what to do, the answer is to become a little bit saintly: to do something for its own sake, without regard for political repercussions. They may well find that the political repercussions of doing the right thing are actually quite good, in addition to reducing anxiety. Saintliness actually enables you to connect with people on a deeper level. There is just no way to understand that until you do it.
 * When saints feel like the world is against them--that bad, powerful people seem to run everything and not give a damn about what's right--the answer is to become a bit of a politician: try doing something that people can perceive and understand and relate to--try bending with the social currents a bit. This might seem like selling out, but it won't be. It's entering an unknown world, where other people's interests and limitations have to be taken into account, and your own part in things is just a tiny part of the totality.
