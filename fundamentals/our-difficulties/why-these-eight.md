@@ -10,4 +10,4 @@ A general answer to the question, "what is this all about, anyway?" seems to be 
 
 The question is, what do these "meaning filters" (a term [Lenore](../../people-and-systems/lenore-thomson.md) herself coined on mailing list) have to do with the examples of behavior in her book? In many cases the link between the meaning filter concept and behavior is clear, but what about others? E.g., what does the manner in which a person fills his trunk with grocery bags reveal about the kind of story his brain is spinning? Is Lenore really dealing with two different subject matters, interesting for different reasons?
 
-Why are there these 8 templates and no others?\
+Why are there these 8 templates and no others? See [Not Cognitive Processes](../../exegeses-and-hypotheses/not-personality/not-cognitive-processes.md) for some hypotheses.\

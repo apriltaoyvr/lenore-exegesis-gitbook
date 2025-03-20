@@ -51,7 +51,7 @@ Negotiation is forcing a choice. You take a position; the other party must accep
 
 ### Different interests
 
-Your interests and those of the other party are not the same. There is some commonality, which you exploit to make a deal, but each of you has different options available to you and different ways of ranking them. In contrast to an [Introverted ](broken-reference)approach, the object of negotiation is not to find a right way of valuing things, which everyone should see and conform to, it's to exploit the existing differences and commonalities between the way you and the other party really value things.
+Your interests and those of the other party are not the same. There is some commonality, which you exploit to make a deal, but each of you has different options available to you and different ways of ranking them. In contrast to an Introverted approach, the object of negotiation is not to find a right way of valuing things, which everyone should see and conform to, it's to exploit the existing differences and commonalities between the way you and the other party really value things.
 
 ***
 

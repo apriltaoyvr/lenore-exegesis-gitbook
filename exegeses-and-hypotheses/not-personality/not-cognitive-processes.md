@@ -1,3 +1,10 @@
+---
+description: >-
+  On this page, we propose that Lenore's concepts, even though they use the
+  exact same names, are subtly but profoundly different from what the phrase
+  "cognitive processes" suggests
+---
+
 # Not Cognitive Processes
 
 In place of [Carl Jung](../../people-and-systems/carl-jung.md)'s "functions" and "orientations", the [Myers-Briggs](../../people-and-systems/myers-briggs.md) world speaks of "mental processes", or, more recently, "cognitive processes".
@@ -61,6 +68,18 @@ See [Type and Sexuality](../../far-flung-explorations/type-and-sexuality/) for a
 And yet there is some important commonality with "cognitive processes" or "gear-shifting" theories. By becoming more conscious of different [function attitude](../../fundamentals/function-attitude/)s, you become more willing to allow non-dominant ones to shape your self-understanding. And some kinds of activities _do_ seem to call forth different [function attitude](../../fundamentals/function-attitude/)s, as illustrated on [How to Experience Different Function-Attitudes](../../far-flung-explorations/how-to-experience-different-function-attitudes.md). By [Lenore](../../people-and-systems/lenore-thomson.md)'s own examples, such as packing a bag of groceries "by eye" instead of by following instructions (to illustrate [introverted thinking](../../fundamentals/function-attitude/judgement/thinking/introverted-thinking.md)), it does seem reasonable to speak of being in one [function attitude](../../fundamentals/function-attitude/) at one time and another [function attitude](../../fundamentals/function-attitude/) at another time, much indeed like shifting gears in a car. It might be particularly valuable to be able to call these things forth to suit different situations.
 
 [Lenore](../../people-and-systems/lenore-thomson.md) doesn't talk about this, but it seems that activities that call forth a certain attitude lead you to develop that attitude. For example, a form of therapy for brutal criminals is to have them grow plants or even stroke a cat. Calling forth [introverted feeling](../../fundamentals/function-attitude/judgement/feeling/introverted-feeling.md), they learn to have empathy for other living things. Regardless of their "type", this kind of experience gives them a new way of seeing themselves and the world. It activates a way of structuring and representing themselves and their environment that they inherited but had lain dormant most of their lives. As it awakens, these prisoners find themselves changing--or rather, becoming more fully themselves. They experience themselves as having something fundamentally in common with all other life, something unconditionally valuable--the developed Fi way of seeing the world.
+
+## Quasi-defining Statements
+
+> It may be noted that a sense of self is a cognitive phenomenon. This is why Jung's theory doesn't traffic in social stereotypes. Rather, it recognizes four cognitive standpoints, which exist in all of us. Jung called these standpoints functions, naming them as [Sensation](../../fundamentals/function-attitude/perception/sensation/), [Intuition](../../fundamentals/function-attitude/perception/intuition/), [Feeling](../../fundamentals/function-attitude/judgement/feeling/), and [Thinking](../../fundamentals/function-attitude/judgement/thinking/). These terms don't refer, in any way, to the entire human psyche. They don't mean senses, imagination, emotion, and intellect.
+>
+> To have a psychological type means that one of these four cognitive standpoints has become habituated. We're less aware of options connected with its opposite, and the other standpoints are subordinated to our dominant one, supporting our goals, or balancing them with information that is less immediately conscious.
+>
+> Although these choices will certainly favor our chemistry, our proclivity to anxiety or aggression, our interests, our fears, and our abilities, they also reflect the expectations of others, the possibilities we recognize or create for ourselves, and the gradual development of our character -- the standards we maintain, even when they \*don't\* favor our immediate affective needs.
+
+Lenore, [What is Psychological Type](https://www.personalitypathways.com/thomson/index.html)?
+
+
 
 ***
 
