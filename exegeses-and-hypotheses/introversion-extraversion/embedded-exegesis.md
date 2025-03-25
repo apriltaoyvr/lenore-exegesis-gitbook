@@ -1,17 +1,15 @@
 ---
 description: >-
-  An attempt to understand how introverted vs extraverted attitudes are embedded
-  in circumstances and perception
+  An exegesis examining introversion and extraversion as judging ideas in the
+  context of circumstance.
 cover: >-
   https://images.unsplash.com/photo-1650530415027-dc9199f473ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxlbWJlZGRlZHxlbnwwfHx8fDE3MzgxMDI5NDZ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Embedded
+# Embedded Exegesis
 
-Introversion and extraversion as judging ideas in the context of circumstance. Circumstance on this page refers to communal belief systems, frameworks of thinking, etc.
-
-Extraverted [function-attitudes](../../fundamentals/function-attitude/) trust in ideas rooted in circumstances and introverted [function-attitudes](../../fundamentals/function-attitude/) are skeptical of ideas rooted in circumstances and vice-versa.
+Extraverted [function-attitudes](../../fundamentals/function-attitude/) trust in ideas rooted in circumstances and introverted [function-attitudes](../../fundamentals/function-attitude/) are skeptical of ideas rooted in circumstances and vice-versa. "Circumstance" in this page refers to extraverted systems.
 
 ## Examples
 

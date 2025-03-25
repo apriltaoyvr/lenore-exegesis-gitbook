@@ -6,5 +6,5 @@ The **Secondary Function** gives extraverts access to something beyond what is i
 
 One of [Lenore](../../../../people-and-systems/lenore-thomson.md)'s [Main Propositions](../../../main-propositions.md) seems to be that the Secondary Function often provides a person's main path of growth, once they've established a definite personality--one strong enough to start running into self-created limitations.&#x20;
 
-Some explorations of how this might work are on [Saints-and-Politicians Exegesis](../../../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians.md), [Place-Your-Stakes Exegesis](../../../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md), and [Checks and Balances](../../../../far-flung-explorations/checks-and-balances.md).
+Some explorations of how this might work are on [Saints-and-Politicians Exegesis](../../../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians-exegesis.md), [Place-Your-Stakes Exegesis](../../../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md), and [Checks and Balances](../../../../far-flung-explorations/checks-and-balances.md).
 

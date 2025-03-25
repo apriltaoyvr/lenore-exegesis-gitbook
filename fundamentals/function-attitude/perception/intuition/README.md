@@ -70,7 +70,7 @@ The above is somewhat different than how [Lenore](../../../../people-and-systems
 
 ## The attitude of multiple interpretations
 
-Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in just one system of relationships, while the sign is [embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded.md) in all.
+Here's another possible characterization of [Intuition](./) as a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): no interpretation can possibly capture the full meaning of a sign; any given interpretation is [embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded-exegesis.md) in just one system of relationships, while the sign is [embedded](../../../../exegeses-and-hypotheses/introversion-extraversion/embedded-exegesis.md) in all.
 
 When providing [Ego Orientation](../../../../sign-interpretation/orienting/ego-orientation.md), Intuition leads people to seek escape from the confines of any given way of making sense of things--to seek a greater, richer, more complex reality "beyond".
 

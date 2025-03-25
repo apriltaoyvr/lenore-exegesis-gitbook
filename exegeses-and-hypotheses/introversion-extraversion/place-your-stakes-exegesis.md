@@ -1,11 +1,13 @@
 ---
-description: Introversion and extraversion as where we place our stake in the world
+description: >-
+  An exegesis examining introversion and extraversion as where we place our
+  stake in the world
 cover: >-
   https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxwbGFjZSUyMHlvdXIlMjBzdGFrZXN8ZW58MHx8fHwxNzM4MDM3Mzg4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Place-Your-Stakes
+# Place-Your-Stakes Exegesis
 
 ## Where is your stake in things?
 
@@ -28,7 +30,7 @@ And perhaps from an introverted standpoint, your stake in things is not defined 
 * For extraverted functions, finding things in the world to have a stake in, learning how to achieve them, and getting involved in the give-and-take of achieving them.
 * For introverted functions, becoming aware of something that matters to you, a calling, that could be realized in an infinity of possible ways.
 
-This suggests that [Developing A Function](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#developing-a-function) is vastly more complex and difficult than [Gear-shifting Theories](../gear-shifting.md) would suggest. It's not a matter of learning a skill or heuristic but of acquiring a consciously understood _stake_ in something. In the case of introversion, [Developing A Function](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#developing-a-function) would consist of _recognizing_ your interest in living in a kind of [State Of Grace](place-your-stakes.md#state-of-grace) regardless of any particular circumstance in which you happen to be involved. In the case of extraversion, [Developing A Function](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#developing-a-function) would mean _seeing yourself_ as having a stake in the world beyond your internal state, having to choose among and respond to worldly matters.
+This suggests that [Developing A Function](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#developing-a-function) is vastly more complex and difficult than [Gear-shifting Theories](../gear-shifting.md) would suggest. It's not a matter of learning a skill or heuristic but of acquiring a consciously understood _stake_ in something. In the case of introversion, [Developing A Function](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#developing-a-function) would consist of _recognizing_ your interest in living in a kind of [State Of Grace](place-your-stakes-exegesis.md#state-of-grace) regardless of any particular circumstance in which you happen to be involved. In the case of extraversion, [Developing A Function](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#developing-a-function) would mean _seeing yourself_ as having a stake in the world beyond your internal state, having to choose among and respond to worldly matters.
 
 ## State Of Grace
 
@@ -36,7 +38,7 @@ This suggests that [Developing A Function](../../fundamentals/our-difficulties/t
 
 To be an introvert, perhaps, is to be [Oriented](../../sign-interpretation/orienting/) primarily by your sense of a "state of grace": a certain way of being and responding.
 
-Extraverts can understand and appreciate this, too, but they are primarily [Oriented](../../sign-interpretation/orienting/) by worldly callings. Extraverts are often in a better position to preach the value of a [State Of Grace](place-your-stakes.md#state-of-grace), because they understand it primarily from a perspective outside it, and they must engage in conscious effort to choose it.
+Extraverts can understand and appreciate this, too, but they are primarily [Oriented](../../sign-interpretation/orienting/) by worldly callings. Extraverts are often in a better position to preach the value of a [State Of Grace](place-your-stakes-exegesis.md#state-of-grace), because they understand it primarily from a perspective outside it, and they must engage in conscious effort to choose it.
 
 Introverts find that they need to take worldly matters seriously, though, or their state of grace becomes hollow.
 

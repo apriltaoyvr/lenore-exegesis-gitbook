@@ -24,14 +24,16 @@ In [Lenore'](../../people-and-systems/lenore-thomson.md)s system, there are four
 * [Thinking](judgement/thinking/)
 * [Feeling](judgement/feeling/)
 
-These are commonly grouped into **Perception** (Sensation and Intuition) and **Judgment** (Thinking and Feeling) within [Jungian ](../../people-and-systems/carl-jung.md)typology. **Irrational** and **rational** are used respectively as well, albeit differently than common utilisation.
+These are commonly grouped into [**Perception**](perception/) (Sensation and Intuition) and [**Judgment**](judgement/) (Thinking and Feeling) within [Jungian ](../../people-and-systems/carl-jung.md)typology. **Irrational** and **rational** are used respectively as well, albeit [differently than common utilisation](../our-difficulties/terms-with-nonobvious-meanings.md#rational-and-irrational).
 
 | Perception/Irrational | Judgment/Rational |
 | --------------------- | ----------------- |
 | Sensation             | Thinking          |
 | Intuition             | Feeling           |
 
-See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md) for more information on why this may be.
+
+
+See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language-exegesis.md) for more information on why this may be.
 
 ## Attitudes
 
@@ -41,21 +43,29 @@ Some hypotheses on what introverted and extraverted mean are:
 
 * [Orienting](../../sign-interpretation/orienting/)
 * [Introversion-Extraversion Exegeses](../../exegeses-and-hypotheses/introversion-extraversion/)
-  * [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language.md)
-  * [Cocooning-vs.-Conforming Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md)
-  * [Game-Board Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/game-board.md)
-  * [Negotiation Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/negotiation.md)
-  * [Saints-and-Politicians Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians.md)
-  * [Place-Your-Stakes Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md)
+  * [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language-exegesis.md)
+  * [Cocooning-vs.-Conforming Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming-exegesis.md)
+  * [Game-Board Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/game-board-exegesis.md)
+  * [Negotiation Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/negotiation-exegesis.md)
+  * [Saints-and-Politicians Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians-exegesis.md)
+  * [Place-Your-Stakes Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md)
 * [Philosophical Exegesis](../../exegeses-and-hypotheses/philosophical-exegesis.md)
 * [Forward-Direction Exegesis](../../exegeses-and-hypotheses/forward-direction.md)
 * [Shallowness](../../far-flung-explorations/shallowness.md)
 
-***
+### Introversion
+
+> _p. 131 "Introverted cultures, such as the ones that exist in some of the asian countries, generally provide a kind of ritualized Extraverted vocabulary, whose use conveys the proper social attitude without compromising individual privacy."_
+
+_There is a very small chance that my country is an Introverted society, despite being a western society. How do I know? --Michelini_
+
+_I think there have been psychological surveys of populations (meaning, freshman psych 101 college students) in different countries measuring introversion and extraversion. In general, an "introverted society" will have a majority introverted population, and an "extraverted society" will have a majority extraverted population. You could check what psych research has been done in your country. --Anonymous_
 
 ### Extraversion
 
 > W.H Auden's poem [The Unknown Citizen](https://poets.org/poem/unknown-citizen) describes someone's life completely in extraverted terms.&#x20;
+
+See also [Negotiation Basics](../../exegeses-and-hypotheses/introversion-extraversion/negotiation-exegesis.md#negotiation-basics) for another angle on exploring extraversion.
 
 ## Function-attitudes
 

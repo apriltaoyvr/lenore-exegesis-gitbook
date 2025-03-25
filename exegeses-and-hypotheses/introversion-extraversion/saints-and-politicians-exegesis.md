@@ -1,5 +1,7 @@
 ---
-description: Introversion and extraversion as being inside or outsider of a social arena
+description: >-
+  An exegesis examining introversion and extraversion as being inside or
+  outsider of a social arena
 cover: >-
   https://images.unsplash.com/photo-1621861018612-c74d31276217?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzYWludHxlbnwwfHx8fDE3MzgwMzc4ODh8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -19,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Saints-and-Politicians
+# Saints-and-Politicians Exegesis
 
 ## Saints and Politicians
 

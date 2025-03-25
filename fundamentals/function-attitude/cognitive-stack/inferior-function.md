@@ -4,7 +4,7 @@ In [Lenore](../../../people-and-systems/lenore-thomson.md)'s theory, the **infer
 
 One of Lenore's [Main Propositions](../../main-propositions.md) is that you can't solve those sorts of problems by developing your inferior function directly. She says that the path to consciously incorporating these neglected elements of yourself is through your [Secondary Function](secondary-function/).
 
-See [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md) for an exploration of how and why pressure from the Inferior Function happens.
+See [Place-Your-Stakes Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md) for an exploration of how and why pressure from the Inferior Function happens.
 
 ## Interpretations and Readings
 
@@ -50,4 +50,4 @@ In his descriptions of [Introverted Thinking](../judgement/thinking/introverted-
 
 See Taxi Driver.
 
-And then see [Function Attitude](../), [Terms With Nonobvious Meanings](../../our-difficulties/terms-with-nonobvious-meanings.md), [Cocooning-vs.-Conforming Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming.md).
+And then see [Function Attitude](../), [Terms With Nonobvious Meanings](../../our-difficulties/terms-with-nonobvious-meanings.md), [Cocooning-vs.-Conforming Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming-exegesis.md).

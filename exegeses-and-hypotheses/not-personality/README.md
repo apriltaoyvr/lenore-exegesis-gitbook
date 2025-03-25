@@ -17,22 +17,22 @@ Calm, high-strung, resilient, sharp-tongued, epicurean, libertine, cautious, mel
 
 Lenore's [Main Propositions](../../fundamentals/main-propositions.md) and [Function Attitudes](../../fundamentals/function-attitude/) have almost nothing to do with any of this. In Lenore's writing, there is seldom even a mention of typical personality words.
 
-So this page proposes that Lenore is not talking about personality types--despite the title of her book! She's talking about one very thin sliver of the totality of personality: which of a set of conflicting "meaning filters" tends to win the conflicts in interpreting your experience and creating a sense of self. There is no contradiction between most personality-describing terms and any given Lenore-four-letter code. For example, there can be calm ISTJs as well as high-strung ISTJs.
+So this page proposes that [Lenore](../../people-and-systems/lenore-thomson.md) is not talking about personality types--despite the title of her book! She's talking about one very thin sliver of the totality of personality: which of a set of conflicting "meaning filters" tends to win the conflicts in interpreting your experience and creating a sense of self. There is no contradiction between most personality-describing terms and any given Lenore-four-letter code. For example, there can be calm ISTJs as well as high-strung ISTJs.
 
 This should hardly come as a surprise. There are only 16 four-letter codes, and we all know how extraordinarily varied people are.
 
 Furthermore, everyone actually has _all_ of the above attributes--potentially if not occasionally. If you are an idealistic person, you are probably also pragmatic in some ways. If you are quiet most of the time, there are probably times when you are loud. The most trustful person is no doubt capable of the most extreme degrees of suspiciousness.
 
-Something unusual about Lenore's writing, compared to most writing about personality, is that it focuses squarely on people's real complexity, including their ability to have opposite attributes even while holding to a complex and ever-refining consistency. Lenore's main idea is not to fit people into categories of behavior, needs, or talents, but to describe ways in which people cut themselves off from and regain access to their full spectrum of ways of thinking and behaving, and why it's necessary to do that.
+Something unusual about [Lenore](../../people-and-systems/lenore-thomson.md)'s writing, compared to most writing about personality, is that it focuses squarely on people's real complexity, including their ability to have opposite attributes even while holding to a complex and ever-refining consistency. [Lenore](../../people-and-systems/lenore-thomson.md)'s main idea is not to fit people into categories of behavior, needs, or talents, but to describe ways in which people cut themselves off from and regain access to their full spectrum of ways of thinking and behaving, and why it's necessary to do that.
 
-#### Quasi-defining Statements
+### Quasi-defining Statements
 
 > I don't believe that type refers to a person's innate personality characteristics. It isn't the causal source of a person's needs or the behaviors designed to meet them.\
 > Rather, type is the outcome of habituated choices -- our accustomed orientation to incoming information.
 
 Lenore, [What is Psychological Type?](https://www.personalitypathways.com/thomson/index.html)
 
-### Then what _is_ [Lenore](../../people-and-systems/lenore-thomson.md) saying?
+## Then what _is_ [Lenore](../../people-and-systems/lenore-thomson.md) saying?
 
 Alas, it's tough to pin that down. Hence an entire wiki devoted to Lenore-[exegesis](../../fundamentals/exegesis.md).
 
@@ -40,11 +40,11 @@ For some overall attempts, see:
 
 * [Main Propositions](../../fundamentals/main-propositions.md)
 * [Parliament of Attitudes](../parliament-of-attitudes.md)
-* All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../introversion-extraversion/cocooning-vs.-conforming.md) and [Truth-and-Language ](../introversion-extraversion/truth-and-language.md)Exegesis.
+* All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../introversion-extraversion/cocooning-vs.-conforming-exegesis.md) and [Truth-and-Language Exegesis](../introversion-extraversion/truth-and-language-exegesis.md).
 
 ***
 
-See also: [Beyond Personality](beyond-personality.md), [Ecclesiastes 3:1-8](https://web.archive.org/web/20051119065129/http://www.blueletterbible.org/cgi-bin/tools/printer-friendly.pl?book=Ecc\&chapter=3\&startv=1\&endv=8\&version=kjv\&Go.x=33\&Go.y=12)\
+See also: [Beyond Personality](beyond-personality.md), [Ecclesiastes 3:1-8](https://www.biblegateway.com/passage/?search=Ecclesiastes%203%3A1-8\&version=NIV)\
 \
 \
 \

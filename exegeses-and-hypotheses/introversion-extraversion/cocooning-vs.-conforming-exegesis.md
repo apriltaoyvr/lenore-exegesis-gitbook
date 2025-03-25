@@ -1,13 +1,13 @@
 ---
 description: >-
-  Introversion and extraversion in the context of private and public
-  environments
+  An exegesis examining introversion and extraversion in the context of private
+  and public environments
 cover: >-
   https://images.unsplash.com/photo-1470107355970-2ace9f20ab15?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxjb2Nvb24lMjBidXR0ZXJmbHl8ZW58MHx8fHwxNzM4MDM3MzU5fDA&ixlib=rb-4.0.3&q=85
 coverY: -4
 ---
 
-# Cocooning-vs.-Conforming
+# Cocooning-vs.-Conforming Exegesis
 
 ## Cocooning vs. conforming
 

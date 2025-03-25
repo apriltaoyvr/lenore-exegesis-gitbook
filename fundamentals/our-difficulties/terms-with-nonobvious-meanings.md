@@ -13,10 +13,19 @@ Some of us find terms in Lenore's book difficult to attach a clear meaning to. S
   * [Thinking](../function-attitude/judgement/thinking/)
 * [Function Attitudes](../function-attitude/)
 * [Extroversion and Introversion](../../exegeses-and-hypotheses/introversion-extraversion/)
+* Objective and Subjective
 * Rational and Irrational
 * Developing a function
 * Logical Probabilities
 * Imaginal
+
+## Objective and Subjective
+
+What does Lenore mean when she says "objective" or "subjective"?
+
+### Quasi-defining statement&#xD;
+
+> p. 176: "By subjective I mean that a person's ideas about what matters are unique to himself or herself."
 
 ## Rational and Irrational
 
@@ -28,7 +37,7 @@ Presumably she is not using the [terms in their everyday, loose meanings](../../
 
 [Carl Jung](../../people-and-systems/carl-jung.md) defines these terms in _Psychological Types_, roughly, as follows. First, the genus of rationality and irrationality in their primary sense (as Jung thinks of them) is attributes of real-world phenomena. In other words, rationality and irrationality are not primarily attributes of mind or attitude, but attributes of things in the world. Rational things are those that behave lawfully. Their behavior is capable of being explained by a common principle. Irrational things are those that have to be taken as a given, without explanation or underlying principle.
 
-For example, the way things fall under the influence of gravity is rational, because there is a law that explains it. The distribution of nickel ore in the Earth is not rational: it's scattered randomly over the Earth, the result of meteorite impacts that have come without pattern or guiding cause. (View Stephen Wolfram's [A New Kind of Science](https://web.archive.org/web/20050421215713/http://www.wolframscience.com/))
+For example, the way things fall under the influence of gravity is rational, because there is a law that explains it. The distribution of nickel ore in the Earth is not rational: it's scattered randomly over the Earth, the result of meteorite impacts that have come without pattern or guiding cause. (View Stephen Wolfram's [A New Kind of Science](https://www.wolframscience.com/nks/))
 
 Secondarily, then, a rational _attitude_ is one that orients by laws, and an irrational attitude is one that simply takes each new thing independently. A rational attitude tends to _derive_ its conclusions by applying laws or principles to irrational data. Its conclusions are always indirect: mediated by principle in some way. An irrational attitude lacks a derived aspect: what seems to be true via an irrational attitude simply seems to be true, with no possibility for doubt or explanation.
 
@@ -59,11 +68,11 @@ From an N perspective, the _appearance_ of continuity in things results only fro
 
 A great frustration of the book, though, is that she gives only the barest hints of what that means.
 
-The [Saints-and-Politicians Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians.md) explores one idea for what it means to develop the [Secondary Function](../function-attitude/cognitive-stack/secondary-function/). [Place-Your-Stakes Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes.md) explores another.
+The [Saints-and-Politicians Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians-exegesis.md) explores one idea for what it means to develop the [Secondary Function](../function-attitude/cognitive-stack/secondary-function/). [Place-Your-Stakes Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md) explores another.
 
 ### In terms of negotiation
 
-If, as described on [Negotiation Basics](https://web.archive.org/web/20060620054644/http://greenlightwiki.com/lenore-exegesis/Negotiation_Basics) and [Negotiation Exegesis](https://web.archive.org/web/20060620054644/http://greenlightwiki.com/lenore-exegesis/Negotiation_Exegesis), extraversion is seeing things in terms of negotiation, perhaps developing an extraverted [Function Attitude](https://web.archive.org/web/20060620054644/http://greenlightwiki.com/lenore-exegesis/Function_Attitude) means doing things to improve your bargaining position. That would mean things like finding out what's available, finding out what people are interested in, finding contacts to bring you information about opportunities, and cultivating skills to make yourself marketable.
+If, as described on [Negotiation Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/negotiation-exegesis.md), extraversion is seeing things in terms of negotiation, perhaps developing an extraverted [Function Attitude](https://web.archive.org/web/20060620054644/http://greenlightwiki.com/lenore-exegesis/Function_Attitude) means doing things to improve your bargaining position. That would mean things like finding out what's available, finding out what people are interested in, finding contacts to bring you information about opportunities, and cultivating skills to make yourself marketable.
 
 Then what would it mean to develop introversion, though?
 
