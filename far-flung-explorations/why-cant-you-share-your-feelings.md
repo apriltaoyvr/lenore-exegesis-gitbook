@@ -1,3 +1,7 @@
+---
+description: Some types struggle to share their feelings more than others. Why is that?
+---
+
 # Why Can't You Share Your Feelings
 
 From an INFJ's ode to her INTP husband:

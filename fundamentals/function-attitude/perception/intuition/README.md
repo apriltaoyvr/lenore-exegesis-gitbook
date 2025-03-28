@@ -9,6 +9,9 @@ description: >-
 ## Quasi-defining statements
 
 > p. 196: "Intuition draws our attention to context and we adapt to sensory events in terms of it."
+>
+> p. 230: ENPs, as right-brain types, understand objects in terms of their larger context. They picture an integrated "whole" in which diverse people or diverse views are perfectly integrated a global village, a unified theory, a consolidation of disciplines, a mind-body-spirit connection.> \
+> The left-brain INJs understand context as a mental phenomenon, something that people bring to the outer world from within. Thus, they don't see "wholeness" as an integrated endpoint. Wholeness, for INJs, is the chaotic beginning-raw sensory input without meaning.
 
 ## As a [Semiotic Attitude](../../../../sign-interpretation/semiotic-attitude/): A sign means everything that caused it
 

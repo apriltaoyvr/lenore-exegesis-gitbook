@@ -1,3 +1,7 @@
+---
+description: What does political correctness mean in Lenore's terms?
+---
+
 # Political Correctness
 
 Hypothesis: [Lenore Thomson](../people-and-systems/lenore-thomson.md)'s theory explains "politically correct" speech codes and intolerance and the like as [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) gone wild, trying to move into the [extraverted](../fundamentals/function-attitude/#attitudes) arena as a basis of social agreement—where it can't possibly work.

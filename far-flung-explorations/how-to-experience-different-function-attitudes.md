@@ -1,5 +1,5 @@
 ---
-description: A way to "get it"
+description: Exercises for experiencing the mental state of different function-attitudes
 ---
 
 # How to Experience Different Function-Attitudes
