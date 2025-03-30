@@ -1,3 +1,9 @@
+---
+description: >-
+  The temptation to explain problems to ourselves in terms of an attitude
+  opposite to our secondary function.
+---
+
 # Tertiary Temptation
 
 The temptation, when we feel pressure from our [Inferior Function](../inferior-function.md), to explain our problems to ourselves in terms of an attitude opposite to our [Secondary Function](../secondary-function/). This supports the self-understanding of our [Dominant Function](../dominant-function.md) in Extraverted or Introverted terms, whichever we are most accustomed to. This cognitive move doesn't lead us to address the real problems, which would require a more genuine change in perspective; it does, however, restore an inner sense of harmony.
@@ -29,3 +35,100 @@ Tertiary Ne: "Ok, then, I'll bluff. We'll see how he responds to that. I don't k
 Tertiary Te: "Unfair!! I have to stick to my guns, I will not be bullied or cheated. Any number of authorities agree with me. All my friends agree with me. Everyone can see that my response is directly mandated by the situation: anything else would be irresponsible. These facts absolutely settle the matter, and there is no point in looking at it any further." The [Secondary Function](../secondary-function/) would say: "Fair or not, reasonable or not, recognized by anyone or not, what would truly accomplish some good here?"
 
 Tertiary Fe: "I'll lay a guilt trip on this guy, tell him all I've done for him and suggest that the next time he's in a tough spot, he might need my help. Well, hmm, ok, I'll be all friendly. I'll smile, tell him I like him, what a great guy he is. Well, hmm, that's not working, either. Ok, I'll make him look bad in the eyes of his friends." The [Secondary Function](../secondary-function/) would say: "What is the truth? Not what people would agree is true, not an angle on the truth for making it palatable to someone, but the whole, honest truth?"
+
+## Conversation
+
+I have to admit, I've had a problem with this whole 'tertiary temptation' section for a long time. What's written above seems to imply that this hypothetical IS\_P SHOULD imitate cool people, because that's how ISFPs navigate the social world, period...or something like that. Is that what you're trying to tell readers? This whole page has a \*golden-straightjacket\* feel that's incredibly uncomfortable, I mean you haven't even explained what is so bad about all of these supposedly immature tertiary 'defenses'.
+
+\-- Someone
+
+Here's an idea: Maybe secondary Se is not a matter of "imitating the cool people", but just dealing with the present situation as it is, with whatever means are available right now, doing whatever will work right now. That might involve imitating cool people, deliberately making an impression by doing the opposite of what the cool people do, or something completely unrelated.
+
+Another idea: Maybe the main point of [Lenore](https://web.archive.org/web/20111125074132/http://greenlightwiki.com/lenore-exegesis/Lenore)'s ideas is that the "straightjacket" feeling results from a false dichotomy due to seeing things in terms of the dominant attitude, the "tertiary temptation" is a way of digging oneself deeper into that dichotomy, and the secondary attitude provides a way out, but it's not a way out that you can really comprehend until you actually try it.
+
+One more: [Lenore](https://web.archive.org/web/20111125074132/http://greenlightwiki.com/lenore-exegesis/Lenore) seems to suggest that these intra-psychic struggles just happen, and there's not much you can do about it. So maybe when following the tertiary temptation digs you into a deep enough hole, eventually a person turns to the secondary, not deliberately or thoughtfully, but simply because no other options are left. It might not even be possible to control this process.
+
+\-- [Ben Kovitz](https://web.archive.org/web/20111125074132/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
+
+The idea is that all types use either an extraverted or an introverted function to form their sense of self. But everybody has to deal with both extraverted and introverted issues in the long run. This is hard and frightening, so the tertiary kicks in. It gives the main function a justification to stay locked in an extraverted or introverted approach. This page simply tries to summarise some of the possible argument of the tertiary and the secondary.
+
+Anyway, the whole point of following Se as a secondary is to free yourself. It shouldn't feel like a straightjacket. You aren't following a system of rules when you use Se, hell no, you acknowledge your part in the system and how your actions affect the whole. Then you are free to respond to last minute information quickly and free because you see how it relates to all the other information.
+
+You are right in that feeling of following popular culture, thought. America's popular culture happens to be Se based. I can trace it back as far as Walt Whitman, but it probably had an strong Se component from it's beginning. But other cultures favor other functions. England seems Fe to me, as does Italy. On the other hand, Brazil clearly favors Se and yet what they define as cool isn't what americans define as cool. It overlaps a lot, but not that much. I hope I've been helpful. :P Sorry for my clumsy english.
+
+\-- Someone else
+
+Interesting about Walt Whitman. Could you give an example or two of Walt Whitman pushing an Se orientation?
+
+\-- [Ben Kovitz](https://web.archive.org/web/20111125074132/http://greenlightwiki.com/lenore-exegesis/Ben_Kovitz)
+
+I don't think I would be of any more help than a quick search on the internet. He was extremely influential in America, he preached about being in touch with one's body, how the part is undistiguishable from the whole, a pretty obvious Se preacher. My guess is that he was an SFP. You could read ["Song of Myself"](https://en.wikisource.org/wiki/Leaves_of_Grass_\(1882\)/Song_of_Myself) it gets very Se very quickly.
+
+\-- Someone else
+
+## Examples
+
+### The Shy INTP
+
+Here is one way the Tertiary Temptation might affect INTPs.
+
+Due to having Ti as his [dominant function](../dominant-function.md), the INTP tends to live introspectively, engaged in introverted activities that allow him to ponder the causal order of the universe. However, at some point in his life, his inferior Fe will cause him to desire to interact with others and change his standing with them. For example, he might get tired of being seen as a "nerd" or a "geek." Or he may want people to acknowledge his intelligence and listen to all his interesting ideas. He will be frustrated that people seem to assign status based on Fe and Se values such as popularity and "coolness," because these appear illogical and irrelevant from the standpoint of Ti. However, his inferior Fe is too weak to engage in the social games that people play, so it cannot fulfill its goals under its own steam.
+
+Dominant Ti alone cannot solve the INTP's social difficulties; in fact, it leads the INTP to turn up his nose at the seemingly idiotic social world. He will claim that he doesn't _know how_ to socialize ("knowing how" is usually a tipoff of Ti). Tertiary Si will affirm this attitude, by convincing the INTP that trying to socialize would surely end in disaster, because he doesn't have any kind of roadmap to navigate the arbitrary social world with. Or maybe his Ti will lead him to take a highly judgmental attitude that people _just don't work the way they should._ From the standpoint of the disgruntled INTP, people seem weak, irrational, and emotional, with no stomach for the **"truth"**. He will tell you all the ways in which the current social system is dysfunctional, and how should it be resigned to fit some better underlying principles (see [Saints-and-Politicians Exegesis](../../../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians-exegesis.md) for reasons why introverts often take attitudes like this). In this case, his Si will tempt him into only associating with people he feels safe with, and who won't challenge his overly introverted attitude. He will think "most people have absolutely no clue, so I need to find the few people who do and stick with them." The INTP's inferior Fe might falsely believe that only associating with like-minded people is the solution to his social difficulties, so he may embrace the labels of "nerd" or "geek" (or even "INTP") and act out those roles.
+
+In short, his Ti and Si keep him [semiotically disoriented](../../../../sign-interpretation/semiotic-attitude/semiotically-disoriented.md) and unable to relate to the extraverted social world.
+
+Without Ne, the INTP will believe that he will be totally lost (Si) in the social world, because he doesn't understand _how it works_ (Ti). Even when he tries to socialize in this mindset, he will feel he never has anything to say. This feeling of helplessness and "analysis paralysis" is due to his semiotic disorientation. When he does say something, he will be careful not to rock the boat (Si), because he feels he doesn't _know how_ to socialize (Ti), and wants to hide this fact from others to avoid incurring a negative reputation (inferior Fe). For instance, he might take on the role of a "nice guy" to avoid the stigma of "nerd." Ironically, such fear to express his personality might make others believe he is boring and antisocial, and contribute to the negative reputation he developed in the first place! In the end, he will fall back on the areas of life where he "knows what he is doing." These areas will usually be his old introverted activities, so he is back to square one.
+
+To summarize, Fe goals tend to get the INTP's Ti/Si into a [semiotically disoriented](../../../../sign-interpretation/semiotic-attitude/semiotically-disoriented.md) muddle that leaves him no method of relating to the task at hand.
+
+**Enter:** [**Extraverted Intuition**](../../perception/intuition/extraverted-intuition.md)**...**
+
+Ne offers the INTP another perspective that can help with his social difficulties. It will encourage him to improvise, experiment, and attune himself to the world of possibilities in social interaction. He will be witty, unique, and say whatever nobody else thought of. Furthermore, through his Ne creativity and experimentation, his Ti will be able to able to figure out the underlying principles behind socializing. During social interaction, the Ne can reign free, and the Ti can analyze everything afterwards when it won't interfere. Thus, the Ti is brought back on board and has a way of constructively relating to the task. When the Ti manifests itself to help an INTP figure out how people tick, it is helping him meet his Fe goals. Fundamentally, Ne frames the social world as a place of exciting new possibilities just waiting to be understood, providing the Ti with a way of semiotically [orienting](../../../../sign-interpretation/orienting/) itself to those goals.
+
+Contrast the hyper-introverted attitudes of Ti + Si with the more extraverted attitudes of Ti + Ne. "I need to stay in control of everything to be sure it comes out right" vs. "I'll take my chances in the wider world and deal with whatever comes up":\
+
+
+* _Ti + Si (+ inferior Fe):_ "People's customs about [political correctness](../../../../far-flung-explorations/political-correctness.md) are so arbitrary, I have no hope of understanding them: every guess about how I should behave is just a shot in the dark... It's best to just play it safe with people, because if I mess up, they will just think I'm a nerd with no social skills."
+* _Ti + Ne:_ "Maybe I don't understand customs and etiquette _yet_. Maybe I will never understand them. I don't need to understand them, because I will respond dynamically to any situation that unfolds before me. The boring smile-and-say-customary-things approach doesn't work for me, but I can try something outrageous that people have never seen before, and see what that opens up. Maybe it will bring me to the attention of people who can appreciate what I've got to offer, maybe it will get me a black eye, maybe something I can't even anticipate. Only one way to find out!"
+* _Ti + Si:_ "Most people have no clue how the universe works, so I need to stick with the few who do. I would just get bogged down explaining basic concepts in some moronic set of terms to people who will just misunderstand everything and foul it up anyway. ."
+* _Ti + Ne:_ "If I limit my social circle to a few fellow misanthropes, I will never go anywhere in the world. When in public or with a stranger, I can try putting some small idea on the table--just a tiny piece of the whole picture, just enough to excite people's imagination. It'll start something. People will have no choice but to deal with it. They'll want to deal with it because it relates to their existing interests. I'll be fairly sure of that because I'll sniff out what those interests are. People will start having fun with the idea in their own way, going beyond what I can imagine."
+
+Thus, Ne allows the INTP to place his stakes in the extraverted world. See [Place-Your-Stakes Exegesis](../../../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md).
+
+Ne, as a way to expand outward into the world rather than as a way to gather fuel for more Ti analysis, leads you to "plant seeds" of potential: to add something new to what's going on that opens up the potential for something not entirely known to happen--but something where there are real stakes. It leads you to choose your seeds to fit the existing social arena, and to collect tangible winnings when a seed bears fruit.
+
+See [George Costanza](https://web.archive.org/web/20111125074132/http://greenlightwiki.com/lenore-exegesis/George_Costanza).
+
+I agree this helps with social aspects of the INTP but it doesn't seem concrete enough to really help with other problems. When you look at the ISTP their [auxiliary](../secondary-function/) [extraverted sensing](../../perception/sensation/extraverted-sensation.md) provides concrete examples of what to do while Ne is too abstract to handle day to day problems such as doing homework, doing chores, etc that they might encounter.
+
+Note: This idea has been confirmed by at least one INTP who has stumbled across the site. "If I didn't have strong Ne, I WOULD be socially inept, and I almost mistook myself for an ENTP until I realized how closely Ti fit, and how many of the social interactions I partook in involved teaching something obscure to someone."
+
+### INFP
+
+With this analysis in mind, it is easy to see how the tertiary temptation affects INFPs also (this might happen when the Te pressures the INFP to stop dreaming and get some results).
+
+* _Fi + Si:_ "I must proceed cautiously into the unknown, or I will just mess up and feel like crap!"
+* _Fi + Ne:_ "I will just improvise until I find a way to connect to this person. If we don't have anything to offer one another, I'll just move on and play with someone else."
+* _Fi + Si (+ inferior Te):_ "If I fail, that'll only prove that I'm not practical, I don't know what I'm talking about, and I can't deliver on what I promise."
+* _Fi + Ne:_ "If I fail, I'll learn something: it'll give me fuel to be creative and think of something new, that probably only I could think of. There's nothing like a difficulty with real stakes involved to spur my creativity!"
+
+**Can the Dominant and Inferior Functions live in harmony?**
+
+This leads to the interesting idea that perhaps the [dominant function](../dominant-function.md) and the [inferior function](../inferior-function.md) can be friends after all when the [secondary function](../secondary-function/) allows them to join hands. Most of the clashes between your dominant and inferior functions occur because the childish needs of the inferior function cause you to become semiotically disoriented. However, if you can use your secondary function to re-orient yourself, then maybe these clashes need not be so bad. See Developing a Function.
+
+### The Distant and Pure INTJ
+
+I have been thinking about this for a bit and using the above pattern I created the following few bits. Please comment.
+
+* _Ni + Fi + (inferior Se):_ "People do things to satisfy their own bodily needs. They're loud and are trying to get the attention of other people. They're trying to be cool by wearing certain clothes and styling their hair, just like everybody else. I'm not cool, so I shouldn't try. They are mindless and do whatever they want. They don't care about important things. I can't take part in that, because it would be wrong. If they want to do that, they should. I don't, it wouldn't be me."
+
+"You people are styling your hair, buying new clothes, drinking, f\*cking, eating and watching TV, indulging every whim and desire. Meanwhile there are important things going on in the world and I know about them. I however can't explain why it's important or what we need to change. So I will retreat and think about it some more until I can."
+
+* _Ni + Te:_ "Maybe I'm not cool or practical or down-to-earth in a physical way. Maybe I will know what that is. But I don't need to know, because I can set goals and achieve them. Find ways to relate my ideas to the real world by creating experiments and see how they work. I can commit to my ideas and make them real, so other people can see themselves that they're practical, that they work (or don't)."
+
+"I can start with an idea and experiment to find out if it works, then commit to it and use it to improve the world. My commitment and real world examples will make people feel confident in my abilities and it help them see a better world. Maybe it works, maybe it doesn't. Failure is also a result."\
+
+
+* _Ni + Fi + (inferior Se):_ "People just don't see what is really there. I could pressure them in believing this vision, but that wouldn't be me. It doesn't feel right. So I don't do it. I just set there and think how things could be."
+* _Ni + Te:_ "If I stay in here and don't do things, I will never get to see my ideas working in the real world. I need to get out there and experiment, commit to my working ideas and rethink or scrap the ones that don't work. If I can make a small part of an idea work in the real world then I'm a little further than I was."

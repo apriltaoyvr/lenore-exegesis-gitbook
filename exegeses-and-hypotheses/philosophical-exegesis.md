@@ -1,7 +1,7 @@
 ---
 description: An exegesis that attempts to highlight the main ideas in Lenore's writing
 cover: >-
-  https://images.unsplash.com/photo-1728852575736-d76338d15b76?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxoZXJtaXQlMjBhcnR8ZW58MHx8fHwxNzQyMzQ3OTY4fDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1600430188203-bbb8dac79646?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHx0YXJvdHxlbnwwfHx8fDE3NDMzMTkzOTh8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 

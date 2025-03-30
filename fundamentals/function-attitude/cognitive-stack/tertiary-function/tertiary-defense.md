@@ -1,3 +1,10 @@
+---
+description: >-
+  When a person's dominant attitude is challenged, they typically resort to
+  their "tertiary function" for moral justification of the doomed course they
+  are on.
+---
+
 # Tertiary Defense
 
 > p. 94: "If we don't turn to our secondary function at this point--that is, if we insist on doing what we've always done--we eventually reach a point where our water-skiing tertiary takes over the ship. Our tertiary function has been coasting on our dominant momentum for a long time, and that arrangement is now in jeopardy. So this function frantically climbs aboard, tosses the secondary function over the side, and insists that we get out of this mess at any cost."
