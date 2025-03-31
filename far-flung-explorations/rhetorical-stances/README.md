@@ -13,7 +13,7 @@ This page attempts to describes the common rhetorical stances that people take. 
 Examples of Rhetorical Stances
 
 * [King on the Mountain](../king-on-the-mountain.md): a dogmatic [Te](../../fundamentals/function-attitude/judgement/thinking/extraverted-thinking.md) stance
-* You can't make me look: a dogmatic [Ni](../../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) stance
+* [You can't make me look](../you-cant-make-me-look.md): a dogmatic [Ni](../../fundamentals/function-attitude/perception/intuition/introverted-intuition.md) stance
 
 _Other possibilities_
 

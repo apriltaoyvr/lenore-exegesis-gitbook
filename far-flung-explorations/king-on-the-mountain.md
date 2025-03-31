@@ -1,3 +1,10 @@
+---
+description: >-
+  In the King-on-the-Mountain style of conversation, one person (the King) makes
+  a provocative statement, and requires that others refute it or admit to being
+  wrong.
+---
+
 # King on the Mountain
 
 ## A style of conversation

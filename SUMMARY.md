@@ -75,6 +75,7 @@
 * [Checks and Balances](far-flung-explorations/checks-and-balances.md)
 * [Shallowness](far-flung-explorations/shallowness.md)
 * [King on the Mountain](far-flung-explorations/king-on-the-mountain.md)
+* [You can't make me look](far-flung-explorations/you-cant-make-me-look.md)
 * [Lowest-Common-Denominator Logic](far-flung-explorations/lowest-common-denominator-logic.md)
 * [Intuition and Personal Development](far-flung-explorations/intuition-and-personal-development.md)
 * [Introverted Intuition and the Meaning of Music](far-flung-explorations/introverted-intuition-and-the-meaning-of-music.md)
