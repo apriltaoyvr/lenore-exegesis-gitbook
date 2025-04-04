@@ -22,7 +22,7 @@ When we hear a great piece of classical music, we find ourselves wondering, "How
 
 ### [Introverted Intuition](../fundamentals/function-attitude/perception/intuition/introverted-intuition.md)
 
-Ni, at least understood in a "[gear-shifting](../exegeses-and-hypotheses/gear-shifting.md)" way, would be attending not to the real-world content of an idea but to the "way of seeing" that gave rise to it. Music would thus be the ultimate Ni playground: a medium in which one refers _only_ to ways of seeing, completely on their own, massively incommensurable terms, and avoids all matters of external, real-world content.
+Ni, at least understood in a "[gear-shifting](../exegeses-and-hypotheses/gear-shifting-exegesis.md)" way, would be attending not to the real-world content of an idea but to the "way of seeing" that gave rise to it. Music would thus be the ultimate Ni playground: a medium in which one refers _only_ to ways of seeing, completely on their own, massively incommensurable terms, and avoids all matters of external, real-world content.
 
 It's no big deal for anyone of any Lenore-type to attend to something in an Ni manner, focusing on the way of seeing rather than the content. The hypothesis of this page is that when you "get" a piece of music, you are indeed consciously attending to a way of seeing; and of course non-INJs are perfectly capable of understanding music.
 

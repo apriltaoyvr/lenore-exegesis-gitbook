@@ -40,7 +40,7 @@ For some overall attempts, see:
 
 * [Main Propositions](../../fundamentals/main-propositions.md)
 * [Parliament of Attitudes](../parliament-of-attitudes.md)
-* All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../introversion-extraversion/cocooning-vs.-conforming-exegesis.md) and [Truth-and-Language Exegesis](../introversion-extraversion/truth-and-language-exegesis.md).
+* All the exegeses listed, especially [Cocooning-vs.-Conforming Exegesis](../introversion-extraversion/cocooning-vs.-conforming-exegesis.md) and [Truth-and-Language Exegesis](../truth-and-language-exegesis.md).
 
 ***
 

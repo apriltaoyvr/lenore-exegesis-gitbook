@@ -13,7 +13,7 @@ coverY: 0
 
 Extraversion is focused on the the external (what is outside of the self), the "other" and [Objective](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective). Introversion is an attitude oriented inwards, towards the self and its [Subjective ](../../fundamentals/our-difficulties/terms-with-nonobvious-meanings.md#objective-and-subjective)ideals.&#x20;
 
-### [Truth and Language](truth-and-language-exegesis.md)
+### [Truth and Language](../truth-and-language-exegesis.md)
 
 <table><thead><tr><th width="136"></th><th>Introversion</th><th>Extraversion</th></tr></thead><tbody><tr><td><a href="../../fundamentals/function-attitude/judgement/">Judgement</a></td><td>Truth and language reflect a choice: a choice of what you consider worth focusing on, or where your values, concerns, and cognitive capabilities lie</td><td>Truth is strictly a matter of management</td></tr><tr><td><a href="../../fundamentals/function-attitude/perception/">Perception</a></td><td>Truth is having your mind attuned to reality--attuned to some "essence" that gives things unity and continuity</td><td>Truth and what statements refer to are capable of constant change as circumstances change or as more becomes revealed to you</td></tr></tbody></table>
 

@@ -65,6 +65,6 @@ Nevertheless, this reasoning must be demonstrable with other function attitudes 
 
 ***
 
-See also: [Semiotic Attitudes](../semiotic-attitude/), [Semiotically Disoriented](../semiotic-attitude/semiotically-disoriented.md), [Forward-Direction Exegesis](../../exegeses-and-hypotheses/forward-direction.md).
+See also: [Semiotic Attitudes](../semiotic-attitude/), [Semiotically Disoriented](../semiotic-attitude/semiotically-disoriented.md), [Forward-Direction Exegesis](../../exegeses-and-hypotheses/forward-direction-exegesis.md).
 
 \

@@ -33,7 +33,7 @@ These are commonly grouped into [**Perception**](perception/) (Sensation and Int
 
 
 
-See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language-exegesis.md) for more information on why this may be.
+See [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/truth-and-language-exegesis.md) for more information on why this may be.
 
 ## Attitudes
 
@@ -43,14 +43,14 @@ Some hypotheses on what introverted and extraverted mean are:
 
 * [Orienting](../../sign-interpretation/orienting/)
 * [Introversion-Extraversion Exegeses](../../exegeses-and-hypotheses/introversion-extraversion/)
-  * [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language-exegesis.md)
+  * [Truth-and-Language Exegesis](../../exegeses-and-hypotheses/truth-and-language-exegesis.md)
   * [Cocooning-vs.-Conforming Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming-exegesis.md)
   * [Game-Board Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/game-board-exegesis.md)
   * [Negotiation Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/negotiation-exegesis.md)
   * [Saints-and-Politicians Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians-exegesis.md)
   * [Place-Your-Stakes Exegesis](../../exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md)
 * [Philosophical Exegesis](../../exegeses-and-hypotheses/philosophical-exegesis.md)
-* [Forward-Direction Exegesis](../../exegeses-and-hypotheses/forward-direction.md)
+* [Forward-Direction Exegesis](../../exegeses-and-hypotheses/forward-direction-exegesis.md)
 * [Shallowness](../../far-flung-explorations/shallowness.md)
 
 ### Introversion

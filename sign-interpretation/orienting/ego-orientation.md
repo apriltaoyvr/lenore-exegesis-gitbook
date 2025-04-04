@@ -41,7 +41,7 @@ Ne: What can I contribute to those around me? What skills, ideas and talents do 
 
 Note: These descriptions nearly mirror those above. Highlighting "Me" and "I" doesn't make the statements solely about ego. Highlighting the attributes that each focus on would (ie. in Fe: "Network of obligations", "relationships", etc...), possibly, would need to deconstruct it further.
 
-See [Superego Exegesis](../../exegeses-and-hypotheses/superego.md).
+See [Superego Exegesis](../../exegeses-and-hypotheses/superego-exegesis.md).
 
 #### Against this opposing idea: Terminology clarification
 

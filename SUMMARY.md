@@ -39,23 +39,23 @@
 
 ## exegeses and hypotheses
 
-* [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
 * [Not Personality](exegeses-and-hypotheses/not-personality/README.md)
   * [Not Cognitive Processes](exegeses-and-hypotheses/not-personality/not-cognitive-processes.md)
   * [Beyond Personality](exegeses-and-hypotheses/not-personality/beyond-personality.md)
   * [Investments vs. Essence](exegeses-and-hypotheses/not-personality/investments-vs.-essence.md)
 * [Introversion-Extraversion](exegeses-and-hypotheses/introversion-extraversion/README.md)
-  * [Truth-and-Language Exegesis](exegeses-and-hypotheses/introversion-extraversion/truth-and-language-exegesis.md)
   * [Cocooning-vs.-Conforming Exegesis](exegeses-and-hypotheses/introversion-extraversion/cocooning-vs.-conforming-exegesis.md)
   * [Game-board Exegesis](exegeses-and-hypotheses/introversion-extraversion/game-board-exegesis.md)
   * [Negotiation Exegesis](exegeses-and-hypotheses/introversion-extraversion/negotiation-exegesis.md)
   * [Saints-and-Politicians Exegesis](exegeses-and-hypotheses/introversion-extraversion/saints-and-politicians-exegesis.md)
   * [Place-Your-Stakes Exegesis](exegeses-and-hypotheses/introversion-extraversion/place-your-stakes-exegesis.md)
   * [Embedded Exegesis](exegeses-and-hypotheses/introversion-extraversion/embedded-exegesis.md)
+* [Philosophical Exegesis](exegeses-and-hypotheses/philosophical-exegesis.md)
+* [Truth-and-Language Exegesis](exegeses-and-hypotheses/truth-and-language-exegesis.md)
 * [Parliament of Attitudes](exegeses-and-hypotheses/parliament-of-attitudes.md)
-* [Forward-Direction](exegeses-and-hypotheses/forward-direction.md)
-* [Gear-Shifting](exegeses-and-hypotheses/gear-shifting.md)
-* [Superego](exegeses-and-hypotheses/superego.md)
+* [Forward-Direction Exegesis](exegeses-and-hypotheses/forward-direction-exegesis.md)
+* [Gear-Shifting Exegesis](exegeses-and-hypotheses/gear-shifting-exegesis.md)
+* [Superego Exegesis](exegeses-and-hypotheses/superego-exegesis.md)
 
 ## Sign interpretation
 

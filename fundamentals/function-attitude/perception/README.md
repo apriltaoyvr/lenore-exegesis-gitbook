@@ -6,7 +6,7 @@ description: A page for the perception attitudes (Sensation and Intuition)
 
 _Perception attitudes_ are irrational attitudes. In other words, they govern seeing concepts as what they are ([Sensation](sensation/)) and what they could be ([Intuition](intuition/)).&#x20;
 
-See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/introversion-extraversion/truth-and-language-exegesis.md).
+See [Truth-and-Language Exegesis](../../../exegeses-and-hypotheses/truth-and-language-exegesis.md).
 
 ## Extraverted Perception
 
